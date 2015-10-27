@@ -1,0 +1,22 @@
+---
+layout: page
+title: "Movies"
+description: "I've seen, good and bad"
+header-img: "img/about-bg.jpg"
+---
+
+<p><strong>Basic Example</strong></p>
+<div id="divRss"></div>
+
+<link href="/css/FeedEk.css" rel="stylesheet" type="text/css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/FeedEk.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#divRss').FeedEk({
+            FeedUrl: 'http://rss.imdb.com/list/ls072050509/',
+
+        });
+    });
+
+</script>
