@@ -1,15 +1,20 @@
 # Site settings
-title: Clean Blog
+title: Miguel Gamboa
 header-img: img/home-bg.jpg
 email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Miguel Gamboa web site"
 #baseurl: "/startbootstrap-clean-blog-jekyll"
 #url: "http://yourdomain.com"
 baseurl: ""
 url: ""
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+twitter_username: gamboacarvalho
+github_username:  fmcarvalho
+facebook_username:  gamboacarvalho
+linkedin_username:  gamboacarvalho
+instagram_username:  gamboacarvalho
+imdb_username:  ls072050509
+stackoverflow_username: users/1140754/miguel-gamboa
+citations_username: HldfYegAAAAJ
 
 # Build settings
 markdown: kramdown
