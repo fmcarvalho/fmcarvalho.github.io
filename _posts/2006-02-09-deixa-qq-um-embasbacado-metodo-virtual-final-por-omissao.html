@@ -1,0 +1,31 @@
+---
+layout: post
+title: Deixa qq um embasbacado! Método virtual final por omissão!
+date: 2006-02-09 18:37:13.000000000 +00:00
+type: post
+published: true
+status: publish
+categories:
+- Tecnologias
+tags: []
+meta:
+  spaces_3b4c7ab08b2559d7e6deed6ee4bb7aaa_permalink: http://cid-bdfcf232da5f8179.users.api.live.net/Users(-4756660806184107655)/Blogs('BDFCF232DA5F8179!102')/Entries('BDFCF232DA5F8179!171')?authkey=hSbGhYtz7bY%24
+author:
+  login: fmcarvalho
+  email: mcarvalho@cc.isel.ipl.pt
+  display_name: fmcarvalho
+  first_name: ''
+  last_name: ''
+---
+<div id="msgcns!BDFCF232DA5F8179!171" class="bvMsg">
+<div>Passado cerca de 5 anos (talvez mais, desculpem se me enganei) de ver os meus mentores do .NET a estudar dedicada e afincadamente (como nunca vi ninguém) a plataforma .NET, eis que os vejo embasbacados com algo que desconheciam. Passo a explicar no contexto da linguagem C#:</div>
+<ol>
+<li>Imaginem uma interface I que especifica um método m(). O método m() no âmbito da interface I é virtual. </li>
+<li>Uma classe A implementa I e define o método m(). O método m() continua a ser virtual, independentemente de se indicar <strong><font face="Courier New">virtual </font></strong>explicitamente na declaração do método .</li>
+<li>Uma classe B estende a classe A e quer redefinir o método m(). Bhaaa.... Aqui embasbacamos. O compilador reclama que este método não é virtual, logo não pode ser redefinido (<strong><font face="Courier New">override</font></strong>). porquê?</li>
+</ol>
+<p>Vamos ver a definição em IL do método m() em A e vemos que ele é virtual. Mas tem lá mais qualquer coisa... <font face="Courier New, Courier, Monospace"><strong>final</strong></font>. Isto impede a sua redefinição em B. Correcto.</p>
+<p>A mensagem de erro do compilador deixou-nos baralhados, por dizer que o método m() não é virtual. Quando sabíamos que ele teria que ser obrigatoriamente virtual, por ser especificado por uma interface.</p>
+<p>Só quando indicamos explicitamente <strong><font face="Courier New">virtual </font></strong>na definição de m() na classe A é que este não é <strong><font face="Courier New">final</font></strong>. Mas porque é que a linguagem C# obriga a isto?</p>
+<p><strong>A mim só me causa transtorno</strong>. Cada vez que quero implementar uma interface da plataforma .NET, não posso aproveitar parte da implementação de uma classe, porque também não consigo redefinir os métodos que quero.<img src="{{ site.baseurl }}/assets/smile_baringteeth.gif" /></p>
+</div>

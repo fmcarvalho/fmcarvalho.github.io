@@ -1,0 +1,47 @@
+---
+layout: post
+title: Silverlight - o sentido do WPF
+date: 2007-06-26 12:45:55.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Computadores e Internet
+tags: []
+meta:
+  spaces_3b4c7ab08b2559d7e6deed6ee4bb7aaa_permalink: http://cid-bdfcf232da5f8179.users.api.live.net/Users(-4756660806184107655)/Blogs('BDFCF232DA5F8179!102')/Entries('BDFCF232DA5F8179!829')?authkey=hSbGhYtz7bY%24
+  _oembed_5906ae65399a1302566b7307ccd19218: "{{unknown}}"
+  _oembed_52a9474afeb48101528db5738fe9798d: "{{unknown}}"
+author:
+  login: fmcarvalho
+  email: mcarvalho@cc.isel.ipl.pt
+  display_name: fmcarvalho
+  first_name: ''
+  last_name: ''
+---
+<div id="msgcns!BDFCF232DA5F8179!829" class="bvMsg">
+<div>Mas quando é que irei efectivamente precisar de desenvolver em WPF? Acredito que será este o sentido da próxima geração de UI (user interfaces), mas ninguém explica porquê? O Silverlight esclarece o porquê.</div>
+<div> </div>
+<div>O WPF é um subsistema da plataforma .Net 3.0 para construção de rich UI, que oferece um mundo de novas funcionalidades relativamente ao seu antecessor Windows Forms, entre as quais se destacam media, gráficos vectoriais, modelo de rendering 3D, etc (<a href="http://wpf.netfx3.com/">http://wpf.netfx3.com/</a>). </div>
+<div> </div>
+<div>Além das novas funcionalidades o WPF vincula a metodologia de programação que separa a UI do code-behind, introduzindo a linguagem XAML para codificação da UI. Esta abordagem já era seguida em Windows Forms e ASP .Net, mas sem a codificação em XAML.</div>
+<div> </div>
+<div>No meio de tudo isto e de todas as palestras que ouvi no <strong><em>TechDays 2007 </em></strong>nunca vi verdadeiramente expressa a razão pela qual o WPF será a opção de eleição no desenvolvimento de rich UI? Ou dito de outra forma, o que levará programadores experientes em Windows Forms a optar pelo WPF no desenvolvimento das suas aplicações?</div>
+<div> </div>
+<div>Há uns anos atrás a opção por Windows Forms era clara. Oferecia um ambiente <em>managed</em> para desenvolvimento de GUI, com todas as mais valias que o AVE (ambiente virtual de execução) oferecia como os serviços de runtime (garbage collector, excepções, reflexão, etc), controlo de versões, execução segura, componentes auto-descritos, etc. </div>
+<div> </div>
+<div>Agora em relação ao WPF o mesmo não acontece, até porque o AVE é o mesmo do Windows Forms. Sendo assim aponto aqui aquelas que me parecem <strong>NÃO </strong>SER RAZÕES para a opção pelo WPF:<br />- Porque tem mais potencialidades que o Windows Forms;<br />- Porque o Windows Forms será descontinuado;<br />- Porque é parte intrínseca do WinFX;<br />- Porque permite visualizar o Star Wars num botão;<br />- Porque está na moda.</div>
+<div> </div>
+<div>Vi em WPF todo o tipo de demonstrações do mais espalhafatoso que se possa imaginar. Via botões a brilhar e a rodopiar. Botões com “smiles” que abrem e fecham os olhos. Botões de todas as formas e feitios. Quanto mais bonecada via, mais eu pensava: “mas qual é a aplicação em que eu vou ter necessidade de fazer isto?”</div>
+<div> </div>
+<div>Finalmente em Abril de 2007 com a apresentação oficial do Silverlight (<a href="http://silverlight.net/">http://silverlight.net/</a>) encontro a reposta ao principal sentido do WPF. O Silverlight é um plug-in cross-browser, auto-suficiente (não dependente de terceiros produtos como Windows Media Player, ou Framework .Net 3.0) que inclui um subconjunto lightweight das funcionalidades do WPF. Faz o render de XAML, expondo o seu DOM e modelo de eventos de forma programável em JavaScript.</div>
+<div> </div>
+<div>O que é que isto quer dizer? Imaginem uma aplicação desktop com a sua UI codificada em XAML e o code-behind com os handlers de eventos codificado em C#. Imaginem agora que necessitam da mesma aplicação, com a mesma UI implementada para ambiente web. O ideal seria aproveitar a mesma UI XAML para a aplicação web. É isto que o Silverlight oferece. O Silverlight permite construir uma aplicação web em qualquer tecnologia aproveitando uma UI codificada em XAML.</div>
+<div> </div>
+<div>Então e o code-behind? Existem várias possibilidades. Mas na perspectiva mais simples o XAML poderá ser usado tal e qual como DHTML com processamento do lado do cliente (browser) usando JavaScript. O DOM da árvore de elementos XAML é acessível em JavaScript, bem como a API do WPF. </div>
+<div> </div>
+<div>Em suma o WPF oferece um paradigma de programação que isola a definição da UI (em XAML) do code-behind, <strong>de forma consistente aos modelos de programação desktop e web e por isso será o paradigma de programação de eleição</strong>.</div>
+<div> </div>
+<div>Concluindo, houve uma aposta clara na transparência e desde a 1ª release que o Silverlight corre em múltiplos ambientes incluindo os browsers Firefox e Safari sobre o Mac OS X, e também o Firefox e IE sobre o Windows. Destaca-se ainda a independência de terceiros produtos, incluindo o CLR (máquina virtual .Net). Por fim é impressionante que este plug-in seja distribuído num setup de instalação de apenas 4Mb. Por tudo isto parece-me que o WPF e Silverlight serão uma aposta ganha.</div>
+<div> </div>
+</div>

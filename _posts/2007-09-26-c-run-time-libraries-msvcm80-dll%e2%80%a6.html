@@ -1,0 +1,67 @@
+---
+layout: post
+title: C++ Run-Time Libraries - msvcm80.dll,…
+date: 2007-09-26 21:47:18.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Computadores e Internet
+tags: []
+meta:
+  spaces_3b4c7ab08b2559d7e6deed6ee4bb7aaa_permalink: http://cid-bdfcf232da5f8179.users.api.live.net/Users(-4756660806184107655)/Blogs('BDFCF232DA5F8179!102')/Entries('BDFCF232DA5F8179!997')?authkey=hSbGhYtz7bY%24
+  _oembed_2f34a18297671ad2ce91852b058566f1: "{{unknown}}"
+author:
+  login: fmcarvalho
+  email: mcarvalho@cc.isel.ipl.pt
+  display_name: fmcarvalho
+  first_name: ''
+  last_name: ''
+---
+<div id="msgcns!BDFCF232DA5F8179!997" class="bvMsg">
+<div><span lang="PT" style="font-size:8.5pt;"><br />
+</span>
+<p style="margin:0;"><span style="font-size:8.5pt;">I would like to view the instance address on a .net application developed on C# programming language. For a value type instance (unboxed) I can see its address using the follow statement:</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;font-family:'Courier New';">fixed( void* p = &amp;pt)&#123;Console.WriteLine(“Address: &#123;0&#125;”, (IntPtr) p));&#125;</span><span style="font-size:8.5pt;"></span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">(Consider pt a value type variable)</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">However for a reference type instance I can’t apply the same solution in C#. Using C++ programming language it’s easy, so I developed a new component with that functionality, called AddrInspector. To use that component in C#, I had to compile AddrInspector for a managed environment using /clr option on C++ compiler.</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">This way I get a solution to see the address of any instance, but when I run my application and AddrInspector, I get the follow exception:</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">Unhandled Exception: System.IO.FileNotFoundException: The specified module could not be found. (Exception from HRESULT: 0x8007007E)</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">“<b>module could not be found...</b>” Ok, it seems like something is missing. Looking for a solution on Web I get this link </span><span lang="PT" style="font-size:8.5pt;"><a href="http://msdn2.microsoft.com/en-us/library/abx4dbyh(VS.80).aspx"><span lang="EN-US"><u><font color="#800080">http://msdn2.microsoft.com/en-us/library/abx4dbyh(VS.80).aspx</font></u></span></a></span><span style="font-size:8.5pt;">:</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;">&lt;&lt; </span></p>
+<p style="margin:0;"><b><span style="font-size:8.5pt;">C Run-Time Libraries<span>  </span></span></b></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">This topic discusses the various .lib files that comprise the C run-time libraries as well as their associated compiler options and preprocessor directives. …</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">&gt;&gt; </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">Some lines bellow I can read that /clr option on C++ compiler will require msvcm80.dll. This scenario applies when “Used for mixed managed/native code”. Ok, that</span><span lang="PT" style="font-size:8.5pt;">’s </span><span style="font-size:8.5pt;">right</span><span lang="PT" style="font-size:8.5pt;">.</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">After confirming that dll doesn’t exist on my machine, I start looking where I can get it! So, I find this nice link saying:</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">&lt;&lt; </span></p>
+<p style="margin:0;"><b><span style="font-size:8.5pt;">Microsoft Visual C++ 2005 Redistributable Package (x86)</span></b></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">The Microsoft Visual C++ 2005 Redistributable Package (x86) installs runtime components of Visual C++ Libraries required to run applications developed with Visual C++ …</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;">&gt;&gt; </span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">The scope is fine and it’s referred on many sites as the solution for this problem. But the reality is different. The installation process doesn’t work very well and block the msci.exe process.</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">It could be just a problem of my machine, but the behavior was the same when I try it on a colleague’s machine.</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">Without setup I have to used the old fashion way. I get the DLL on VS2005 DVDs. After copy it I used the traditional regsrv32 to registry the DLL. This time I get the error: “<b>Registering DLL failed, No entry point found</b>”. Second try: I put the DLLs on well known PATH. But it doesn’t work too. </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">Ok, let’s start from the beginning. I ran Orcas (beta version of Visual Studio 2008) setup again and try to find if something is missing. That’s everything installed, including the C++ Run-Time Libraries. So what the hell is missing?</span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">So, I start looking again for all DLLs on Orcas destination folder and this time something calls my attention. Why two folders: </span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;">- C:\Program Files\Microsoft Visual Studio 8\VC\</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;">- C:\Program Files\Microsoft Visual Studio 9.0\VC\</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">On VS2005 there was just the first one. Probably the 9.0 is related with the new version VS2008/Orcas? And probably the msvcm80.dll now is called msvcm<b>90</b>.dll. Gotcha, there it is the msvcm<b>90</b>.dll on:</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;">C:\Program Files\Microsoft Visual Studio 9.0\VC\redist\x86\Microsoft.VC90.CRT</span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">Ok, let’s try to registry this one with regsrv32. Bah, the same error again: “<b>Registering DLL failed, No entry point found</b>”. </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;"> </span></p>
+<p style="margin:0;"><span style="font-size:8.5pt;">2nd try, let’s copy it to a well known PATH. <span style="font-size:8.5pt;font-family:Verdana;">YES, this time the application and AddrInspector works as expected. </span>Is just lost a complete afternoon. </span></p>
+<p style="margin:0;"><span lang="PT" style="font-size:8.5pt;"></span></p>
+</div>
+</div>

@@ -1,0 +1,95 @@
+---
+layout: post
+title: '"There are times when the CLR will not call a value type''s static type constructor"'
+date: 2008-05-15 16:03:59.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: []
+tags: []
+meta:
+  spaces_3b4c7ab08b2559d7e6deed6ee4bb7aaa_permalink: http://cid-bdfcf232da5f8179.users.api.live.net/Users(-4756660806184107655)/Blogs('BDFCF232DA5F8179!102')/Entries('BDFCF232DA5F8179!1122')?authkey=hSbGhYtz7bY%24
+author:
+  login: fmcarvalho
+  email: mcarvalho@cc.isel.ipl.pt
+  display_name: fmcarvalho
+  first_name: ''
+  last_name: ''
+---
+<div id="msgcns!BDFCF232DA5F8179!1122" class="bvMsg">
+<div>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">Teaching Managed Runtime Environment’s course, I find one more feature of .Net framework, that I didn’t realised. This time I just stand with something that Jeffrey Richter says in one of the “Important Boxes” of its book “Clr via C#”. He writes “ipsis verbis”:<span>  </span>“…. <b>there are times when the CLR will not call a value type's static type constructor</b>”. Will not???? <img title="Surpreendido" style="vertical-align:middle;" height="19" alt="Surpreendido" src="{{ site.baseurl }}/assets/smile_omg.gif" width="19" /><span> </span>There are <b>times</b>???? This means sometimes will, sometimes will not? Lets check better.</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">Then he shows an example using a </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> array, which exemplifies this behaviour:</span><span lang="EN-US" style="font-size:8.5pt;"></span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">internal <u>struct</u> SomeValType &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>static SomeValType() &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>Console.WriteLine(&quot;This never gets displayed&quot;); </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>public Int32 m_x; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">public sealed class Program &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>public static void Main() &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>SomeValType[] a = new SomeValType[10]; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>a[0].m_x = 123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>Console.WriteLine(a[0].m_x); // Displays 123 </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">If we run this example we will not see the message: </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">&quot;This never gets displayed”</span><span lang="EN-GB" style="font-size:8.5pt;">. Ok. If we change </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> from <b><u>struct</u></b> (which defines a <b>value</b> <b>type</b>) to <b><u>class</u></b> (which defines a <b>reference</b> <b>type</b>), we will see the message: </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">&quot;This never gets displayed&quot;</span><span lang="EN-GB" style="font-size:8.5pt;">. Of course, we also have to instantiate each array’s element before manipulating it, or it will throw a </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">NullPointerException</span><span lang="EN-GB" style="font-size:8.5pt;"> (we must do: </span><u><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">a[0] = new SomeValType()</span></u><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">; </span><span lang="EN-GB" style="font-size:8.5pt;">before: </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">a[0].m_x = 123;</span><span lang="EN-GB" style="font-size:8.5pt;">). </span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">This makes me launch a lot of questions:</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">- So what’s the difference between value and reference types, which makes CLR doesn’t run static type constructor for value types?</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">- Why an array for this explanation? </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">- Is there any relation between this behaviour and the usage of an array? </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">So I make other experiences and we can reproduce the same behaviour without that array. For the same </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> we can do:</span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">public sealed class Program &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>public static void Main() &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>SomeValType v = new SomeValType(); // = new SomeValType() is optional for value types.</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>v.m_x = 123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>Console.WriteLine(v.m_x); // Displays 123 </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">For this test we will have the same results. The message </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">&quot;This never gets displayed&quot;</span><span lang="EN-GB" style="font-size:8.5pt;"> is just displayed when <b>SomeValType</b> is a reference type. </span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><b><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">So, according to Ecma-335 specification when it was supposed the Jit Compiler emits a call to execute a static type constructor?</font></span></b></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">For this </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> type, which defines explicitly a static type constructor (meaning that </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> is <b>not</b> marked </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">BeforeFieldInit</span><span lang="EN-GB" style="font-size:8.5pt;">), Jeffrey Richter writes:</span></font></p>
+<p style="margin:0;"><font color="#000000"><b><span lang="EN-GB" style="font-size:8.5pt;">«</span></b><span lang="EN-GB"><font size="2"> </font></span><span lang="EN-GB" style="font-size:8.5pt;">The JIT compiler can emit the call immediately before code that would <b>create the first instance of the type</b> or immediately before code that <b>accesses a noninherited field or member of the class»</b></span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">The second proposition is true, but the first one is not. Independently if </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> is a value or a reference type, in both cases ‘</span><b><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">v</span></b><span lang="EN-GB" style="font-size:8.5pt;">‘ <b>holds an instance of that type</b>. This contradicts the preposition: “…emit the call immediately before code that would create<b> the first instance of the type</b>.” </span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">The really difference is that: </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">- In first case (being </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> a value type) the statement </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">new SomeValType()</span><span lang="EN-GB" style="font-size:8.5pt;"> emits (by C# compiler) an </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">initobj SomeVT</span><span lang="EN-GB" style="font-size:8.5pt;"> and this statement <b>doesn’t</b> call any instance constructor. </span></font></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">- But when </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> is a reference type, then the same statement </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">new SomeValType()</span><span lang="EN-GB" style="font-size:8.5pt;">, will emit a </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">newobj SomeVT::.ctor()</span><span lang="EN-GB" style="font-size:8.5pt;"> and this one <b>will call</b> an instance constructor. </span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">This difference between <b>calling, or not, an instance constructor</b> makes Jit Compiler emitting, or not, a call to execute a static type constructor. And this is different from creating “<b>the first instance of the type.</b>”</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">This behaviour follows the Ecma-335 specification which says:</font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">«If not marked </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">BeforeFieldInit</span><span lang="EN-GB" style="font-size:8.5pt;"> then that type’s initializer method is executed at (i.e., is triggered by): </span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">•<span>  </span>first access to any static field … or first invocation of any static method of that type or </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000">•<span>  </span><b>first invocation of any constructor for that type</b>.»</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">Finally if I change </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> definition inserting an instance constructor:</span></font></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">internal <u>struct</u> SomeValType &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>static SomeValType() &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>Console.WriteLine(&quot;This never gets displayed&quot;); </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span><u>SomeValType(int n)&#123; m_x = n;&#125;</u></font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>public Int32 m_x; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">public sealed class Program &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>public static void Main() &#123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>SomeValType v = new SomeValType(5);</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>v.m_x = 123; </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>    </span>Console.WriteLine(v.m_x); // Displays 123 </font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000"><span>  </span>&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;"><font color="#000000">&#125;</font></span></p>
+<p style="margin:0;"><span lang="EN-GB" style="font-size:8.5pt;"><font color="#000000"> </font></span></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;">Now independently if </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">SomeValType</span><span lang="EN-GB" style="font-size:8.5pt;"> is a value or a reference type, we will get the same behaviour and the message: </span><span lang="EN-GB" style="font-size:8.5pt;font-family:Consolas;">&quot;This never gets displayed&quot;</span><span lang="EN-GB" style="font-size:8.5pt;">, will always be displayed. Because in both cases there is allways a call to an instance constructor.</span></font></p>
+<p style="margin:0;"><font color="#000000"><span lang="EN-GB" style="font-size:8.5pt;"></span></font> </p>
+</div>
+</div>
