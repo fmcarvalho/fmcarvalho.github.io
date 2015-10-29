@@ -20,6 +20,7 @@
         $.ajax({
             url: "http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=" + def.MaxCount + "&output=json&q=" + encodeURIComponent(def.FeedUrl) + "&hl=en&callback=?", dataType: "json", success: function (data) {
                 $("#" + id).empty();
+                data.responseData.feed.entries.sort(function (a, b) { return a.content.localeCompare(b.content); });
                 $.each(data.responseData.feed.entries, function (e, item) {
                     s += '<li><div class="itemTitle"><a href="' + item.link + '" target="' + def.TitleLinkTarget + '" >' + item.title + "</a></div>";
                     if (def.ShowPubDate) {
