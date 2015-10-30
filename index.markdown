@@ -7,3 +7,5 @@ I started my professional career as a software analyst in 1997 at SSF/Easysoft a
 Since 2008, I am also an Assistant Professor at [Computer Science and Engineering]( https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-computadores) of [ISEL]( https://www.isel.pt/).
 
 My passions? Work,  sea, sports, traveling worldwide and my family.
+
+_fmcarvalho_ _miguelgamboa_ and _gamboacarvalho_ are my nicknames.
