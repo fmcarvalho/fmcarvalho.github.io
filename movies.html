@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Movies"
-description: "I've seen, good and bad"
+title: "Filmes que vi"
+description: "...bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
 
@@ -13,7 +13,7 @@ header-img: "img/sj-onda.jpg"
 <script type="text/javascript">
     $(document).ready(function () {
         $('#divRss').FeedEk({
-            FeedUrl: 'http://rss.imdb.com/list/ls072050509/',
+            FeedUrl: 'http://rss.imdb.com/list/ls072050509/?&t=' + new Date().getTime(),
 
         });
     });
