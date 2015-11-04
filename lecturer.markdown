@@ -5,6 +5,18 @@ description: ""
 header-img: "img/me-sun-header.jpg"
 ---
 
+###Teaching
+
+As a Teaching Assistant and then an Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
+
+* [Programing](https://adeetc.thothapp.com/classes/PG)
+* [Object Oriented Programming](https://adeetc.thothapp.com/classes/POO)
+* [Computer Systems Programming](https://adeetc.thothapp.com/classes/PSC)
+* [Virtual Execution Environments](https://adeetc.thothapp.com/classes/AVE)
+* [Modeling and Design Patterns](https://adeetc.thothapp.com/classes/MPD)
+* [Internet Programming](https://adeetc.thothapp.com/classes/PI)
+
+
 ###Final projects and dissertations supervision
 
 
