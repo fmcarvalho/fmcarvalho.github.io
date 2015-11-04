@@ -23,3 +23,6 @@ header-img: "img/me-sun-header.jpg"
 * <small>BsC 2007/2008: [SAVIBE](/img/pfc-posters/2008-savibe.pdf), Rui Custodio (Nr 24266) and Ernani Lara Junior (Nr 25951)</small>
 * <small>BsC 2007/2008: [You Play It](/img/pfc-posters/2008-youplayit.pdf), João Cordeiro (Nr 29141), Manuel Felício (Nr 29189) and Francisco Covas (Nr 29391)</small>
 * <small>BsC 2007/2008: [Gest Garden](/img/pfc-posters/2008-gest-garden.pdf), César Afonso (Nr 27270), Rodrigo Silva (Nr 29140) and David Vitorino (Nr 29279)</small>
+* <small>5 years degree 2007: [CASE - Componente de Acesso a Serviços de Email](/img/pfc-posters/2007-case.pdf), Daniel Costa (Nr 28549)  e Pedro Santos (Nr 28564)
+* <small>5 years degree 2006: Resolução de interacções de serviços via Web Services, Filipe Oliveira (Nr 19030)</small>
+* <small>5 years degree 2006: jobMatchPoint - Portal de Emprego, Telmo Palma Carlos (Nr 18531)</small>
