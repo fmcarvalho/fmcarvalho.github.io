@@ -20,7 +20,7 @@ As a Teaching Assistant and then an Assistant Professor I have lectured the foll
 ###Final projects and dissertations supervision
 
 
-* <small>BsC 2014/2015: [VetMed](/img/pfc-posters/2015-vetmed.pdf) in production at [www.medvet.simposium.pt](http://www.medvet.simposium.pt/), João Moura (Nr 38249) and Diogo Ferreira (Nr 40383)</small>
+* <small>BsC 2014/2015: [VetMed](/img/pfc-posters/2015-medvet.pdf) in production at [www.medvet.simposium.pt](http://www.medvet.simposium.pt/), João Moura (Nr 38249) and Diogo Ferreira (Nr 40383)</small>
 * <small>BsC 2013/2014: [Remote Control](/img/pfc-posters/2014-remote-control.pdf), Rúben Horta (Nr 35417) and Sérgio Ferreira (Nr 36232)</small>
 * <small>BsC 2013/2014: PUABD -- Programação para aplicações base de dados,  Bruno Costa (Nr 36868)</small>
 * <small>MsC 2012/2013: [Suporte a Testes Automáticos em Aplicações Web Geradas com a Agile Platform da OutSystems](/img/pfc-posters/2013-auto-tests.pdf),  Ricardo Neto (Nr 26657)</small>
