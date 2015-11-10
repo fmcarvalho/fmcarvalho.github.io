@@ -9,7 +9,7 @@ My R&D activity includes project management and development,
 specialized training courses, technical consulting and research.
 
 Because most of my projects were developed in partnership with 
-industry and under confidential agreements, I cannot publish any 
+industry and under confidential agreements commitment, I cannot disclose any 
 information about them.
 
 ###Research

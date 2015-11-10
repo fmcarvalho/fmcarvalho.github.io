@@ -7,7 +7,7 @@ header-img: "img/me-sun-header.jpg"
 
 ###Teaching
 
-As a Teaching Assistant and then an Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
+As Teaching Assistant and later as Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
 
 * [Programing](https://adeetc.thothapp.com/classes/PG)
 * [Object Oriented Programming](https://adeetc.thothapp.com/classes/POO)
