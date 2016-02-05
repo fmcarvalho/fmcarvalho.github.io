@@ -20,7 +20,25 @@
         $.ajax({
             url: "http://ajax.googleapis.com/ajax/services/feed/load?v=1.0&num=" + def.MaxCount + "&output=json&q=" + encodeURIComponent(def.FeedUrl) + "&hl=en&callback=?", dataType: "json", success: function (data) {
                 $("#" + id).empty();
-                data.responseData.feed.entries.sort(function (a, b) { return a.content.localeCompare(b.content); });
+                
+                var grades = ["[A+", "[A","[A-","[B+","[B","[B-","[C+","[C","[C-","[D+","[D","[D-","[E+","[E","[E-"]
+                function keyOf(movie) {
+                    var words = movie.link.split('/')
+                    return words[words.length - 2]
+                }
+                var moviesGrades = data.responseData.feed.entries.reduce(
+                    function(prev, curr){ 
+                        var g = curr.content.split(']')[0]
+                        prev[keyOf(curr)] = grades.indexOf(g)
+                        return prev; 
+                    },
+                    {}
+                )
+                function gradeOf(movie) {
+                    return moviesGrades[keyOf(movie)]
+                }
+                
+                data.responseData.feed.entries.sort(function (a, b) { return gradeOf(a) - gradeOf(b); });
                 $.each(data.responseData.feed.entries, function (e, item) {
                     s += '<li><div class="itemTitle"><a href="' + item.link + '" target="' + def.TitleLinkTarget + '" >' + item.title + "</a></div>";
                     if (def.ShowPubDate) {
