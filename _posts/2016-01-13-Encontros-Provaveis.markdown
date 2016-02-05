@@ -21,7 +21,8 @@ com este dinossauro.
 
 Rock Circus, 1989, Londres. Para quem não conhece é um museu de cera, estilo 
 Madame Tussaud's, onde os visitantes munidos de uns auscultadores ouvem a música
-de cada artista junto à sua estátua. Nesta visita marcaram-me sobretudo a parte
+de cada artista junto à sua estátua. (Sim é fuleiro eu sei... mas tinha 14 anos) 
+Nesta visita marcaram-me sobretudo a parte
 dedicada a Sid Vicious e já no final um espectáculo com bonecos de cera animados.
 Nesse espectáculo, a dada altura aparece um episódio no espaço com um individuo
 dentro do deu fato de astronauta a cantar. O astronauta era David Bowie e a música
