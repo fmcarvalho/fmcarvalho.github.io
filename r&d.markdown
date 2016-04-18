@@ -12,10 +12,10 @@ Because most of my projects were developed in partnership with
 industry and under confidential agreements commitment, I cannot disclose any 
 information about them.
 
-###Research
+##Research
 
 * <small>[Optimizing Memory Transactions for Large-Scale 
-Programs](http://authors.elsevier.com/a/1SHq~2f6jymepp), 
+Programs](http://www.sciencedirect.com/science/article/pii/S0743731515002099), 
 FM Carvalho, J Cachopo, Journal title: _Journal of Parallel and Distributed
 Computing (2016)_, Elsevier, pp. 13-24 DOI information: 10.1016/j.jpdc.2015.12.001</small>
 
@@ -69,6 +69,6 @@ FM Carvalho and RG Crespo, [IADIS Conference WWW/Internet 2005](http://internet-
 283-290, vol 2, 2005</small>
 
 
-###Specialized training courses
+##Specialized training courses
 
 ... will be available soon
