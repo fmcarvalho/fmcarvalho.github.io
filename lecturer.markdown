@@ -5,7 +5,7 @@ description: ""
 header-img: "img/me-sun-header.jpg"
 ---
 
-###Teaching
+### Teaching
 
 As Teaching Assistant and later as Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
 
@@ -17,7 +17,7 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 * [Internet Programming](https://adeetc.thothapp.com/classes/PI)
 
 
-###Final projects and dissertations supervision
+### Final projects and dissertations supervision
 
 
 * <small>BsC 2014/2015: [VetMed](/img/pfc-posters/2015-medvet.pdf) in production at [www.medvet.simposium.pt](http://www.medvet.simposium.pt/), João Moura (Nr 38249) and Diogo Ferreira (Nr 40383)</small>
