@@ -16,7 +16,7 @@ author:
 
 Parem de usar a palavra racional sem nexo: "_o racional disto..._"; "_o racional
 daquilo..._";  "_o racional que está por detrás de..._"; "_explicar o racional
-de...._"; etc. Eu diria: o racional do raio que vos parta. Se querem mesmo dizer
+de...._"; etc. Diria antes: o racional do raio que vos parta. Se querem mesmo dizer
 "O racional", então digam-no em inglês "rationale" e já agora com a pronúncia
 correcta, tal como já dizem: "by the way", "management", "look and feel",
 "engagement", etc. Mas por favor parem de dizer "O racional", a menos que queiram
