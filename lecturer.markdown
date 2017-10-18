@@ -18,8 +18,10 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 
 
 ### Final projects and dissertations supervision
-
-
+* <small>BsC 2016/2017: [Aplicação Web Gestão Importação e Exportação de Produtos Farmacêuticos](/img/pfc-posters/2017-impfarm.pdf) developed in partnership with Hovione, Cláudia Soares (Nr 39243) and Paulo Carvalho (Nr 41058)</small>
+* <small>BsC 2016/2017: [qip - Quadro Interativo Online](/img/pfc-posters/2017-qip.pdf) deployed at [http://qip-web-client.herokuapp.com/](http://qip-web-client.herokuapp.com/), Simão Virgílio (Nr 41393), Pedro David (Nr 41530) and Pedro Cipriano (Nr 41890)</small>
+* <small>BsC 2015/2016: [CRM 360imprimir](/img/pfc-posters/2016-crm360.pdf) developed in partnership with [360imprimir.pt](https://www.360imprimir.pt/), Afonso Santos (Nr 40595) and André Almeida (Nr 40699)</small>
+* <small>BsC 2015/2016: [Gestor de Terapêuticas](/img/pfc-posters/2016-tapgest.pdf) in production at Hospital Garcia de Orta, Ana Sequeira (Nr 35479) and Diogo Poeira (Nr 36238)</small>
 * <small>BsC 2014/2015: [VetMed](/img/pfc-posters/2015-medvet.pdf) in production at [www.medvet.simposium.pt](http://www.medvet.simposium.pt/), João Moura (Nr 38249) and Diogo Ferreira (Nr 40383)</small>
 * <small>BsC 2013/2014: [Remote Control](/img/pfc-posters/2014-remote-control.pdf), Rúben Horta (Nr 35417) and Sérgio Ferreira (Nr 36232)</small>
 * <small>BsC 2013/2014: PUABD -- Programação para aplicações base de dados,  Bruno Costa (Nr 36868)</small>
