@@ -17,7 +17,7 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 * [Internet Programming](https://adeetc.thothapp.com/classes/PI)
 
 
-### <a id="projects">Final projects and dissertations supervision</a>
+### <a name="projects">Final projects and dissertations supervision</a>
 * <small>BsC 2016/2017: [Aplicação Web Gestão Importação e Exportação de Produtos Farmacêuticos](/img/pfc-posters/2017-impfarm.pdf) developed in partnership with Hovione, Cláudia Soares (Nr 39243) and Paulo Carvalho (Nr 41058)</small>
 * <small>BsC 2016/2017: [qip - Quadro Interativo Online](/img/pfc-posters/2017-qip.pdf) deployed at [http://qip-web-client.herokuapp.com/](http://qip-web-client.herokuapp.com/), Simão Virgílio (Nr 41393), Pedro David (Nr 41530) and Pedro Cipriano (Nr 41890)</small>
 * <small>BsC 2015/2016: [CRM 360imprimir](/img/pfc-posters/2016-crm360.pdf) developed in partnership with [360imprimir.pt](https://www.360imprimir.pt/), Afonso Santos (Nr 40595) and André Almeida (Nr 40699)</small>
