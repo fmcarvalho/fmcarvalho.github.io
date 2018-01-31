@@ -19,9 +19,11 @@
                 {% for page in site.pages %} 
                     {% unless page.url contains "/page" %}
                         {% unless page.title == "Index" %}
+                            {% unless page.title == "Oscon" %}
                             <li>
                                 <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                             </li>
+                            {% endunless %}
                         {% endunless %}
                     {% endunless %}
                 {% endfor %}
