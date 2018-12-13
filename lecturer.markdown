@@ -18,6 +18,13 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 
 
 ### <a name="projects">Final projects and dissertations supervision</a>
+* <small>Msc 2017/2018: [Domain Speciﬁc Language generation based on a XML Schema](https://github.com/xmlet), Luís Duarte (Nr 39378)
+  * <small>DZone article [Modern Type-Safe Template Engines ](https://dzone.com/articles/modern-type-safe-template-engines)</small>
+  * <small>[**HtmlFlow** -- Java DSL to write typesafe HTML](https://github.com/xmlet/HtmlFlow)</small>
+  * <small>[**XsdParser**](https://github.com/xmlet/XsdParser)</small>
+* <small>BsC 2017/2018: [EmployBox: A job offering platform](/img/pfc-posters/2018-EmployeeBox.pdf), Diogo Rodrigues (Nr 39128), João Graça (Nr 41423) and Tiago Ribeiro  (Nr 41557)</small>
+  * <small>[**Rapper** -- Async DataMapper for JDBC](https://github.com/jayield/rapper)</small>
+* <small>BsC 2017/2018: [Gamelog - Diário de Videojogos](/img/pfc-posters/2018-GameLog.pdf) deployed at [https://diario-de-jogos.herokuapp.com](https://diario-de-jogos.herokuapp.com), Gonçalo Veloso (Nr 41482)</small>
 * <small>BsC 2016/2017: [Aplicação Web Gestão Importação e Exportação de Produtos Farmacêuticos](/img/pfc-posters/2017-impfarm.pdf) developed in partnership with Hovione, Cláudia Soares (Nr 39243) and Paulo Carvalho (Nr 41058)</small>
 * <small>BsC 2016/2017: [qip - Quadro Interativo Online](/img/pfc-posters/2017-qip.pdf) deployed at [http://qip-web-client.herokuapp.com/](http://qip-web-client.herokuapp.com/), Simão Virgílio (Nr 41393), Pedro David (Nr 41530) and Pedro Cipriano (Nr 41890)</small>
 * <small>BsC 2015/2016: [CRM 360imprimir](/img/pfc-posters/2016-crm360.pdf) developed in partnership with [360imprimir.pt](https://www.360imprimir.pt/), Afonso Santos (Nr 40595) and André Almeida (Nr 40699)</small>
