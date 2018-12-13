@@ -8,11 +8,18 @@ header-img: "img/guincho-header.jpg"
 My R&D activity includes project management and development, 
 specialized training courses, technical consulting and research.
 
-Because most of my projects were developed in partnership with 
-industry and under confidential agreements commitment, I cannot disclose any 
-information about them.
+Regarding some projects in partnership with industry and under confidential
+agreements commitment, I cannot disclose any details.
 
-### Research
+* <small>[Modern Type-Safe Template Engines](https://dzone.com/articles/modern-type-safe-template-engines), Luís Duarte and Miguel Gamboa, **DZone -- Web Dev Zone**, Nov 2018</small>
+
+* <small>[**HtmlFlow** -- Java DSL to write typesafe HTML](https://github.com/xmlet/HtmlFlow)</small>
+
+* <small>[How to Reuse Java Streams](https://dzone.com/articles/how-to-replay-java-streams), Miguel Gamboa, **DZone -- Java Zone**, Jun 2018</small>
+
+* <small>[**AsyncFileRw** -- Asynchronous non-blocking File Reader and Writer library for Java](https://github.com/javasync/AsyncFileRw)</small>
+
+* <small>[**streamemo** -- Java streams utility methods for memoization](https://github.com/javasync/streamemo)</small>
 
 * <small>[Optimizing Memory Transactions for Large-Scale 
 Programs](http://www.sciencedirect.com/science/article/pii/S0743731515002099), 
@@ -68,7 +75,3 @@ applications_, Fernando Miguel Carvalho</small>
 FM Carvalho and RG Crespo, [IADIS Conference WWW/Internet 2005](http://internet-conf.org/previous-editions/),
 283-290, vol 2, 2005</small>
 
-
-### Specialized training courses
-
-... will be available soon

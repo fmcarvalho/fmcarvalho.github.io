@@ -9,17 +9,17 @@ header-img: "img/me-sun-header.jpg"
 
 As Teaching Assistant and later as Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
 
-* [Programing](https://adeetc.thothapp.com/classes/PG)
-* [Object Oriented Programming](https://adeetc.thothapp.com/classes/POO)
-* [Computer Systems Programming](https://adeetc.thothapp.com/classes/PSC)
-* [Virtual Execution Environments](https://adeetc.thothapp.com/classes/AVE)
-* [Modeling and Design Patterns](https://adeetc.thothapp.com/classes/MPD)
-* [Internet Programming](https://adeetc.thothapp.com/classes/PI)
+* [Programing](https://www.isel.pt/disciplinas/programacao-leic)
+* [Object Oriented Programming](https://www.isel.pt/disciplinas/programacao-orientada-por-objectos-leic)
+* [Computer Systems Programming](https://www.isel.pt/disciplinas/programacao-em-sistemas-computacionais-leic)
+* [Virtual Execution Environments](https://www.isel.pt/disciplinas/ambientes-virtuais-de-execucao-leic)
+* [Modeling and Design Patterns](https://www.isel.pt/disciplinas/modelacao-e-padroes-de-desenho-leic)
+* [Internet Programming](https://www.isel.pt/disciplinas/programacao-na-internet-leic)
 
 
 ### <a name="projects">Final projects and dissertations supervision</a>
 * <small>Msc 2017/2018: [Domain Speciﬁc Language generation based on a XML Schema](https://github.com/xmlet), Luís Duarte (Nr 39378)
-  * <small>DZone article [Modern Type-Safe Template Engines ](https://dzone.com/articles/modern-type-safe-template-engines)</small>
+  * <small>**DZone** article [Modern Type-Safe Template Engines ](https://dzone.com/articles/modern-type-safe-template-engines)</small>
   * <small>[**HtmlFlow** -- Java DSL to write typesafe HTML](https://github.com/xmlet/HtmlFlow)</small>
   * <small>[**XsdParser**](https://github.com/xmlet/XsdParser)</small>
 * <small>BsC 2017/2018: [EmployBox: A job offering platform](/img/pfc-posters/2018-EmployeeBox.pdf), Diogo Rodrigues (Nr 39128), João Graça (Nr 41423) and Tiago Ribeiro  (Nr 41557)</small>
