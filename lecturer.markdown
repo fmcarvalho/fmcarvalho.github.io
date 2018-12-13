@@ -18,7 +18,7 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 
 
 ### <a name="projects">Final projects and dissertations supervision</a>
-* <small>Msc 2017/2018: [Domain Speciﬁc Language generation based on a XML Schema](https://github.com/xmlet), Luís Duarte (Nr 39378)
+* <small>Msc 2017/2018: [Domain Speciﬁc Language generation based on a XML Schema](https://www.slideshare.net/LuisDuarte105/domain-specific-language-generation-based-on-a-xml-schema), Luís Duarte (Nr 39378)
   * <small>**DZone** article [Modern Type-Safe Template Engines ](https://dzone.com/articles/modern-type-safe-template-engines)</small>
   * <small>[**HtmlFlow** -- Java DSL to write typesafe HTML](https://github.com/xmlet/HtmlFlow)</small>
   * <small>[**XsdParser**](https://github.com/xmlet/XsdParser)</small>
