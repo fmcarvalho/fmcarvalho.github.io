@@ -9,13 +9,13 @@ header-img: "img/me-sun-header.jpg"
 
 As Teaching Assistant and later as Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
 
-* [Programing](https://www.isel.pt/disciplinas/programacao-leic)
-* [Object Oriented Programming](https://www.isel.pt/disciplinas/programacao-orientada-por-objectos-leic)
-* [Computer Systems Programming](https://www.isel.pt/disciplinas/programacao-em-sistemas-computacionais-leic)
-* [Virtual Execution Environments](https://www.isel.pt/disciplinas/ambientes-virtuais-de-execucao-leic)
-* [Modeling and Design Patterns](https://www.isel.pt/disciplinas/modelacao-e-padroes-de-desenho-leic)
-* [Internet Programming](https://www.isel.pt/disciplinas/programacao-na-internet-leic)
-
+* [Programing](https://www.isel.pt/en/subjects/programming-leic)
+* [Object Oriented Programming](https://www.isel.pt/en/subjects/object-oriented-programming-leic)
+* [Computer Systems Programming](https://www.isel.pt/en/subjects/computer-systems-programming-leic)
+* [Virtual Execution Environments](https://www.isel.pt/en/subjects/virtual-execution-environments-leic)
+* [Modeling and Design Patterns](https://www.isel.pt/en/subjects/modeling-and-design-patterns-leic)
+* [Mobile Devices Programming](https://www.isel.pt/en/disciplinas/mobile-devices-programming-leic]
+* [Internet Programming](https://www.isel.pt/en/subjects/internet-programming-leic)
 
 ### <a name="projects">Final projects and dissertations supervision</a>
 * <small>Msc 2017/2018: [Domain Speciﬁc Language generation based on a XML Schema](https://www.slideshare.net/LuisDuarte105/domain-specific-language-generation-based-on-a-xml-schema), Luís Duarte (Nr 39378)
