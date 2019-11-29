@@ -11,6 +11,8 @@ specialized training courses, technical consulting and research.
 Regarding some projects in partnership with industry and under confidential
 agreements commitment, I cannot disclose any details.
 
+* <small>[HoT: Unleash Web Views with Higher-order Templates](https://scholar.google.com/scholar?cluster=972807510162637933), _15th International Conference on Web Information Systems and Technologies, 2019, Viena_, Luís Duarte and Miguel Gamboa,</small>
+
 * <small>[Modern Type-Safe Template Engines](https://dzone.com/articles/modern-type-safe-template-engines), Luís Duarte and Miguel Gamboa, **DZone -- Web Dev Zone**, Nov 2018</small>
 
 * <small>[**HtmlFlow** -- Java DSL to write typesafe HTML](https://github.com/xmlet/HtmlFlow)</small>
