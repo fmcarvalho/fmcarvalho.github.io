@@ -11,7 +11,11 @@ specialized training courses, technical consulting and research.
 Regarding some projects in partnership with industry and under confidential
 agreements commitment, I cannot disclose any details.
 
-* <small>[HoT: Unleash Web Views with Higher-order Templates](https://scholar.google.com/scholar?cluster=972807510162637933), _15th International Conference on Web Information Systems and Technologies, 2019, Viena_, Luís Duarte and Miguel Gamboa,</small>
+* <small>[Stretching Async/Await With Lambdas](https://dzone.com/articles/lambdas-in-concurrency-with-non-blocking-io), Miguel Gamboa, **DZone -- Java Zone**, Jun 2020</small>
+
+* <small>[Bridge the Gap of Zip Operation](https://dzone.com/articles/bridge-the-gap-of-zip-operation), Diogo Poeira and Miguel Gamboa, **DZone -- Java Zone**, May 2020</small>
+
+* <small>[HoT: Unleash Web Views with Higher-order Templates](https://www.scitepress.org/Link.aspx?doi=10.5220/0008167701180129), _15th International Conference on Web Information Systems and Technologies, 2019, Viena_, Luís Duarte and Miguel Gamboa,</small>
 
 * <small>[Modern Type-Safe Template Engines](https://dzone.com/articles/modern-type-safe-template-engines), Luís Duarte and Miguel Gamboa, **DZone -- Web Dev Zone**, Nov 2018</small>
 
