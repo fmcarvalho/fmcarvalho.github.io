@@ -11,6 +11,8 @@ specialized training courses, technical consulting and research.
 Regarding some projects in partnership with industry and under confidential
 agreements commitment, I cannot disclose any details.
 
+* <small>[Text Web Templates Considered Harmful](https://link.springer.com/chapter/10.1007/978-3-030-61750-9_4), Fernando Miguel Carvalho, Luis Duarte and Julien Gouesse, Lecture Notes in Business Information Processing book series (LNBIP, volume 399), November 2020</small>
+
 * <small>[Stretching Async/Await With Lambdas](https://dzone.com/articles/lambdas-in-concurrency-with-non-blocking-io), Miguel Gamboa, **DZone -- Java Zone**, Jun 2020</small>
 
 * <small>[Bridge the Gap of Zip Operation](https://dzone.com/articles/bridge-the-gap-of-zip-operation), Diogo Poeira and Miguel Gamboa, **DZone -- Java Zone**, May 2020</small>
