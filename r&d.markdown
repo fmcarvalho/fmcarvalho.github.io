@@ -50,6 +50,9 @@ memory](http://dl.acm.org/citation.cfm?id=2442556) FM Carvalho, J Cachopo,
 2013](http://www.sigplan.org/Conferences/PPOPP/) 48 (8), 303-304
 <a href="\img\my-papers\ppopp2327-carvalho-poster.pdf" type="_blank"><img src="/img/my-papers/ppopp2327-carvalho-poster-thumb.jpg" width="100"></a>
 
+* <small>[Suporte a Testes Automáticos em Aplicações Web geradas com a OutSystems Platform](http://repositorio.ipl.pt/handle/10400.21/3236),
+Ricardo Neto, Tiago L. Alves, Fernando Miguel Carvalho, INForum 2013 - 5o Simpósio de Informática</small>
+
 * <small>[Adaptive object metadata to reduce the overheads of a multi-versioning STM](\img\my-papers\Multiprog12-fmc.pdf),
 Fernando Miguel Carvalho and João Cachopo, Multiprog 2012, Paris</small>
 
