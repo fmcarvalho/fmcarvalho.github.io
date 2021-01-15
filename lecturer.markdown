@@ -9,16 +9,19 @@ header-img: "img/me-sun-header.jpg"
 
 As Teaching Assistant and later as Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
 
-* [Programing](https://www.isel.pt/en/subjects/programming-leic)
-* [Object Oriented Programming](https://www.isel.pt/en/subjects/object-oriented-programming-leic)
-* [Computer Systems Programming](https://www.isel.pt/en/subjects/computer-systems-programming-leic)
-* [Virtual Execution Environments](https://www.isel.pt/en/subjects/virtual-execution-environments-leic)
+* [Programing](https://cc.isel.pt/academia/leic-en/pg-en/)
+* [Object Oriented Programming](https://cc.isel.pt/academia/leic-en/tds-en/)
+* [Computer Systems Programming](https://cc.isel.pt/academia/leic-en/psc-en/)
+* [Virtual Execution Environments](https://cc.isel.pt/academia/leic-en/lae-en/)
 * [Modeling and Design Patterns](https://www.isel.pt/en/subjects/modeling-and-design-patterns-leic)
-* [Mobile Devices Programming](https://www.isel.pt/en/disciplinas/mobile-devices-programming-leic)
-* [Internet Programming](https://www.isel.pt/en/subjects/internet-programming-leic)
+* [Mobile Devices Programming](https://cc.isel.pt/academia/leic-en/pdm-en/)
+* [Internet Programming](https://cc.isel.pt/academia/leic-en/daw-en/)
 
 ### <a name="projects">Final projects and dissertations supervision</a>
-* <small>BsC 2018/2019: [Front-end framework for BPM engine integratio](/img/pfc-posters/2019-frontend-bpm.pdf), developed in partnership with a **Telecom company**, João Pereira (Nr 42167), João Martins (Nr 42209) and Tiago Silva (Nr 42402)</small>
+* <small>Interviewer Platform, Miguel Cruz (Nr 44801), Alexandre Sá (Nr 44802) and Pedro Rodrigues (Nr 44825), developed in partnership with **GFI**</small>
+* <small>React Graphic Editor for Routing Flows, Gonçalo Tavares and Nuno Gomes</small>
+* <small>BsC 2019/2020: Nutr.io - Multi-platform application for diabetics’ nutritional choices, Pedro Pires (Nr 42206), Miguel Luís (Nr 43504) and David Albuquerque (Nr 43566)</small>
+* <small>BsC 2018/2019: [Front-end framework for BPM engine integration](/img/pfc-posters/2019-frontend-bpm.pdf), developed in partnership with a **Telecom company**, João Pereira (Nr 42167), João Martins (Nr 42209) and Tiago Silva (Nr 42402)</small>
 * <small>BsC 2018/2019: [Exposing MySQL Shell’s backend to multiple programming languages](/img/pfc-posters/2019-MySql-Shell-poster.pdf), developed in partnership with **Oracle**, Ricardo Ferreira (Nr 43323)</small>
 * <small>Msc 2017/2018: [Domain Speciﬁc Language generation based on a XML Schema](https://www.slideshare.net/LuisDuarte105/domain-specific-language-generation-based-on-a-xml-schema), Luís Duarte (Nr 39378)</small>
   * <small>**DZone** article [Modern Type-Safe Template Engines ](https://dzone.com/articles/modern-type-safe-template-engines)</small>
