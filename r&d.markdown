@@ -11,7 +11,9 @@ specialized training courses, technical consulting and research.
 Regarding some projects in partnership with industry and under confidential
 agreements commitment, I cannot disclose any details.
 
-* <small>[Text Web Templates Considered Harmful](https://link.springer.com/chapter/10.1007/978-3-030-61750-9_4), Fernando Miguel Carvalho, Luis Duarte and Julien Gouesse, Lecture Notes in Business Information Processing book series (LNBIP, volume 399), November 2020</small>
+* <small>[Enhanced Streams Processing with Kotlin’s Sequence Interface](https://www.infoq.com/articles/enhanced-stream-kotlin-sequence/), Diogo Poeira and Miguel Gamboa, **InfoQ**, Jan 2021</small>
+
+* <small>[Text Web Templates Considered Harmful](/img/my-papers/lnbip2020-unopinionated-templates.pdf), Fernando Miguel Carvalho, Luis Duarte and Julien Gouesse, Lecture Notes in Business Information Processing book series (LNBIP, volume 399), November 2020</small>
 
 * <small>[Stretching Async/Await With Lambdas](https://dzone.com/articles/lambdas-in-concurrency-with-non-blocking-io), Miguel Gamboa, **DZone -- Java Zone**, Jun 2020</small>
 
