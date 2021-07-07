@@ -28,4 +28,4 @@ So, I think the same happens for automobile passions. Today, I cannot claim that
 
 Recently I visited Caramulo museum, which I recommend a lot. Yet I cannot hie my frustration for not seeing any single Ferrari. I was expecting to see them because any google search about this museum returns Ferrari photos. Yet, those photos were from a temporary exposition occurred in that museum. I hope one day this wonderful museum made from many personal contributions can include some Ferraris permanently.
 
-<img src="/assets/2020-10-15-In-love-with-Ferrari.jpg" width="500px">
+<img src="/assets/2020-10-15-In-love-with-Ferrari.JPG" width="500px">
