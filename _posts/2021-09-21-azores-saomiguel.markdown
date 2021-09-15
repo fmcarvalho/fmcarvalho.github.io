@@ -18,7 +18,7 @@ How to spend 10 days in São Miguel (Azores) exploring all the island? Not only 
 
 This was my itinerary for 10 days in August:
 
-0.1 Land at São Miguel, relax and enjoy the beaches (Populo, Milicias, or other). Even if it is raining. It will be less crowded, and the temperature is always nice.
+0 Land at São Miguel, relax and enjoy the beaches (Populo, Milicias, or other). Even if it is raining. It will be less crowded, and the temperature is always nice.
 <br>
 1.1 Lagoa do Congro
 <br>
@@ -57,7 +57,7 @@ waterfall and Sequoia)
 <br>
 9.2 Caldeira Velha
 <br>
-10. Lunch at Bar Caloura and return to Portugal
+10 Lunch at Bar Caloura and return to Portugal
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1LCO6hkhdU1M7YYVVdy2t0cYnbGtWJguq" width="640" height="480"></iframe>
 
