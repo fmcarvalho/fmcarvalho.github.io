@@ -10,16 +10,28 @@ header-img: "img/me-sun-header.jpg"
 As Teaching Assistant and later as Assistant Professor I have lectured the following courses at Computer Science and Engineering of ISEL:
 
 * [Programing](https://cc.isel.pt/academia/leic-en/pg-en/)
-* [Object Oriented Programming](https://cc.isel.pt/academia/leic-en/tds-en/)
+* [Object Oriented Programming](https://www.isel.pt/en/leirt/programming-iii)
 * [Computer Systems Programming](https://cc.isel.pt/academia/leic-en/psc-en/)
-* [Virtual Execution Environments](https://cc.isel.pt/academia/leic-en/lae-en/)
-* [Modeling and Design Patterns](https://www.isel.pt/en/subjects/modeling-and-design-patterns-leic)
-* [Mobile Devices Programming](https://cc.isel.pt/academia/leic-en/pdm-en/)
-* [Internet Programming](https://cc.isel.pt/academia/leic-en/daw-en/)
+* [Modeling and Design Patterns](https://www.isel.pt/en/leirt/modeling-and-design-patterns)
+* Internet Programming (main bibliography "_ASP.NET MVC_" and "_Node.js the Right Way_")
+* [Introduction to Internet Programming](https://cc.isel.pt/academia/leic-en/ipw-en/)
+* [Software Development Techniques](https://cc.isel.pt/academia/leic-en/tds-en/)
+* [Mobile Device Programming](https://cc.isel.pt/academia/leic-en/pdm-en/)
+* Virtual Execution Environments (main bibliography "_Essential .Net_")
+* [Languages and Managed Runtimes](https://cc.isel.pt/academia/leic-en/lae-en/)
+
 
 ### <a name="projects">Final projects and dissertations supervision</a>
-* <small>Interviewer Platform, Miguel Cruz (Nr 44801), Alexandre Sá (Nr 44802) and Pedro Rodrigues (Nr 44825), developed in partnership with **GFI**</small>
-* <small>React Graphic Editor for Routing Flows, Gonçalo Tavares and Nuno Gomes</small>
+
+* <small>BsC 2020/2021: [FinTracker - Gestor de Despesas](/img/pfc-posters/2022-FinTracker - Gestor de Despesas.pdf), 44875 - Inês Silva, 44876 - Pedro Castanheira</small>
+* <small>MsC 2021/2022: CApacitacão de Software do Centro de Investigação Fernando FOnseca (CASCIFFO), Valdemar Antunes</small>
+* <small>MsC 2021/2022: [Plataforma de Gestão de Internamento de Doentes Mentais](https://www.slideshare.net/gamboacarvalho/plataforma-de-gesto-de-internamento-de-doentes-mentais), Bruno Canelas</small>
+* <small>BsC 2020/2021: [Home Energy Monitor](/img/pfc-posters/2021-Home-Energy-Monitor.pdf), 40583 - Diogo Morais, 38866 - Manuel Dias</small>
+* <small>BsC 2020/2021: [Travel Management App](/img/pfc-posters/2021-Travel-Management-App.pdf), 45664 - Rodrigo Beirão Cardoso</small>
+* <small>BsC 2020/2021: [Holidays Management](/img/pfc-posters/2021-holiday-management.pdf), 38242 - Vítor Antunes, 39197 - Daniela Almeida, developed in partnership with **GFI**</small>
+* <small>MsC 2020/2021: [Optimizing Sequences Traversal and Extensibility](https://www.slideshare.net/gamboacarvalho/optimizing-sequences-traversal-and-extensibility), Diogo Poeira</small>
+* <small>BsC 2019/2020: Interviewer Platform, Miguel Cruz (Nr 44801), Alexandre Sá (Nr 44802) and Pedro Rodrigues (Nr 44825), developed in partnership with **GFI**</small>
+* <small>BsC 2019/2020: React Graphic Editor for Routing Flows, Gonçalo Tavares and Nuno Gomes</small>
 * <small>BsC 2019/2020: Nutr.io - Multi-platform application for diabetics’ nutritional choices, Pedro Pires (Nr 42206), Miguel Luís (Nr 43504) and David Albuquerque (Nr 43566)</small>
 * <small>BsC 2018/2019: [Front-end framework for BPM engine integration](/img/pfc-posters/2019-frontend-bpm.pdf), developed in partnership with a **Telecom company**, João Pereira (Nr 42167), João Martins (Nr 42209) and Tiago Silva (Nr 42402)</small>
 * <small>BsC 2018/2019: [Exposing MySQL Shell’s backend to multiple programming languages](/img/pfc-posters/2019-MySql-Shell-poster.pdf), developed in partnership with **Oracle**, Ricardo Ferreira (Nr 43323)</small>
