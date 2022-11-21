@@ -8,8 +8,9 @@ header-img: "img/guincho-header.jpg"
 My R&D activity includes project management and development, 
 specialized training courses, technical consulting and research.
 
-Regarding some projects in partnership with industry and under confidential
-agreements commitment, I cannot disclose any details.
+Next you may find some publications related with my activity on academia:
+
+* <small>[Deconstructing yield Operator to Enhance Streams Processing](https://www.scitepress.org/PublicationsDetail.aspx?ID=sFFvNu0PTDs=&t=1), Diogo Poeira and Miguel Gamboa, 16th International Conference on Software Technologies - ICSOFT, 143-150, 2021</small>
 
 * <small>[Enhanced Streams Processing with Kotlin’s Sequence Interface](https://www.infoq.com/articles/enhanced-stream-kotlin-sequence/), Diogo Poeira and Miguel Gamboa, **InfoQ**, Jan 2021</small>
 
@@ -19,7 +20,9 @@ agreements commitment, I cannot disclose any details.
 
 * <small>[Bridge the Gap of Zip Operation](https://dzone.com/articles/bridge-the-gap-of-zip-operation), Diogo Poeira and Miguel Gamboa, **DZone -- Java Zone**, May 2020</small>
 
-* <small>[HoT: Unleash Web Views with Higher-order Templates](https://www.scitepress.org/Link.aspx?doi=10.5220/0008167701180129), _15th International Conference on Web Information Systems and Technologies, 2019, Viena_, Luís Duarte and Miguel Gamboa,</small>
+* <small>[express-sitemap-html](https://github.com/fmcarvalho/express-sitemap-html), An express middleware that builds an HTML sitemap dynamically</small>
+
+* <small>[HoT: Unleash Web Views with Higher-order Templates](https://www.scitepress.org/Link.aspx?doi=10.5220/0008167701180129),  Luís Duarte and Miguel Gamboa, _15th International Conference on Web Information Systems and Technologies_, Vienna, 2019</small>
 
 * <small>[Modern Type-Safe Template Engines](https://dzone.com/articles/modern-type-safe-template-engines), Luís Duarte and Miguel Gamboa, **DZone -- Web Dev Zone**, Nov 2018</small>
 
