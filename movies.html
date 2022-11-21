@@ -24,7 +24,9 @@ header-img: "img/sj-onda.jpg"
     function movieHtml(mov) {
         return `
             <div class="card col-lg-5">
-                <img class="card-img-top" src="${mov.image}" alt="Card image" width="200">
+                <a href="https://www.imdb.com${mov.url}">
+                    <img class="card-img-top" src="${mov.image}" alt="Card image" width="200">
+                </a>
                 <div class="card-body">
                     <h4 class="card-title">${mov.name}</h4>
                     <p class="card-text">${mov.description}.</p>
