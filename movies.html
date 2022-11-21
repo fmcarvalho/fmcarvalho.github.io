@@ -4,18 +4,44 @@ title: "Filmes"
 description: "Filmes que vi, bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
+<div class="container">
+<div id="moviesList" class="row"></div>
+</div>
 
-<div id="divRss"></div>
-
-<link href="/css/FeedEk.css" rel="stylesheet" type="text/css" />
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-<script type="text/javascript" src="/js/FeedEk.js"></script>
 <script type="text/javascript">
-    $(document).ready(function () {
-        $('#divRss').FeedEk({
-            FeedUrl: 'http://rss.imdb.com/list/ls072050509/?&t=' + new Date().getTime(),
+    
+    fetchImdb()
 
-        });
-    });
+    async function fetchImdb() {
+        const moviesList = document.querySelector("#moviesList")
+        const obj = await ldJsonCors("https://www.imdb.com/list/ls072050509/")
+        for (const mov of obj.about.itemListElement) {
+            const obj = await ldJsonCors("https://www.imdb.com" + mov.url)
+            moviesList.insertAdjacentHTML("beforeend", movieHtml(obj))
+        }
+    }
 
+    function movieHtml(mov) {
+        return `
+            <div class="card col-lg-5">
+                <img class="card-img-top" src="${mov.image}" alt="Card image" width="200">
+                <div class="card-body">
+                    <h4 class="card-title">${mov.name}</h4>
+                    <p class="card-text">${mov.description}.</p>
+                </div>
+            </div>
+        `
+    }
+    /**
+     * Makes fetch request through api.allorigins.win to avoid CORS.
+     * Select ld+json tag, parse it and return its object.
+     */
+    async function ldJsonCors(url) {
+        const res = await fetch("https://api.allorigins.win/raw?url=" + url)
+        const body = await res.text()
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(body, "text/html")
+        const json = doc.querySelector('script[type="application/ld+json"]')
+        return JSON.parse(json.text)
+    }
 </script>
