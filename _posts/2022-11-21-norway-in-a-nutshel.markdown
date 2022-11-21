@@ -1,6 +1,6 @@
 ---
 layout: post
-title: norway in a nutshel
+title: Norway in a nutshel
 date: 2022-11-21
 type: post
 published: true

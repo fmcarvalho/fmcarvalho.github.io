@@ -16,4 +16,4 @@ Since 2008, I am also an Assistant Professor at
 [Computer Science and Engineering]( https://www.isel.pt/cursos/licenciaturas/engenharia-informatica-e-computadores)
 of [ISEL](https://www.isel.pt/).
 
-Passions? Work, family, sea, sports and traveling worldwide.
+Passions? Family, development, sea, sports and traveling worldwide.
