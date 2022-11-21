@@ -23,7 +23,7 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 
 ### <a name="projects">Final projects and dissertations supervision</a>
 
-* <small>BsC 2020/2021: [FinTracker - Gestor de Despesas](/img/pfc-posters/2022-FinTracker - Gestor de Despesas.pdf), 44875 - Inês Silva, 44876 - Pedro Castanheira</small>
+* <small>BsC 2021/2022: [FinTracker - Gestor de Despesas](/img/pfc-posters/2022-FinTracker - Gestor de Despesas.pdf), 44875 - Inês Silva, 44876 - Pedro Castanheira</small>
 * <small>MsC 2021/2022: CApacitacão de Software do Centro de Investigação Fernando FOnseca (CASCIFFO), Valdemar Antunes</small>
 * <small>MsC 2021/2022: [Plataforma de Gestão de Internamento de Doentes Mentais](https://www.slideshare.net/gamboacarvalho/plataforma-de-gesto-de-internamento-de-doentes-mentais), Bruno Canelas</small>
 * <small>BsC 2020/2021: [Home Energy Monitor](/img/pfc-posters/2021-Home-Energy-Monitor.pdf), 40583 - Diogo Morais, 38866 - Manuel Dias</small>
