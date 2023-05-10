@@ -8,7 +8,7 @@ I took [PAGE](https://www.clsbe.lisboa.ucp.pt/general-management-program/overvie
 post-graduation (2000-01) at Catholic University of Portugal and I received the 
 MsC (2003-05) and the PhD (2009-14) degrees in Computer and Software Engineering 
 from [IST]( https://tecnico.ulisboa.pt/). 
-During this journey, I passed by Altitude Software, Quatro SI, [CCISEL]( http://www.cc.isel.ipl.pt/)
+During this journey, I passed by Altitude Software, Quatro SI, [CCISEL](https://cc.isel.pt/)
 and [INESC ID]( https://www.inesc-id.pt/) where I had the opportunity to
 participate in different kinds of information systems projects in direct
 partnership with the industry. 
