@@ -23,6 +23,14 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 
 ### <a name="projects">Final projects and dissertations supervision</a>
 
+* <small>MsC 2023/2024: Benchmarking web applications in different architectural variants - José Cunha</small>
+* <small>BsC 2023/2024: [Automatic DSL extension for idiomatic Kotlin](/img/pfc-posters/2024-HtmlFlow-Kotlin-DSL.pdf) - André Vizinha 43567</small>
+* <small>BsC 2023/2024: [All Aboard](/img/pfc-posters/2024-allaboard.pdf) - Tiago Silva, Joaquim Ferreira</small>
+* <small>BsC 2023/2024: [SHORT - Simple HTML on Remote](/img/pfc-posters/2024-short.pdf) - António Marques</small>
+* <small>MsC 2023/2024: A Comprehensive Survey of Asynchronous API Approaches in Concurrent I/O Scenarios - Diogo Rodrigues</small>
+* <small>BsC 2022/2023: [Aplicação Web para a empresa Qualiteste](/img/pfc-posters/2023-Qualiteste.pdf) - 44869 João Mendes, 44838 Leandro Balouta</small>
+* <small>BsC 2022/2023: [QLess - Ticket System](/img/pfc-posters/2023-QLess.pdf), Afonso Santos João Cravo Marco Borges</small>
+* <small>MsC 2022/2023: [Reactive web templates](https://repositorio.ipl.pt/bitstream/10400.21/17497/1/PedroFialho_41418_MEIC.pdf) - Pedro Fialho</small>
 * <small>BsC 2021/2022: [FinTracker - Gestor de Despesas](/img/pfc-posters/2022-FinTracker - Gestor de Despesas.pdf), 44875 - Inês Silva, 44876 - Pedro Castanheira</small>
 * <small>MsC 2021/2022: CApacitacão de Software do Centro de Investigação Fernando FOnseca (CASCIFFO), Valdemar Antunes</small>
 * <small>MsC 2021/2022: [Plataforma de Gestão de Internamento de Doentes Mentais](https://www.slideshare.net/gamboacarvalho/plataforma-de-gesto-de-internamento-de-doentes-mentais), Bruno Canelas</small>
