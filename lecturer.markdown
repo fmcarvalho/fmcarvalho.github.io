@@ -19,10 +19,15 @@ As Teaching Assistant and later as Assistant Professor I have lectured the follo
 * [Mobile Device Programming](https://cc.isel.pt/academia/leic-en/pdm-en/)
 * Virtual Execution Environments (main bibliography "_Essential .Net_")
 * [Languages and Managed Runtimes](https://cc.isel.pt/academia/leic-en/lae-en/)
-
+* [Web Application Development](https://cc.isel.pt/academia/leic-en/daw-en/)
 
 ### <a name="projects">Final projects and dissertations supervision</a>
 
+* <small>MsC 2024/2025: Exam Monitoring Platform - José Jorge</small>
+* <small>BsC 2024/2025: [Non-Blocking Progressive Server-Side Rendering Benchmark](https://www.mdpi.com/2674-113X/4/3/20) - Bernardo Pereira</small>
+* <small>BsC 2024/2025: [Cofidis Forward for Developers](/img/pfc-posters/2025-cofidis-fwd-dev.pdf) - 50543 Arthur Oliveira, 50471 Brian Melhorado, 50978 Guilherme Belo</small>
+* <small>BsC 2024/2025: [BandSphere - Music catalog and rating platform](/img/pfc-posters/2025-bandsphere.pdf) - Francisco Castelo 49447, Guiherme Barradas 49458</small>
+* <small>BsC 2024/2025: [LiftDrop - Mobile App for Deliveries](/img/pfc-posters/2025-lift-drop.pdf) - 49502 Gonçalo Morais, 49424 João Ramos</small>
 * <small>MsC 2023/2024: Benchmarking web applications in different architectural variants - José Cunha</small>
 * <small>BsC 2023/2024: [Automatic DSL extension for idiomatic Kotlin](/img/pfc-posters/2024-HtmlFlow-Kotlin-DSL.pdf) - André Vizinha 43567</small>
 * <small>BsC 2023/2024: [All Aboard](/img/pfc-posters/2024-allaboard.pdf) - Tiago Silva, Joaquim Ferreira</small>
