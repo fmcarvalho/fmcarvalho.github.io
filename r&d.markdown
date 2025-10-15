@@ -11,6 +11,8 @@ specialized training courses, technical consulting and research.
 Next you may find some publications related with my activity on academia:
 
 
+* [Enabling Progressive Server-Side Rendering for Traditional Web Template Engines with Java Virtual Threads](https://www.mdpi.com/2674-113X/4/3/20) - MDPI Software Journal. 
+
 * [Progressive Server-Side Rendering with Suspendable Web Templates](/img/my-papers/wise-2024-pssr-async-await.pdf), 25th edition of [WISE](https://wise2024-qatar.com/), Doha, Qatar, 2024 ([slides](/img/my-papers/wise-2024-slides.pdf)).
 
 * [Enhancing SSR in Low-Thread Web Servers](https://www.scitepress.org/Link.aspx?doi=10.5220/0012165300003584), Pedro Fialho and Miguel Gamboa, [19th WebIst](https://webist.scitevents.org/?y=2023), Rome, 2023 ([slides](/img/my-papers/webist-2023-slides.pdf)).
