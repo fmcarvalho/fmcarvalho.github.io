@@ -5,6 +5,226 @@ description: "Filmes que vi, bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
 
+## [A Good Person](https://www.imdb.com/title/tt14153080/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 5/10
+* **IMDb Rating:** 7.1 (28708 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Drama
+* **Content Rating:** R
+* **Review (PT):** Gosto da atriz. O filme em si uma xaxada. Previsível, novela, sem nada alem do esperado.
+[<img src="https://m.media-amazon.com/images/M/MV5BMTJmYWM4ZjUtYzI5NC00MTM3LWI4YTUtYmE4ODAyOGYzNjlkXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for A Good Person">](https://www.imdb.com/title/tt14153080/)
+
+## [The Invisible Man](https://www.imdb.com/title/tt1051906/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.1 (281321 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Drama, Horror, Mystery
+* **Content Rating:** R
+* **Review (PT):** Um 7 redondo. Adoro a atriz. Filme com pequenas faladas mas um muito bom argumento.
+[<img src="https://m.media-amazon.com/images/M/MV5BYTM3NDJhZWUtZWM1Yy00ODk4LThjNmMtNDg3OGYzMGM2OGYzXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Invisible Man">](https://www.imdb.com/title/tt1051906/)
+
+## [Before I Go to Sleep](https://www.imdb.com/title/tt1726592/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.3 (89451 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Drama, Mystery, Thriller
+* **Content Rating:** R
+* **Review (PT):** Argumento ate meio interessante, mas a faltar um remate final. Os atores engrandecem o filme e pouco mais. Ainda assim vale muito apena ate meio. 
+[<img src="https://m.media-amazon.com/images/M/MV5BNjI0NTAwMTU1NV5BMl5BanBnXkFtZTgwNzkwNjQ0MjE@._V1_.jpg" style="width: 150px;" alt="Poster for Before I Go to Sleep">](https://www.imdb.com/title/tt1726592/)
+
+## [Monkey Man](https://www.imdb.com/title/tt9214772/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.8 (98992 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Action, Crime, Thriller
+* **Content Rating:** R
+* **Review (PT):** Mais ou menos ate meio. Desinteressante a partir dai, tornando se no vulgar filme de porrada bem feito com um excelente actor.
+[<img src="https://m.media-amazon.com/images/M/MV5BODM2ZmZjYmQtNTA3NC00MmYzLWEwOTItMDNjYzc3MzI1NWNmXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Monkey Man">](https://www.imdb.com/title/tt9214772/)
+
+## [Juror #2](https://www.imdb.com/title/tt27403986/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 7/10
+* **IMDb Rating:** 7 (122511 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Crime, Drama, Mystery
+* **Content Rating:** PG-13
+* **Review (PT):** Fiel ao estilo do Clint Eastwood. Bom filme. Vale apena.
+[<img src="https://m.media-amazon.com/images/M/MV5BMjM4YjA1NTItOWI3Ni00MzAwLThmMjMtNmM2MWY2Y2ZmOGIzXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Juror #2">](https://www.imdb.com/title/tt27403986/)
+
+## [The Leisure Seeker](https://www.imdb.com/title/tt3741632/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.7 (10558 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Adventure, Comedy, Drama
+* **Content Rating:** R
+* **Review (PT):** Vê se bem. Descontraído. Actores deliciosos. Momentos fofos. Gosto. Para alguns leve e para outros pesado.
+[<img src="https://m.media-amazon.com/images/M/MV5BMTg1NTg2MzcyNF5BMl5BanBnXkFtZTgwNjMwMDIzNDM@._V1_.jpg" style="width: 150px;" alt="Poster for The Leisure Seeker">](https://www.imdb.com/title/tt3741632/)
+
+## [Don't Worry, He Won't Get Far on Foot](https://www.imdb.com/title/tt6288124/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.8 (33019 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Biography, Comedy, Drama
+* **Content Rating:** R
+* **Review (PT):** Vale sempre por se basear em fatos verídicos. Gosto do estilo deste realizador. Embora um pouco longo. Grandes interpretações.
+[<img src="https://m.media-amazon.com/images/M/MV5BMTc5ODA4OTkyMl5BMl5BanBnXkFtZTgwOTkxMTk4NTM@._V1_.jpg" style="width: 150px;" alt="Poster for Don't Worry, He Won't Get Far on Foot">](https://www.imdb.com/title/tt6288124/)
+
+## [Widows](https://www.imdb.com/title/tt4218572/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.8 (108701 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Crime, Drama, Thriller
+* **Content Rating:** R
+* **Review (PT):** Not bad. Por vezes sinto que engonha. Embora os actores atenuam as fragilidades do filme. E o realizador claro.
+[<img src="https://m.media-amazon.com/images/M/MV5BMjM3ODc5NDEyOF5BMl5BanBnXkFtZTgwMTI4MDcxNjM@._V1_.jpg" style="width: 150px;" alt="Poster for Widows">](https://www.imdb.com/title/tt4218572/)
+
+## [The Brutalist](https://www.imdb.com/title/tt8999762/)
+* **Last Watched:** 2026-02-23
+* **My Rating:** 8/10
+* **IMDb Rating:** 7.2 (133670 votes)
+* **Director:** 
+* **Actors:** 
+* **Genre:** Drama
+* **Content Rating:** R
+* **Review (PT):** Genial. Duas interpretações fenomenais que se combinam e engrandecem uma na outra. Um titulo que se encaixa no filme na perfeição. Brutalista em todos os aspetos.
+[<img src="https://m.media-amazon.com/images/M/MV5BM2U0MWRjZTMtMDVhNC00MzY4LTgwOTktZGQ2MDdiYTI4OWMxXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Brutalist">](https://www.imdb.com/title/tt8999762/)
+
+## [Armageddon](https://www.imdb.com/title/tt0120591/)
+* **Last Watched:** 2025-12-29
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.7 (474087 votes)
+* **Director:** Michael Bay
+* **Actors:** Bruce Willis, Billy Bob Thornton, Ben Affleck
+* **Genre:** Action, Adventure, Sci-Fi
+* **Content Rating:** PG-13
+* **Review (PT):** Filme revisto em noite de chuva com a familia. Um clássico cheio de defeitos mas que vale muito por encher um serão de Cinema em Família. Não espero mais do que isso.
+[<img src="https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Armageddon">](https://www.imdb.com/title/tt0120591/)
+
+## [The Holdovers](https://www.imdb.com/title/tt14849194/)
+* **Last Watched:** 2025-12-29
+* **My Rating:** 8/10
+* **IMDb Rating:** 7.9 (210736 votes)
+* **Director:** Alexander Payne
+* **Actors:** Paul Giamatti, Dominic Sessa, Da'Vine Joy Randolph
+* **Genre:** Comedy, Drama
+* **Content Rating:** R
+* **Review (PT):** Um estória simples bem contada com um tom natural e momentos de humor e alguns de afeto que nos enchem a alma numa noite de tempos de natal. Bom para ver em familia e no meu casos deliciou o mais novo. 
+[<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt14849194.jpg" style="width: 150px;" alt="Poster for The Holdovers">](https://www.imdb.com/title/tt14849194/)
+
+## [Frankenstein](https://www.imdb.com/title/tt1312221/)
+* **Last Watched:** 2025-12-29
+* **My Rating:** 8/10
+* **IMDb Rating:** 7.5 (206675 votes)
+* **Director:** Guillermo del Toro
+* **Actors:** Oscar Isaac, Jacob Elordi, Christoph Waltz
+* **Genre:** Drama, Fantasy, Horror
+* **Content Rating:** R
+* **Review (PT):** Este realizador enriquece ou engrandece os filmes. Sou fã de estórias clássicas como esta e que revigorou neste filme. Apesar de ser longo não me custou a passar e quase nem dei pelo tempo. 
+[<img src="https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Frankenstein">](https://www.imdb.com/title/tt1312221/)
+
+## [Commando](https://www.imdb.com/title/tt0088944/)
+* **Last Watched:** 2025-12-09
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.7 (185382 votes)
+* **Director:** Mark L. Lester
+* **Actors:** Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya
+* **Genre:** Action, Adventure, Thriller
+* **Content Rating:** R
+* **Review (PT):** Um filme mau, mas com tanto de bom na essência do que era o herói nos anos 80 e tão distinto daquilo que vemos hoje num Tom Holland, num andrew garfield, num timothée chalamet
+[<img src="https://m.media-amazon.com/images/M/MV5BZjAyNTRiMTEtNzNlZS00YTZhLThmNzQtZjBkOWQ4N2Y4YjQzXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Commando">](https://www.imdb.com/title/tt0088944/)
+
+## [RED](https://www.imdb.com/title/tt1245526/)
+* **Last Watched:** 2025-12-09
+* **My Rating:** 5/10
+* **IMDb Rating:** 7 (335788 votes)
+* **Director:** Robert Schwentke
+* **Actors:** Bruce Willis, Mary-Louise Parker, Heidi von Palleske
+* **Genre:** Action, Comedy, Crime
+* **Content Rating:** PG-13
+* **Review (PT):** Um filmezinho de fim de semana para ver em familia e sem ter muito que pensar
+[<img src="https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_.jpg" style="width: 150px;" alt="Poster for RED">](https://www.imdb.com/title/tt1245526/)
+
+## [The Order](https://www.imdb.com/title/tt26625693/)
+* **Last Watched:** 2025-12-09
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.8 (57725 votes)
+* **Director:** Justin Kurzel
+* **Actors:** Marc Maron, George Tchortov, Daniel Yip
+* **Genre:** Crime, Drama, Thriller
+* **Content Rating:** R
+* **Review (PT):** Vale pelos factos verídicos e pouco mais. Bem Jude Law
+[<img src="https://m.media-amazon.com/images/M/MV5BZWIxOGQyYjYtOGEwOC00YWNjLWJmNTktZjJlM2RmNTdjMmVlXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Order">](https://www.imdb.com/title/tt26625693/)
+
+## [Black Mass](https://www.imdb.com/title/tt1355683/)
+* **Last Watched:** 2025-12-09
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.8 (200766 votes)
+* **Director:** Scott Cooper
+* **Actors:** Johnny Depp, Joel Edgerton, Benedict Cumberbatch
+* **Genre:** Biography, Crime, Drama
+* **Content Rating:** R
+* **Review (PT):** Que papelão de Johnny Depp e eu que nem o aprecio muito. O ritmo pausado da sua atuação e diálogos prendeu-me ao ecrã.
+[<img src="https://m.media-amazon.com/images/M/MV5BNzg0ODI3NDQxNF5BMl5BanBnXkFtZTgwMzgzNDA0NjE@._V1_.jpg" style="width: 150px;" alt="Poster for Black Mass">](https://www.imdb.com/title/tt1355683/)
+
+## [The Burial](https://www.imdb.com/title/tt5648882/)
+* **Last Watched:** 2025-11-24
+* **My Rating:** 6/10
+* **IMDb Rating:** 7.1 (41687 votes)
+* **Director:** Maggie Betts
+* **Actors:** Jamie Foxx, Tommy Lee Jones, Jurnee Smollett
+* **Genre:** Drama
+* **Content Rating:** R
+* **Review (PT):** Vê se bem e nada mais. A típica historia resiliência americana que eles tanto gostam
+[<img src="https://m.media-amazon.com/images/M/MV5BNDNjZDY4OTMtZjM1Ni00OGYwLWE2NDItYzk1ZWYzYTgyYWNiXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Burial">](https://www.imdb.com/title/tt5648882/)
+
+## [A Bigger Splash](https://www.imdb.com/title/tt0071219/)
+* **Last Watched:** 2025-11-24
+* **My Rating:** 7/10
+* **IMDb Rating:** 5.8 (718 votes)
+* **Director:** Jack Hazan
+* **Actors:** David Hockney, Peter Schlesinger, Celia Birtwell
+* **Genre:** Documentary, Biography, Drama
+* **Content Rating:** Not Rated
+* **Review (PT):** Guadagnino em mais um cruzamento de passado, com o calor do verão, noites, piscina, musica, intensidade, insinuação, sensualidade, raiva, explosão, amor e ódio. Deixa uma amargo de boca em muitos episódios sem final e à mercê da mente. Não adoro. Mas merece ser visto.
+[<img src="https://m.media-amazon.com/images/M/MV5BMzAzODZkMzgtYmQxNy00ZThjLTk2NTMtZDFjY2MxYWYwMThjXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for A Bigger Splash">](https://www.imdb.com/title/tt0071219/)
+
+## [A Bigger Splash](https://www.imdb.com/title/tt2056771/)
+* **Last Watched:** 2025-11-24
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.4 (35995 votes)
+* **Director:** Luca Guadagnino
+* **Actors:** Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes
+* **Genre:** Drama, Music, Thriller
+* **Content Rating:** R
+* **Review (PT):** Guadagnino em mais um cruzamento de passado, com o calor do verão, noites, piscina, musica, intensidade, insinuação, sensualidade, raiva, explosão, amor e ódio. Deixa uma amargo de boca em muitos episódios sem final e à mercê da mente. Não adoro. Mas merece ser visto. Gosto muito dos atores. Ralph Fiennes no melhor.
+[<img src="https://m.media-amazon.com/images/M/MV5BMTkxNzk3NzMwN15BMl5BanBnXkFtZTgwODc3ODQ4NzE@._V1_.jpg" style="width: 150px;" alt="Poster for A Bigger Splash">](https://www.imdb.com/title/tt2056771/)
+
+## [Wanted](https://www.imdb.com/title/tt0493464/)
+* **Last Watched:** 2025-11-24
+* **My Rating:** 5/10
+* **IMDb Rating:** 6.7 (424859 votes)
+* **Director:** Timur Bekmambetov
+* **Actors:** James McAvoy, Morgan Freeman, Angelina Jolie
+* **Genre:** Action, Crime, Thriller
+* **Content Rating:** R
+* **Review (PT):** Com potencial mas mal aproveitado. Filme redundante. Apenas para uma tarde de domingo para entreter no sofa e mais nada.
+[<img src="https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_.jpg" style="width: 150px;" alt="Poster for Wanted">](https://www.imdb.com/title/tt0493464/)
+
 ## [Bones and All](https://www.imdb.com/title/tt10168670/)
 * **Last Watched:** 2025-11-12
 * **My Rating:** 8/10
