@@ -5,6 +5,127 @@ description: "Filmes que vi, bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
 
+## [10 Cloverfield Lane](https://www.imdb.com/title/tt1179933)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 5/10
+* **IMDb Rating:** 7.003 (8679 votes)
+* **Director:** Dan Trachtenberg
+* **Actors:** John Goodman, Mary Elizabeth Winstead, John Gallagher Jr.
+* **Genre:** Thriller, Science Fiction, Drama, Horror
+* **Content Rating:** M
+* **Review (PT):** Começa bem. Gosto dos actores. Mas rapidamente se percebe que só engonha e não chega a lado nenhum de jeito.
+[<img src="https://image.tmdb.org/t/p/original/q8A39vcBDruhvoDTJd6L8a4lnTi.jpg" style="width: 150px;" alt="Poster for 10 Cloverfield Lane">](https://www.imdb.com/title/tt1179933)
+
+## [A Complete Unknown](https://www.imdb.com/title/tt11563598)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 6/10
+* **IMDb Rating:** 7.1 (1439 votes)
+* **Director:** James Mangold
+* **Actors:** Timothée Chalamet, Edward Norton, Elle Fanning
+* **Genre:** Drama, Music
+* **Content Rating:** +13
+* **Review (PT):** Bem feito. Mas nao me trouxe grande coisa alem de ver uma boa interpretação.
+[<img src="https://image.tmdb.org/t/p/original/llWl3GtNoXosbvYboelmoT459NM.jpg" style="width: 150px;" alt="Poster for A Complete Unknown">](https://www.imdb.com/title/tt11563598)
+
+## [A Real Pain](https://www.imdb.com/title/tt21823606)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.778 (1400 votes)
+* **Director:** Jesse Eisenberg
+* **Actors:** Jesse Eisenberg, Kieran Culkin, Will Sharpe
+* **Genre:** Comedy, Drama
+* **Content Rating:** +13
+* **Review (PT):** Gostei. Gosto do ritmo. Jesse Eisenberg repete sempre a forma de representar mas ainda assim aguenta—se.
+[<img src="https://image.tmdb.org/t/p/original/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg" style="width: 150px;" alt="Poster for A Real Pain">](https://www.imdb.com/title/tt21823606)
+
+## [Dracula](https://www.imdb.com/title/tt31434030)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 6/10
+* **IMDb Rating:** 7.122 (1226 votes)
+* **Director:** Luc Besson
+* **Actors:** Caleb Landry Jones, Zoë Bleu Sidel, Christoph Waltz
+* **Genre:** Horror, Fantasy, Romance
+* **Content Rating:** +16
+* **Review (PT):** Vi por ser do Luc Besson e porque adoro todos os contos do Dracula. Esta versão e’ uma reedição da versão de Francis Ford Coppola. Impossível fazer melhor que essa obra prima. Impossível bater o mostro Gary Oldman. Ainda assim uma corajosa tentativa com um excelente leque de actores.
+[<img src="https://image.tmdb.org/t/p/original/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg" style="width: 150px;" alt="Poster for Dracula">](https://www.imdb.com/title/tt31434030)
+
+## [Hell or High Water](https://www.imdb.com/title/tt2582782)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 6/10
+* **IMDb Rating:** 7.301 (4864 votes)
+* **Director:** David Mackenzie
+* **Actors:** Jeff Bridges, Chris Pine, Ben Foster
+* **Genre:** Western, Crime, Drama
+* **Content Rating:** +13
+* **Review (PT):** Vê-se bem e pouco mais. Deve ser melhor para eles americanos. Boa interpretação de Jeff Bridges
+[<img src="https://image.tmdb.org/t/p/original/ljRRxqy2aXIkIBXLmOVifcOR021.jpg" style="width: 150px;" alt="Poster for Hell or High Water">](https://www.imdb.com/title/tt2582782)
+
+## [Heretic](https://www.imdb.com/title/tt28015403/)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 7/10
+* **IMDb Rating:** 7 (199957 votes)
+* **Director:** Scott Beck, Bryan Woods
+* **Actors:** Hugh Grant, Sophie Thatcher, Chloe East
+* **Genre:** Horror, Thriller
+* **Content Rating:** R
+* **Review (PT):** Bom contexto para um bom thriller. Este estilo hilariante do Hugh Grant encaixa no enredo. 
+[<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt28015403.jpg" style="width: 150px;" alt="Poster for Heretic">](https://www.imdb.com/title/tt28015403/)
+
+## [Speak No Evil](https://www.imdb.com/title/tt27534307)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.12 (2110 votes)
+* **Director:** James Watkins
+* **Actors:** James McAvoy, Mackenzie Davis, Scoot McNairy
+* **Genre:** Horror, Thriller
+* **Content Rating:** MA 15+
+* **Review (PT):** Longe de ser fenomenal, mas suficientemente bom para nos prender ao ecrã. Mais uma boa interpretação de James McAvoy. 
+[<img src="https://image.tmdb.org/t/p/original/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg" style="width: 150px;" alt="Poster for Speak No Evil">](https://www.imdb.com/title/tt27534307)
+
+## [The Rainmaker](https://www.imdb.com/title/tt0119978)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 6/10
+* **IMDb Rating:** 7.024 (1485 votes)
+* **Director:** Francis Ford Coppola
+* **Actors:** Matt Damon, Claire Danes, Danny DeVito
+* **Genre:** Drama, Crime, Thriller
+* **Content Rating:** M
+* **Review (PT):** Vê-se bem. Filmezinho dos anos 90 para fim de semana.
+[<img src="https://image.tmdb.org/t/p/original/twLGHXPjQtS8UyVGp5GXmhJiTM7.jpg" style="width: 150px;" alt="Poster for The Rainmaker">](https://www.imdb.com/title/tt0119978)
+
+## [Shazam!](https://www.imdb.com/title/tt0448115)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 7/10
+* **IMDb Rating:** 6.978 (10191 votes)
+* **Director:** David F. Sandberg
+* **Actors:** Zachary Levi, Mark Strong, Asher Angel
+* **Genre:** Action, Comedy, Fantasy
+* **Content Rating:** M
+* **Review (PT):** Filme de familia nunca escolhido por mim. De vez em quando tem que ser eles a escolher. Ainda assim não foi mau de todo e até dispõe bem. Parvoice
+[<img src="https://image.tmdb.org/t/p/original/xnopI5Xtky18MPhK40cZAGAOVeV.jpg" style="width: 150px;" alt="Poster for Shazam!">](https://www.imdb.com/title/tt0448115)
+
+## [American Psycho](https://www.imdb.com/title/tt0144084)
+* **Last Watched:** 2026-06-01
+* **My Rating:** 8/10
+* **IMDb Rating:** 7.404 (12287 votes)
+* **Director:** Mary Harron
+* **Actors:** Christian Bale, Justin Theroux, Josh Lucas
+* **Genre:** Thriller, Drama, Crime
+* **Content Rating:** 18
+* **Review (PT):** Um clássico. Não tem um final absoluto. Mas daqueles clássicos que tem que ser visto. Hilariante. Vi no cinema quando estreou. Voltei a rever agora e continua no clube dos filmes restritos.
+[<img src="https://image.tmdb.org/t/p/original/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg" style="width: 150px;" alt="Poster for American Psycho">](https://www.imdb.com/title/tt0144084)
+
+## [American Fiction](https://www.imdb.com/title/tt23561236/)
+* **Last Watched:** 2026-05-31
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.5 (114234 votes)
+* **Director:** Cord Jefferson
+* **Actors:** Jeffrey Wright, Skyler Wright, John Ales
+* **Genre:** Comedy, Drama
+* **Content Rating:** R
+* **Review (PT):** Classificado como comedia inteligente. Gosto dos diálogos naturais e do toque das personagens. A crueza e simplicidade de algumas cenas. Não gosto da derivação alucinante fictícia da sobreposição a um ramo paralelo. 
+[<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt23561236.jpg" style="width: 150px;" alt="Poster for American Fiction">](https://www.imdb.com/title/tt23561236/)
+
 ## [A Good Person](https://www.imdb.com/title/tt14153080/)
 * **Last Watched:** 2026-02-23
 * **My Rating:** 5/10
@@ -191,17 +312,6 @@ header-img: "img/sj-onda.jpg"
 * **Content Rating:** R
 * **Review (PT):** Vê se bem e nada mais. A típica historia resiliência americana que eles tanto gostam
 [<img src="https://m.media-amazon.com/images/M/MV5BNDNjZDY4OTMtZjM1Ni00OGYwLWE2NDItYzk1ZWYzYTgyYWNiXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Burial">](https://www.imdb.com/title/tt5648882/)
-
-## [A Bigger Splash](https://www.imdb.com/title/tt0071219/)
-* **Last Watched:** 2025-11-24
-* **My Rating:** 7/10
-* **IMDb Rating:** 5.8 (718 votes)
-* **Director:** Jack Hazan
-* **Actors:** David Hockney, Peter Schlesinger, Celia Birtwell
-* **Genre:** Documentary, Biography, Drama
-* **Content Rating:** Not Rated
-* **Review (PT):** Guadagnino em mais um cruzamento de passado, com o calor do verão, noites, piscina, musica, intensidade, insinuação, sensualidade, raiva, explosão, amor e ódio. Deixa uma amargo de boca em muitos episódios sem final e à mercê da mente. Não adoro. Mas merece ser visto.
-[<img src="https://m.media-amazon.com/images/M/MV5BMzAzODZkMzgtYmQxNy00ZThjLTk2NTMtZDFjY2MxYWYwMThjXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for A Bigger Splash">](https://www.imdb.com/title/tt0071219/)
 
 ## [A Bigger Splash](https://www.imdb.com/title/tt2056771/)
 * **Last Watched:** 2025-11-24
