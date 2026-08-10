@@ -5,6 +5,116 @@ description: "Filmes que vi, bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
 
+## [I Origins](https://www.imdb.com/title/tt2884206)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.566 (3503 votes)
+* **Director:** Mike Cahill
+* **Actors:** Michael Pitt, Brit Marling, Àstrid Bergès-Frisbey
+* **Genre:** Science Fiction, Drama
+* **Content Rating:** 12
+* **Review (PT):** Sem ser brilhante, mas eficaz. 
+[<img src="https://image.tmdb.org/t/p/original/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg" style="width: 150px;" alt="Poster for I Origins">](https://www.imdb.com/title/tt2884206)
+
+## [Point Break](https://www.imdb.com/title/tt2058673)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 4/10
+* **IMDb Rating:** 5.955 (2477 votes)
+* **Director:** Ericson Core
+* **Actors:** Edgar Ramírez, Luke Bracey, Teresa Palmer
+* **Genre:** Action, Adventure, Crime, Thriller
+* **Content Rating:** 12
+* **Review (PT):** Pelo trailer e porque conhecia o original não quis acreditar que fosse assim tão mau. Para quem como eu considero o Point Break original um filme de culto, foi impossível chegar ao fim deste filme.
+[<img src="https://image.tmdb.org/t/p/original/z7JOvw5Lqs9ezoFTJxmz3nx3av2.jpg" style="width: 150px;" alt="Poster for Point Break">](https://www.imdb.com/title/tt2058673)
+
+## [Rust and Bone](https://www.imdb.com/title/tt2053425)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.161 (1474 votes)
+* **Director:** Jacques Audiard
+* **Actors:** Marion Cotillard, Matthias Schoenaerts, Armand Verdure
+* **Genre:** Drama, Romance
+* **Content Rating:** MA 15+
+* **Review (PT):** Considero um filme fraco, mas que simultaneamente me cativa a ver ate ao fim. Talvez por ter demasiado realismo.
+[<img src="https://image.tmdb.org/t/p/original/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg" style="width: 150px;" alt="Poster for Rust and Bone">](https://www.imdb.com/title/tt2053425)
+
+## [Drive-Away Dolls](https://www.imdb.com/title/tt19356262)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 6/10
+* **IMDb Rating:** 5.511 (601 votes)
+* **Director:** Ethan Coen
+* **Actors:** Margaret Qualley, Geraldine Viswanathan, Beanie Feldstein
+* **Genre:** Comedy, Crime
+* **Content Rating:** MA 15+
+* **Review (PT):** Muito longe das obras primas dos Cohen. Mas ve se bem dentro de um estilo diferente.
+[<img src="https://image.tmdb.org/t/p/original/6QPKmqntFgLm6sB47AtSelEGGPM.jpg" style="width: 150px;" alt="Poster for Drive-Away Dolls">](https://www.imdb.com/title/tt19356262)
+
+## [Romeo + Juliet](https://www.imdb.com/title/tt0117509)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 8/10
+* **IMDb Rating:** 6.779 (5407 votes)
+* **Director:** Baz Luhrmann
+* **Actors:** Leonardo DiCaprio, Claire Danes, Jesse Bradford
+* **Genre:** Drama, Romance
+* **Content Rating:** M
+* **Review (PT):** Para mim a melhor versão de cinema. Inovador no seu tempo.
+[<img src="https://image.tmdb.org/t/p/original/dJCDUkXhfRdc4q8e4VCKEBbqzBT.jpg" style="width: 150px;" alt="Poster for Romeo + Juliet">](https://www.imdb.com/title/tt0117509)
+
+## [Late Shift](https://www.imdb.com/title/tt32204858)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.866 (303 votes)
+* **Director:** Petra Biondina Volpe
+* **Actors:** Leonie Benesch, Alireza Bayram, Jürg Plüss
+* **Genre:** Drama
+* **Content Rating:** 12
+* **Review (PT):** Uma reprodução muito real da vida num hospital contada em tempo real que nos transporta para os problemas que se relatam também por ca. Muito bom
+[<img src="https://image.tmdb.org/t/p/original/2X2FZIYdXYNwDbStJhgeoVn0pWH.jpg" style="width: 150px;" alt="Poster for Late Shift">](https://www.imdb.com/title/tt32204858)
+
+## [O Último Animal](https://www.imdb.com/title/tt1525785)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 6/10
+* **IMDb Rating:** 6 (5 votes)
+* **Director:** Leonel Vieira
+* **Actors:** Júnior Vieira, Joaquim de Almeida, Duran Fulton Brown
+* **Genre:** Action, Drama, Thriller
+* **Content Rating:** 16
+* **Review (PT):** Muito muito inspirado na Tropa de Elite e ate na dinâmica da filmagem. Ainda assim prendeu-me ao ecrã.
+[<img src="https://image.tmdb.org/t/p/original/nRCv5BRuDHY2HvfQ43MhjtwIRjB.jpg" style="width: 150px;" alt="Poster for O Último Animal">](https://www.imdb.com/title/tt1525785)
+
+## [Being John Malkovich](https://www.imdb.com/title/tt0120601)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.42 (4878 votes)
+* **Director:** Spike Jonze
+* **Actors:** John Cusack, Cameron Diaz, John Malkovich
+* **Genre:** Comedy, Drama, Fantasy
+* **Content Rating:** MA 15+
+* **Review (PT):** Gosto bastante. Mesmo depois de rever.
+[<img src="https://image.tmdb.org/t/p/original/31FGQu3OnwdmS4COquENe0vMZc0.jpg" style="width: 150px;" alt="Poster for Being John Malkovich">](https://www.imdb.com/title/tt0120601)
+
+## [Nuremberg](https://www.imdb.com/title/tt29567915)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 8/10
+* **IMDb Rating:** 7.599 (1305 votes)
+* **Director:** James Vanderbilt
+* **Actors:** Rami Malek, Russell Crowe, Michael Shannon
+* **Genre:** History, Drama
+* **Content Rating:** +13
+* **Review (PT):** Primeiro filme que vejo com o Russel Crowe que gosto. E a primeira interpretação digna deste actor. Tudo o resto detestei. Grande filme.
+[<img src="https://image.tmdb.org/t/p/original/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg" style="width: 150px;" alt="Poster for Nuremberg">](https://www.imdb.com/title/tt29567915)
+
+## [A Big Bold Beautiful Journey](https://www.imdb.com/title/tt13650700)
+* **Last Watched:** 2026-08-10
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.159 (424 votes)
+* **Director:** Kogonada
+* **Actors:** Colin Farrell, Margot Robbie, Kevin Kline
+* **Genre:** Romance, Fantasy, Drama
+* **Content Rating:** +13
+* **Review (PT):** So vale pelos actores. Tudo o resto… enfim….
+[<img src="https://image.tmdb.org/t/p/original/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg" style="width: 150px;" alt="Poster for A Big Bold Beautiful Journey">](https://www.imdb.com/title/tt13650700)
+
 ## [10 Cloverfield Lane](https://www.imdb.com/title/tt1179933)
 * **Last Watched:** 2026-06-01
 * **My Rating:** 5/10
