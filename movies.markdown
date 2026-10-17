@@ -5,6 +5,72 @@ description: "Filmes que vi, bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
 
+## [Hotel Amor](https://www.imdb.com/title/tt28638229)
+* **Last Watched:** 2026-10-17
+* **My Rating:** 6/10
+* **IMDb Rating:** 6 (2 votes)
+* **Director:** Hermano Moreira
+* **Actors:** Jessica Athayde, Júlia Palha, Francisco Froes
+* **Genre:** Comedy
+* **Content Rating:** 16
+* **Review (PT):** Dispoe bem. Aproveita a técnica de long take de forma adequada. Sem ser uma pérola do cinema também não lhe noto nenhuma aberração.
+[<img src="https://image.tmdb.org/t/p/original/dyD0I437nIPyXrW5a0K6XyUvOFh.jpg" style="width: 150px;" alt="Poster for Hotel Amor">](https://www.imdb.com/title/tt28638229)
+
+## [Witness](https://www.imdb.com/title/tt0090329)
+* **Last Watched:** 2026-10-17
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.088 (1983 votes)
+* **Director:** Peter Weir
+* **Actors:** Harrison Ford, Kelly McGillis, Josef Sommer
+* **Genre:** Crime, Drama, Thriller
+* **Content Rating:** M
+* **Review (PT):** Um clássico. Revi ao fim de umas décadas. O romance inspirador continua uma parte do toque do filme. O thriller banal e cheio de falhas. Ainda assim vale muito pelo contexto e na época em que foi feito.
+[<img src="https://image.tmdb.org/t/p/original/kOymD1rChAMykmDVEzJpIh4OYS7.jpg" style="width: 150px;" alt="Poster for Witness">](https://www.imdb.com/title/tt0090329)
+
+## [Young Sherlock Holmes](https://www.imdb.com/title/tt0090357)
+* **Last Watched:** 2026-10-17
+* **My Rating:** 6/10
+* **IMDb Rating:** 6.764 (740 votes)
+* **Director:** Barry Levinson
+* **Actors:** Nicholas Rowe, Alan Cox, Sophie Ward
+* **Genre:** Mystery, Adventure, Thriller
+* **Content Rating:** PG
+* **Review (PT):** Filme da minha infância que me faz viajar a uma época dos Goonies, Regresso ao Futuro, Stande By Me, etc… Cheio de falhas. Fim previsível e banal. Ainda assim delicioso de reviver.
+[<img src="https://image.tmdb.org/t/p/original/aOxVYvQoAfNSns4hW5Ah55GBzgq.jpg" style="width: 150px;" alt="Poster for Young Sherlock Holmes">](https://www.imdb.com/title/tt0090357)
+
+## [Donnie Darko](https://www.imdb.com/title/tt0246578)
+* **Last Watched:** 2026-10-17
+* **My Rating:** 6/10
+* **IMDb Rating:** 7.761 (13850 votes)
+* **Director:** Richard Kelly
+* **Actors:** Jake Gyllenhaal, Jena Malone, James Duval
+* **Genre:** Fantasy, Drama, Mystery
+* **Content Rating:** 16
+* **Review (PT):** Posso ser injusto na classificação, mas não cheguei la. Valeu por revisitar actores de renome em inicio de carreira. Há um toque e mensagem filosófica. Mas tudo soa mal interpretado. 
+[<img src="https://image.tmdb.org/t/p/original/j2AtZFsflxiluaNtajMTI0Avm8C.jpg" style="width: 150px;" alt="Poster for Donnie Darko">](https://www.imdb.com/title/tt0246578)
+
+## [Love & Mercy](https://www.imdb.com/title/tt0903657)
+* **Last Watched:** 2026-10-17
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.1 (790 votes)
+* **Director:** Bill Pohlad
+* **Actors:** Paul Dano, John Cusack, Elizabeth Banks
+* **Genre:** Drama, Music, History
+* **Content Rating:** M
+* **Review (PT):** Gosto destas biografias. Mais uma bem contada. Uma parte que desconhecia. Excelentes actores. E gosto da musica…
+[<img src="https://image.tmdb.org/t/p/original/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg" style="width: 150px;" alt="Poster for Love & Mercy">](https://www.imdb.com/title/tt0903657)
+
+## [Sentimental Value](https://www.imdb.com/title/tt27714581)
+* **Last Watched:** 2026-10-17
+* **My Rating:** 7/10
+* **IMDb Rating:** 7.5 (1140 votes)
+* **Director:** Joachim Trier
+* **Actors:** Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas
+* **Genre:** Drama, Comedy
+* **Content Rating:** +13
+* **Review (PT):** Bem feito e bem conseguido. Ainda assim não me deslumbrou. Talvez daqui a uns anos com menos sono o veja melhor. 
+[<img src="https://image.tmdb.org/t/p/original/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg" style="width: 150px;" alt="Poster for Sentimental Value">](https://www.imdb.com/title/tt27714581)
+
 ## [I Origins](https://www.imdb.com/title/tt2884206)
 * **Last Watched:** 2026-08-10
 * **My Rating:** 7/10
