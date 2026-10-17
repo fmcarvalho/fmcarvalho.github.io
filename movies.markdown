@@ -5,6 +5,14 @@ description: "Filmes que vi, bons e maus"
 header-img: "img/sj-onda.jpg"
 ---
 
+<p>
+  <a href="https://letterboxd.com/lostingamboa/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/letterboxd/00A862" alt="Letterboxd" style="width: 18px; height: 18px; vertical-align: text-bottom;">
+    Letterboxd
+  </a>
+</p>
+
+
 ## [Hotel Amor](https://www.imdb.com/title/tt28638229)
 * **Last Watched:** 2026-10-17
 * **My Rating:** 6/10
