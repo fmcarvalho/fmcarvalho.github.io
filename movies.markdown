@@ -13,7 +13,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jessica Athayde, Júlia Palha, Francisco Froes
 * **Genre:** Comedy
 * **Content Rating:** 16
-* **Review (PT):** Dispoe bem. Aproveita a técnica de long take de forma adequada. Sem ser uma pérola do cinema também não lhe noto nenhuma aberração.
+* **Review (PT):** Dispõe bem. Aproveita a técnica de long take de forma adequada. Sem ser uma pérola do cinema também não lhe noto nenhuma aberração.
 [<img src="https://image.tmdb.org/t/p/original/dyD0I437nIPyXrW5a0K6XyUvOFh.jpg" style="width: 150px;" alt="Poster for Hotel Amor">](https://www.imdb.com/title/tt28638229)
 
 ## [Witness](https://www.imdb.com/title/tt0090329)
@@ -35,7 +35,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Nicholas Rowe, Alan Cox, Sophie Ward
 * **Genre:** Mystery, Adventure, Thriller
 * **Content Rating:** PG
-* **Review (PT):** Filme da minha infância que me faz viajar a uma época dos Goonies, Regresso ao Futuro, Stande By Me, etc… Cheio de falhas. Fim previsível e banal. Ainda assim delicioso de reviver.
+* **Review (PT):** Filme da minha infância que me faz viajar a uma época dos Goonies, Regresso ao Futuro, Stand by Me, etc… Cheio de falhas. Fim previsível e banal. Ainda assim delicioso de reviver.
 [<img src="https://image.tmdb.org/t/p/original/aOxVYvQoAfNSns4hW5Ah55GBzgq.jpg" style="width: 150px;" alt="Poster for Young Sherlock Holmes">](https://www.imdb.com/title/tt0090357)
 
 ## [Donnie Darko](https://www.imdb.com/title/tt0246578)
@@ -46,7 +46,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jake Gyllenhaal, Jena Malone, James Duval
 * **Genre:** Fantasy, Drama, Mystery
 * **Content Rating:** 16
-* **Review (PT):** Posso ser injusto na classificação, mas não cheguei la. Valeu por revisitar actores de renome em inicio de carreira. Há um toque e mensagem filosófica. Mas tudo soa mal interpretado. 
+* **Review (PT):** Posso ser injusto na classificação, mas não cheguei lá. Valeu por revisitar actores de renome em início de carreira. Há um toque e mensagem filosófica. Mas tudo soa mal interpretado.
 [<img src="https://image.tmdb.org/t/p/original/j2AtZFsflxiluaNtajMTI0Avm8C.jpg" style="width: 150px;" alt="Poster for Donnie Darko">](https://www.imdb.com/title/tt0246578)
 
 ## [Love & Mercy](https://www.imdb.com/title/tt0903657)
@@ -57,7 +57,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Paul Dano, John Cusack, Elizabeth Banks
 * **Genre:** Drama, Music, History
 * **Content Rating:** M
-* **Review (PT):** Gosto destas biografias. Mais uma bem contada. Uma parte que desconhecia. Excelentes actores. E gosto da musica…
+* **Review (PT):** Gosto destas biografias. Mais uma bem contada. Uma parte que desconhecia. Excelentes actores. E gosto da música…
 [<img src="https://image.tmdb.org/t/p/original/4jn0hDsl6lsv4qEc7aiLlgbaIjo.jpg" style="width: 150px;" alt="Poster for Love & Mercy">](https://www.imdb.com/title/tt0903657)
 
 ## [Sentimental Value](https://www.imdb.com/title/tt27714581)
@@ -68,7 +68,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Renate Reinsve, Stellan Skarsgård, Inga Ibsdotter Lilleaas
 * **Genre:** Drama, Comedy
 * **Content Rating:** +13
-* **Review (PT):** Bem feito e bem conseguido. Ainda assim não me deslumbrou. Talvez daqui a uns anos com menos sono o veja melhor. 
+* **Review (PT):** Bem feito e bem conseguido. Ainda assim não me deslumbrou. Talvez daqui a uns anos com menos sono o veja melhor.
 [<img src="https://image.tmdb.org/t/p/original/AcbS8VMysrTpG9r4dgK1oyLsKYn.jpg" style="width: 150px;" alt="Poster for Sentimental Value">](https://www.imdb.com/title/tt27714581)
 
 ## [I Origins](https://www.imdb.com/title/tt2884206)
@@ -79,7 +79,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Pitt, Brit Marling, Àstrid Bergès-Frisbey
 * **Genre:** Science Fiction, Drama
 * **Content Rating:** 12
-* **Review (PT):** Sem ser brilhante, mas eficaz. 
+* **Review (PT):** Sem ser brilhante, mas eficaz.
 [<img src="https://image.tmdb.org/t/p/original/2P31jhd1dWUAPD8dmnSrwkQ8CNN.jpg" style="width: 150px;" alt="Poster for I Origins">](https://www.imdb.com/title/tt2884206)
 
 ## [Point Break](https://www.imdb.com/title/tt2058673)
@@ -101,7 +101,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Marion Cotillard, Matthias Schoenaerts, Armand Verdure
 * **Genre:** Drama, Romance
 * **Content Rating:** MA 15+
-* **Review (PT):** Considero um filme fraco, mas que simultaneamente me cativa a ver ate ao fim. Talvez por ter demasiado realismo.
+* **Review (PT):** Considero um filme fraco, mas que simultaneamente me cativa a ver até ao fim. Talvez por ter demasiado realismo.
 [<img src="https://image.tmdb.org/t/p/original/6bcerd7CeQ5y5Dilym1O2C8c8Gl.jpg" style="width: 150px;" alt="Poster for Rust and Bone">](https://www.imdb.com/title/tt2053425)
 
 ## [Drive-Away Dolls](https://www.imdb.com/title/tt19356262)
@@ -112,7 +112,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Margaret Qualley, Geraldine Viswanathan, Beanie Feldstein
 * **Genre:** Comedy, Crime
 * **Content Rating:** MA 15+
-* **Review (PT):** Muito longe das obras primas dos Cohen. Mas ve se bem dentro de um estilo diferente.
+* **Review (PT):** Muito longe das obras primas dos Cohen. Mas vê-se bem dentro de um estilo diferente.
 [<img src="https://image.tmdb.org/t/p/original/6QPKmqntFgLm6sB47AtSelEGGPM.jpg" style="width: 150px;" alt="Poster for Drive-Away Dolls">](https://www.imdb.com/title/tt19356262)
 
 ## [Romeo + Juliet](https://www.imdb.com/title/tt0117509)
@@ -134,7 +134,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Leonie Benesch, Alireza Bayram, Jürg Plüss
 * **Genre:** Drama
 * **Content Rating:** 12
-* **Review (PT):** Uma reprodução muito real da vida num hospital contada em tempo real que nos transporta para os problemas que se relatam também por ca. Muito bom
+* **Review (PT):** Uma reprodução muito real da vida num hospital contada em tempo real que nos transporta para os problemas que se relatam também por cá. Muito bom
 [<img src="https://image.tmdb.org/t/p/original/2X2FZIYdXYNwDbStJhgeoVn0pWH.jpg" style="width: 150px;" alt="Poster for Late Shift">](https://www.imdb.com/title/tt32204858)
 
 ## [O Último Animal](https://www.imdb.com/title/tt1525785)
@@ -145,7 +145,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Júnior Vieira, Joaquim de Almeida, Duran Fulton Brown
 * **Genre:** Action, Drama, Thriller
 * **Content Rating:** 16
-* **Review (PT):** Muito muito inspirado na Tropa de Elite e ate na dinâmica da filmagem. Ainda assim prendeu-me ao ecrã.
+* **Review (PT):** Muito muito inspirado na Tropa de Elite e até na dinâmica da filmagem. Ainda assim prendeu-me ao ecrã.
 [<img src="https://image.tmdb.org/t/p/original/nRCv5BRuDHY2HvfQ43MhjtwIRjB.jpg" style="width: 150px;" alt="Poster for O Último Animal">](https://www.imdb.com/title/tt1525785)
 
 ## [Being John Malkovich](https://www.imdb.com/title/tt0120601)
@@ -167,7 +167,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Rami Malek, Russell Crowe, Michael Shannon
 * **Genre:** History, Drama
 * **Content Rating:** +13
-* **Review (PT):** Primeiro filme que vejo com o Russel Crowe que gosto. E a primeira interpretação digna deste actor. Tudo o resto detestei. Grande filme.
+* **Review (PT):** Primeiro filme que vejo com o Russell Crowe que gosto. E a primeira interpretação digna deste ator. Tudo o resto detestei. Grande filme.
 [<img src="https://image.tmdb.org/t/p/original/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg" style="width: 150px;" alt="Poster for Nuremberg">](https://www.imdb.com/title/tt29567915)
 
 ## [A Big Bold Beautiful Journey](https://www.imdb.com/title/tt13650700)
@@ -178,7 +178,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Colin Farrell, Margot Robbie, Kevin Kline
 * **Genre:** Romance, Fantasy, Drama
 * **Content Rating:** +13
-* **Review (PT):** So vale pelos actores. Tudo o resto… enfim….
+* **Review (PT):** Só vale pelos actores. Tudo o resto… enfim….
 [<img src="https://image.tmdb.org/t/p/original/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg" style="width: 150px;" alt="Poster for A Big Bold Beautiful Journey">](https://www.imdb.com/title/tt13650700)
 
 ## [10 Cloverfield Lane](https://www.imdb.com/title/tt1179933)
@@ -200,7 +200,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Timothée Chalamet, Edward Norton, Elle Fanning
 * **Genre:** Drama, Music
 * **Content Rating:** +13
-* **Review (PT):** Bem feito. Mas nao me trouxe grande coisa alem de ver uma boa interpretação.
+* **Review (PT):** Bem feito. Mas não me trouxe grande coisa além de ver uma boa interpretação.
 [<img src="https://image.tmdb.org/t/p/original/llWl3GtNoXosbvYboelmoT459NM.jpg" style="width: 150px;" alt="Poster for A Complete Unknown">](https://www.imdb.com/title/tt11563598)
 
 ## [A Real Pain](https://www.imdb.com/title/tt21823606)
@@ -211,7 +211,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jesse Eisenberg, Kieran Culkin, Will Sharpe
 * **Genre:** Comedy, Drama
 * **Content Rating:** +13
-* **Review (PT):** Gostei. Gosto do ritmo. Jesse Eisenberg repete sempre a forma de representar mas ainda assim aguenta—se.
+* **Review (PT):** Gostei. Gosto do ritmo. Jesse Eisenberg repete sempre a forma de representar mas ainda assim aguenta-se.
 [<img src="https://image.tmdb.org/t/p/original/67xRIXm5TxXRT4nV2V4AEJ9yq2d.jpg" style="width: 150px;" alt="Poster for A Real Pain">](https://www.imdb.com/title/tt21823606)
 
 ## [Dracula](https://www.imdb.com/title/tt31434030)
@@ -222,7 +222,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Caleb Landry Jones, Zoë Bleu Sidel, Christoph Waltz
 * **Genre:** Horror, Fantasy, Romance
 * **Content Rating:** +16
-* **Review (PT):** Vi por ser do Luc Besson e porque adoro todos os contos do Dracula. Esta versão e’ uma reedição da versão de Francis Ford Coppola. Impossível fazer melhor que essa obra prima. Impossível bater o mostro Gary Oldman. Ainda assim uma corajosa tentativa com um excelente leque de actores.
+* **Review (PT):** Vi por ser do Luc Besson e porque adoro todos os contos do Drácula. Esta versão é uma reedição da versão de Francis Ford Coppola. Impossível fazer melhor que essa obra-prima. Impossível bater o monstro Gary Oldman. Ainda assim uma corajosa tentativa com um excelente leque de actores.
 [<img src="https://image.tmdb.org/t/p/original/dYRqA50yd0nB3qBR7AtWEJJQ8q.jpg" style="width: 150px;" alt="Poster for Dracula">](https://www.imdb.com/title/tt31434030)
 
 ## [Hell or High Water](https://www.imdb.com/title/tt2582782)
@@ -233,7 +233,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jeff Bridges, Chris Pine, Ben Foster
 * **Genre:** Western, Crime, Drama
 * **Content Rating:** +13
-* **Review (PT):** Vê-se bem e pouco mais. Deve ser melhor para eles americanos. Boa interpretação de Jeff Bridges
+* **Review (PT):** Vê-se bem e pouco mais. Deve ser melhor para os americanos. Boa interpretação de Jeff Bridges
 [<img src="https://image.tmdb.org/t/p/original/ljRRxqy2aXIkIBXLmOVifcOR021.jpg" style="width: 150px;" alt="Poster for Hell or High Water">](https://www.imdb.com/title/tt2582782)
 
 ## [Heretic](https://www.imdb.com/title/tt28015403/)
@@ -244,7 +244,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Hugh Grant, Sophie Thatcher, Chloe East
 * **Genre:** Horror, Thriller
 * **Content Rating:** R
-* **Review (PT):** Bom contexto para um bom thriller. Este estilo hilariante do Hugh Grant encaixa no enredo. 
+* **Review (PT):** Bom contexto para um bom thriller. Este estilo hilariante do Hugh Grant encaixa no enredo.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt28015403.jpg" style="width: 150px;" alt="Poster for Heretic">](https://www.imdb.com/title/tt28015403/)
 
 ## [Speak No Evil](https://www.imdb.com/title/tt27534307)
@@ -255,7 +255,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** James McAvoy, Mackenzie Davis, Scoot McNairy
 * **Genre:** Horror, Thriller
 * **Content Rating:** MA 15+
-* **Review (PT):** Longe de ser fenomenal, mas suficientemente bom para nos prender ao ecrã. Mais uma boa interpretação de James McAvoy. 
+* **Review (PT):** Longe de ser fenomenal, mas suficientemente bom para nos prender ao ecrã. Mais uma boa interpretação de James McAvoy.
 [<img src="https://image.tmdb.org/t/p/original/dA4N6uWOnEMgbxXwFX7qX7adzs8.jpg" style="width: 150px;" alt="Poster for Speak No Evil">](https://www.imdb.com/title/tt27534307)
 
 ## [The Rainmaker](https://www.imdb.com/title/tt0119978)
@@ -277,7 +277,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Zachary Levi, Mark Strong, Asher Angel
 * **Genre:** Action, Comedy, Fantasy
 * **Content Rating:** M
-* **Review (PT):** Filme de familia nunca escolhido por mim. De vez em quando tem que ser eles a escolher. Ainda assim não foi mau de todo e até dispõe bem. Parvoice
+* **Review (PT):** Filme de família nunca escolhido por mim. De vez em quando tem que ser eles a escolher. Ainda assim não foi mau de todo e até dispõe bem. Parvoíce
 [<img src="https://image.tmdb.org/t/p/original/xnopI5Xtky18MPhK40cZAGAOVeV.jpg" style="width: 150px;" alt="Poster for Shazam!">](https://www.imdb.com/title/tt0448115)
 
 ## [American Psycho](https://www.imdb.com/title/tt0144084)
@@ -299,7 +299,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jeffrey Wright, Skyler Wright, John Ales
 * **Genre:** Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Classificado como comedia inteligente. Gosto dos diálogos naturais e do toque das personagens. A crueza e simplicidade de algumas cenas. Não gosto da derivação alucinante fictícia da sobreposição a um ramo paralelo. 
+* **Review (PT):** Classificado como comédia inteligente. Gosto dos diálogos naturais e do toque das personagens. A crueza e simplicidade de algumas cenas. Não gosto da derivação alucinante fictícia da sobreposição a um ramo paralelo.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt23561236.jpg" style="width: 150px;" alt="Poster for American Fiction">](https://www.imdb.com/title/tt23561236/)
 
 ## [A Good Person](https://www.imdb.com/title/tt14153080/)
@@ -310,7 +310,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** 
 * **Genre:** Drama
 * **Content Rating:** R
-* **Review (PT):** Gosto da atriz. O filme em si uma xaxada. Previsível, novela, sem nada alem do esperado.
+* **Review (PT):** Gosto da atriz. O filme em si é uma xaxada. Previsível, novela, sem nada além do esperado.
 [<img src="https://m.media-amazon.com/images/M/MV5BMTJmYWM4ZjUtYzI5NC00MTM3LWI4YTUtYmE4ODAyOGYzNjlkXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for A Good Person">](https://www.imdb.com/title/tt14153080/)
 
 ## [The Invisible Man](https://www.imdb.com/title/tt1051906/)
@@ -332,7 +332,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** 
 * **Genre:** Drama, Mystery, Thriller
 * **Content Rating:** R
-* **Review (PT):** Argumento ate meio interessante, mas a faltar um remate final. Os atores engrandecem o filme e pouco mais. Ainda assim vale muito apena ate meio. 
+* **Review (PT):** Argumento até meio interessante, mas a faltar um remate final. Os atores engrandecem o filme e pouco mais. Ainda assim vale muito a pena até meio.
 [<img src="https://m.media-amazon.com/images/M/MV5BNjI0NTAwMTU1NV5BMl5BanBnXkFtZTgwNzkwNjQ0MjE@._V1_.jpg" style="width: 150px;" alt="Poster for Before I Go to Sleep">](https://www.imdb.com/title/tt1726592/)
 
 ## [Monkey Man](https://www.imdb.com/title/tt9214772/)
@@ -343,7 +343,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** 
 * **Genre:** Action, Crime, Thriller
 * **Content Rating:** R
-* **Review (PT):** Mais ou menos ate meio. Desinteressante a partir dai, tornando se no vulgar filme de porrada bem feito com um excelente actor.
+* **Review (PT):** Mais ou menos até meio. Desinteressante a partir daí, tornando-se no vulgar filme de porrada bem feito com um excelente ator.
 [<img src="https://m.media-amazon.com/images/M/MV5BODM2ZmZjYmQtNTA3NC00MmYzLWEwOTItMDNjYzc3MzI1NWNmXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Monkey Man">](https://www.imdb.com/title/tt9214772/)
 
 ## [Juror #2](https://www.imdb.com/title/tt27403986/)
@@ -354,7 +354,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** 
 * **Genre:** Crime, Drama, Mystery
 * **Content Rating:** PG-13
-* **Review (PT):** Fiel ao estilo do Clint Eastwood. Bom filme. Vale apena.
+* **Review (PT):** Fiel ao estilo do Clint Eastwood. Bom filme. Vale a pena.
 [<img src="https://m.media-amazon.com/images/M/MV5BMjM4YjA1NTItOWI3Ni00MzAwLThmMjMtNmM2MWY2Y2ZmOGIzXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Juror #2">](https://www.imdb.com/title/tt27403986/)
 
 ## [The Leisure Seeker](https://www.imdb.com/title/tt3741632/)
@@ -365,7 +365,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** 
 * **Genre:** Adventure, Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Vê se bem. Descontraído. Actores deliciosos. Momentos fofos. Gosto. Para alguns leve e para outros pesado.
+* **Review (PT):** Vê-se bem. Descontraído. Actores deliciosos. Momentos fofos. Gosto. Para alguns leve e para outros pesado.
 [<img src="https://m.media-amazon.com/images/M/MV5BMTg1NTg2MzcyNF5BMl5BanBnXkFtZTgwNjMwMDIzNDM@._V1_.jpg" style="width: 150px;" alt="Poster for The Leisure Seeker">](https://www.imdb.com/title/tt3741632/)
 
 ## [Don't Worry, He Won't Get Far on Foot](https://www.imdb.com/title/tt6288124/)
@@ -376,7 +376,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** 
 * **Genre:** Biography, Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Vale sempre por se basear em fatos verídicos. Gosto do estilo deste realizador. Embora um pouco longo. Grandes interpretações.
+* **Review (PT):** Vale sempre por se basear em factos verídicos. Gosto do estilo deste realizador. Embora um pouco longo. Grandes interpretações.
 [<img src="https://m.media-amazon.com/images/M/MV5BMTc5ODA4OTkyMl5BMl5BanBnXkFtZTgwOTkxMTk4NTM@._V1_.jpg" style="width: 150px;" alt="Poster for Don't Worry, He Won't Get Far on Foot">](https://www.imdb.com/title/tt6288124/)
 
 ## [Widows](https://www.imdb.com/title/tt4218572/)
@@ -409,7 +409,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Bruce Willis, Billy Bob Thornton, Ben Affleck
 * **Genre:** Action, Adventure, Sci-Fi
 * **Content Rating:** PG-13
-* **Review (PT):** Filme revisto em noite de chuva com a familia. Um clássico cheio de defeitos mas que vale muito por encher um serão de Cinema em Família. Não espero mais do que isso.
+* **Review (PT):** Filme revisto em noite de chuva com a família. Um clássico cheio de defeitos mas que vale muito por encher um serão de Cinema em Família. Não espero mais do que isso.
 [<img src="https://m.media-amazon.com/images/M/MV5BYzQ3MzJmZjUtNTc0OC00ZWRiLWJkMTYtMTZkMDVhMDQ4OGU4XkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Armageddon">](https://www.imdb.com/title/tt0120591/)
 
 ## [The Holdovers](https://www.imdb.com/title/tt14849194/)
@@ -420,7 +420,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Paul Giamatti, Dominic Sessa, Da'Vine Joy Randolph
 * **Genre:** Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Um estória simples bem contada com um tom natural e momentos de humor e alguns de afeto que nos enchem a alma numa noite de tempos de natal. Bom para ver em familia e no meu casos deliciou o mais novo. 
+* **Review (PT):** Uma estória simples bem contada com um tom natural e momentos de humor e alguns de afeto que nos enchem a alma numa noite de tempos de Natal. Bom para ver em família e no meu caso deliciou o mais novo.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt14849194.jpg" style="width: 150px;" alt="Poster for The Holdovers">](https://www.imdb.com/title/tt14849194/)
 
 ## [Frankenstein](https://www.imdb.com/title/tt1312221/)
@@ -431,7 +431,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Oscar Isaac, Jacob Elordi, Christoph Waltz
 * **Genre:** Drama, Fantasy, Horror
 * **Content Rating:** R
-* **Review (PT):** Este realizador enriquece ou engrandece os filmes. Sou fã de estórias clássicas como esta e que revigorou neste filme. Apesar de ser longo não me custou a passar e quase nem dei pelo tempo. 
+* **Review (PT):** Este realizador enriquece ou engrandece os filmes. Sou fã de estórias clássicas como esta e que revigorou neste filme. Apesar de ser longo não me custou a passar e quase nem dei pelo tempo.
 [<img src="https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Frankenstein">](https://www.imdb.com/title/tt1312221/)
 
 ## [Commando](https://www.imdb.com/title/tt0088944/)
@@ -453,7 +453,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Bruce Willis, Mary-Louise Parker, Heidi von Palleske
 * **Genre:** Action, Comedy, Crime
 * **Content Rating:** PG-13
-* **Review (PT):** Um filmezinho de fim de semana para ver em familia e sem ter muito que pensar
+* **Review (PT):** Um filmezinho de fim de semana para ver em família e sem ter muito que pensar
 [<img src="https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_.jpg" style="width: 150px;" alt="Poster for RED">](https://www.imdb.com/title/tt1245526/)
 
 ## [The Order](https://www.imdb.com/title/tt26625693/)
@@ -464,7 +464,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Marc Maron, George Tchortov, Daniel Yip
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** R
-* **Review (PT):** Vale pelos factos verídicos e pouco mais. Bem Jude Law
+* **Review (PT):** Vale pelos factos verídicos e pouco mais. Bem, Jude Law
 [<img src="https://m.media-amazon.com/images/M/MV5BZWIxOGQyYjYtOGEwOC00YWNjLWJmNTktZjJlM2RmNTdjMmVlXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Order">](https://www.imdb.com/title/tt26625693/)
 
 ## [Black Mass](https://www.imdb.com/title/tt1355683/)
@@ -486,7 +486,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jamie Foxx, Tommy Lee Jones, Jurnee Smollett
 * **Genre:** Drama
 * **Content Rating:** R
-* **Review (PT):** Vê se bem e nada mais. A típica historia resiliência americana que eles tanto gostam
+* **Review (PT):** Vê-se bem e nada mais. A típica história de resiliência americana que eles tanto gostam
 [<img src="https://m.media-amazon.com/images/M/MV5BNDNjZDY4OTMtZjM1Ni00OGYwLWE2NDItYzk1ZWYzYTgyYWNiXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Burial">](https://www.imdb.com/title/tt5648882/)
 
 ## [A Bigger Splash](https://www.imdb.com/title/tt2056771/)
@@ -497,7 +497,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Tilda Swinton, Matthias Schoenaerts, Ralph Fiennes
 * **Genre:** Drama, Music, Thriller
 * **Content Rating:** R
-* **Review (PT):** Guadagnino em mais um cruzamento de passado, com o calor do verão, noites, piscina, musica, intensidade, insinuação, sensualidade, raiva, explosão, amor e ódio. Deixa uma amargo de boca em muitos episódios sem final e à mercê da mente. Não adoro. Mas merece ser visto. Gosto muito dos atores. Ralph Fiennes no melhor.
+* **Review (PT):** Guadagnino em mais um cruzamento de passado, com o calor do verão, noites, piscina, música, intensidade, insinuação, sensualidade, raiva, explosão, amor e ódio. Deixa um amargo de boca em muitos episódios sem final e à mercê da mente. Não adoro. Mas merece ser visto. Gosto muito dos atores. Ralph Fiennes no melhor.
 [<img src="https://m.media-amazon.com/images/M/MV5BMTkxNzk3NzMwN15BMl5BanBnXkFtZTgwODc3ODQ4NzE@._V1_.jpg" style="width: 150px;" alt="Poster for A Bigger Splash">](https://www.imdb.com/title/tt2056771/)
 
 ## [Wanted](https://www.imdb.com/title/tt0493464/)
@@ -508,7 +508,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** James McAvoy, Morgan Freeman, Angelina Jolie
 * **Genre:** Action, Crime, Thriller
 * **Content Rating:** R
-* **Review (PT):** Com potencial mas mal aproveitado. Filme redundante. Apenas para uma tarde de domingo para entreter no sofa e mais nada.
+* **Review (PT):** Com potencial mas mal aproveitado. Filme redundante. Apenas para uma tarde de domingo para entreter no sofá e mais nada.
 [<img src="https://m.media-amazon.com/images/M/MV5BMTQwNDM2MTMwMl5BMl5BanBnXkFtZTgwMjE4NjQxMTE@._V1_.jpg" style="width: 150px;" alt="Poster for Wanted">](https://www.imdb.com/title/tt0493464/)
 
 ## [Bones and All](https://www.imdb.com/title/tt10168670/)
@@ -519,7 +519,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Kendle Coffey, Taylor Russell, André Holland
 * **Genre:** Drama, Horror, Romance
 * **Content Rating:** R
-* **Review (PT):** Merece ser visto, mesmo sem ser genial. Macabro e apaixonante em simultâneo. Para mim que não vi o trailer foi surpreendente. Vale apena. PS este realizador tem mesmo uma tara.
+* **Review (PT):** Merece ser visto, mesmo sem ser genial. Macabro e apaixonante em simultâneo. Para mim que não vi o trailer foi surpreendente. Vale a pena. PS este realizador tem mesmo uma tara.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt10168670.jpg" style="width: 150px;" alt="Poster for Bones and All">](https://www.imdb.com/title/tt10168670/)
 
 ## [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/)
@@ -530,7 +530,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Anya Taylor-Joy, Chris Hemsworth, Tom Burke
 * **Genre:** Action, Adventure, Sci-Fi
 * **Content Rating:** R
-* **Review (PT):** Acho que gostei ainda mais que o primeira desta nova geração do Mad Max. Gostei da componente humorística do vilao do filme.
+* **Review (PT):** Acho que gostei ainda mais que o primeiro desta nova geração do Mad Max. Gostei da componente humorística do vilão do filme.
 [<img src="https://m.media-amazon.com/images/M/MV5BNTcwYWE1NTYtOWNiYy00NzY3LWIwY2MtNjJmZDkxNDNmOWE1XkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Furiosa: A Mad Max Saga">](https://www.imdb.com/title/tt12037194/)
 
 ## [Challengers](https://www.imdb.com/title/tt16426418/)
@@ -541,7 +541,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mike Faist, Josh O'Connor, Zendaya
 * **Genre:** Comedy, Drama, Romance
 * **Content Rating:** R
-* **Review (PT):** Mixed feelings. Adoro e irrita. Este realizador tem ingredientes que adoro desde as bandas sonoras perfeitas aos olhares intensos, quentes, reais, vividos, que saltam para alem do ecrã. Mas tem um ou outro tique intragável. Mas a panca deste realizador torna os filmes contagiantes.
+* **Review (PT):** Mixed feelings. Adoro e irrita. Este realizador tem ingredientes que adoro desde as bandas sonoras perfeitas aos olhares intensos, quentes, reais, vividos, que saltam para além do ecrã. Mas tem um ou outro tique intragável. Mas a panca deste realizador torna os filmes contagiantes.
 [<img src="https://m.media-amazon.com/images/M/MV5BZTcyZGIyODctZGJhOS00MWUyLWI5ZWEtMjg4YzhkMDczMDBhXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Challengers">](https://www.imdb.com/title/tt16426418/)
 
 ## [Saltburn](https://www.imdb.com/title/tt17351924/)
@@ -552,7 +552,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Barry Keoghan, Jacob Elordi, Archie Madekwe
 * **Genre:** Drama, Thriller
 * **Content Rating:** R
-* **Review (PT):** Não uma obra prima, mas diferente e merece ser visto. Psicadelico, transe, macabro, irónico, sónico, irreverente. Gosto dos ingredientes.
+* **Review (PT):** Não é uma obra-prima, mas diferente e merece ser visto. Psicadélico, transe, macabro, irónico, sónico, irreverente. Gosto dos ingredientes.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt17351924.jpg" style="width: 150px;" alt="Poster for Saltburn">](https://www.imdb.com/title/tt17351924/)
 
 ## [Gravity](https://www.imdb.com/title/tt1454468/)
@@ -563,7 +563,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sandra Bullock, George Clooney, Ed Harris
 * **Genre:** Drama, Sci-Fi, Thriller
 * **Content Rating:** PG-13
-* **Review (PT):** Nada de brilhante mas eficaz. Curto, sucinto, prende ao ecrã e contundente. Neste dia foi um filme que vimos os 5 em familia o que se torna cada vez mais difícil em encontrar um filme consensual.  
+* **Review (PT):** Nada de brilhante mas eficaz. Curto, sucinto, prende ao ecrã e contundente. Neste dia foi um filme que vimos os 5 em família o que se torna cada vez mais difícil em encontrar um filme consensual.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1454468.jpg" style="width: 150px;" alt="Poster for Gravity">](https://www.imdb.com/title/tt1454468/)
 
 ## [Springsteen: Deliver Me from Nowhere](https://www.imdb.com/title/tt31923069/)
@@ -574,7 +574,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jeremy Allen White, Jeremy Strong, Paul Walter Hauser
 * **Genre:** Biography, Drama, Music
 * **Content Rating:** M/12
-* **Review (PT):** Bolas se era para ser um filme de interiorização e drama psicológico devia ter um AVISO em letras grandes. Quem vai para ver um filme destes espera uma colectânea de sucessos a luz do Bohemina Raphsodia. Ninguém quer uma obra de arte. Este filme nem fica numa coisa nem noutra. BTW se querem um revival do Springsteen então ficam bem melhor com o filme Blinded by the Light
+* **Review (PT):** Bolas, se era para ser um filme de interiorização e drama psicológico, devia ter um AVISO em letras grandes. Quem vai para ver um filme destes espera uma colectânea de sucessos à luz do Bohemian Rhapsody. Ninguém quer uma obra de arte. Este filme nem fica numa coisa nem noutra. BTW, se querem um revival do Springsteen, então ficam bem melhor com o filme Blinded by the Light
 [<img src="https://m.media-amazon.com/images/M/MV5BMjRhYzIxYTMtNGU0OS00YWJiLTgyYTMtMDg3YjVhMmRhYzViXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Springsteen: Deliver Me from Nowhere">](https://www.imdb.com/title/tt31923069/)
 
 ## [Femme](https://www.imdb.com/title/tt20114686/)
@@ -585,7 +585,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** George MacKay, Aaron Heffernan, Moe Bar-El
 * **Genre:** Drama, Thriller
 * **Content Rating:** N/A
-* **Review (PT):** Impactante. Diferente e ao espelho talvez do mundo actual. George Mackay com uma excelente interpretação.
+* **Review (PT):** Impactante. Diferente e ao espelho talvez do mundo atual. George Mackay com uma excelente interpretação.
 [<img src="https://m.media-amazon.com/images/M/MV5BOTM4NzVhZjgtYjE5OC00OTVjLWFjZDgtOWFlZDYzMzI1NGVlXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Femme">](https://www.imdb.com/title/tt20114686/)
 
 ## [The Return](https://www.imdb.com/title/tt19861162/)
@@ -607,7 +607,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mel Gibson, Julia Roberts, Patrick Stewart
 * **Genre:** Action, Drama, Mystery
 * **Content Rating:** M/12
-* **Review (PT):** Gostei mais da primeira vez que vi. Algumas falhas e aquela maneira de actuar repetitiva de Mel Gibson. 
+* **Review (PT):** Gostei mais da primeira vez que vi. Algumas falhas e aquela maneira de actuar repetitiva de Mel Gibson.
 [<img src="https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_.jpg" style="width: 150px;" alt="Poster for Conspiracy Theory">](https://www.imdb.com/title/tt0118883/)
 
 ## [Tropa de Elite](https://www.imdb.com/title/tt0861739/)
@@ -618,7 +618,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Wagner Moura, André Ramiro, Caio Junqueira
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Filme único. Lembrava-me que era violento, mas não tanto. 
+* **Review (PT):** Filme único. Lembrava-me que era violento, mas não tanto.
 [<img src="https://m.media-amazon.com/images/M/MV5BZjU3Yzk3NzctYWNiNy00YWMzLThiOGItODc3NmEzODBkYjRmXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Tropa de Elite">](https://www.imdb.com/title/tt0861739/)
 
 ## [The Shrouds](https://www.imdb.com/title/tt20212786/)
@@ -651,7 +651,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Fernanda Torres, Fernanda Montenegro, Selton Mello
 * **Genre:** Biography, Drama, History
 * **Content Rating:** M/12
-* **Review (PT):** Já vi vários filmes dentro deste contexto dos governos ditaturiais e opressivos. Mas este aproximou-se mais. Talvez por não ser a tortura pura em sangue. Ou talvez pela proximidade da língua, mas levou o meu imaginário ao que se passou por ca na ditadura, que sem a ter vivido recrio apenas do que ouvi pelos outros.
+* **Review (PT):** Já vi vários filmes dentro deste contexto dos governos ditatoriais e opressivos. Mas este aproximou-se mais. Talvez por não ser a tortura pura em sangue. Ou talvez pela proximidade da língua, mas levou o meu imaginário ao que se passou por cá na ditadura, que sem a ter vivido recrio apenas do que ouvi pelos outros.
 [<img src="https://m.media-amazon.com/images/M/MV5BZTA3NzA2ZjMtNjlkZC00NWQwLTg2NDEtYzQ2YzlhYzc2OGQ4XkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Ainda Estou Aqui">](https://www.imdb.com/title/tt14961016/)
 
 ## [Le sens de la famille](https://www.imdb.com/title/tt10366428/)
@@ -662,7 +662,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Franck Dubosc, Alexandra Lamy, Christiane Millet
 * **Genre:** Comedy
 * **Content Rating:** N/A
-* **Review (PT):** Fraquinho. Fantochada, sem fio condutor e sem forma de conclusão. Alguma piada 
+* **Review (PT):** Fraquinho. Fantochada, sem fio condutor e sem forma de conclusão. Alguma piada
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt10366428.jpg" style="width: 150px;" alt="Poster for Le sens de la famille">](https://www.imdb.com/title/tt10366428/)
 
 ## [The Substance](https://www.imdb.com/title/tt17526714/)
@@ -695,7 +695,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Emma Stone, Mark Ruffalo, Willem Dafoe
 * **Genre:** Comedy, Drama, Romance
 * **Content Rating:** R
-* **Review (PT):** Diferente. Imaginário. Como que um sonho. Gostei da ideia subjacente a uma proximidade ao Frankstein. Por vezes parece demasiado longo. Gostei do desfecho, Quase que dava um 8
+* **Review (PT):** Diferente. Imaginário. Como que um sonho. Gostei da ideia subjacente a uma proximidade ao Frankenstein. Por vezes parece demasiado longo. Gostei do desfecho, Quase que dava um 8
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt14230458.jpg" style="width: 150px;" alt="Poster for Poor Things">](https://www.imdb.com/title/tt14230458/)
 
 ## [The Equalizer 3](https://www.imdb.com/title/tt17024450/)
@@ -706,7 +706,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Denzel Washington, Dakota Fanning, Eugenio Mastrandrea
 * **Genre:** Action, Crime, Thriller
 * **Content Rating:** R
-* **Review (PT):** So vale pela personagem. O resto muito fraco
+* **Review (PT):** Só vale pela personagem. O resto muito fraco
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt17024450.jpg" style="width: 150px;" alt="Poster for The Equalizer 3">](https://www.imdb.com/title/tt17024450/)
 
 ## [Streets of Fire](https://www.imdb.com/title/tt0088194/)
@@ -717,7 +717,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Paré, Diane Lane, Rick Moranis
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** PG
-* **Review (PT):** Um clássico. Por mim continua a valer por ser único, ainda mais no tempo em que foi feito. Por vezes, tao bom de mau que é.
+* **Review (PT):** Um clássico. Por mim continua a valer por ser único, ainda mais no tempo em que foi feito. Por vezes, tão bom de mau que é.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0088194.jpg" style="width: 150px;" alt="Poster for Streets of Fire">](https://www.imdb.com/title/tt0088194/)
 
 ## [Innerspace](https://www.imdb.com/title/tt0093260/)
@@ -728,7 +728,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Dennis Quaid, Martin Short, Meg Ryan
 * **Genre:** Action, Adventure, Comedy
 * **Content Rating:** PG
-* **Review (PT):** O filme para se ver em familia. Classico dos anos 80. Não me lembrava de partes e surpreendeu pela positiva. Pensei que seria uma banhada ao reve-lo, mas não foi. Mais uma tarefa conseguida em familia, quando os miúdos estão quase a intolerar estas sessões.
+* **Review (PT):** O filme para se ver em família. Clássico dos anos 80. Não me lembrava de partes e surpreendeu pela positiva. Pensei que seria uma banhada ao revê-lo, mas não foi. Mais uma tarefa conseguida em família, quando os miúdos estão quase a não tolerar estas sessões.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0093260.jpg" style="width: 150px;" alt="Poster for Innerspace">](https://www.imdb.com/title/tt0093260/)
 
 ## [Rails & Ties](https://www.imdb.com/title/tt0822849/)
@@ -750,7 +750,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sean Penn, Michelle Pfeiffer, Dakota Fanning
 * **Genre:** Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Um clássico. História intensa. Filme que vimos em sessão de familia.
+* **Review (PT):** Um clássico. História intensa. Filme que vimos em sessão de família.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0277027.jpg" style="width: 150px;" alt="Poster for I Am Sam">](https://www.imdb.com/title/tt0277027/)
 
 ## [Weird: The Al Yankovic Story](https://www.imdb.com/title/tt17076046/)
@@ -761,7 +761,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Diedrich Bader, Daniel Radcliffe, Lin-Manuel Miranda
 * **Genre:** Action, Biography, Comedy
 * **Content Rating:** TV-14
-* **Review (PT):** Soube muito bem começar a ver o filme sem saber o que retratava e de repente lembrar/me perfeitamente daquela personagem que tinha enterrado no meu baú de memórias e que nunca mais lembraria a sua existência se não fosse este filme. Depois aquela forma com que retrata a sua biografia entrando numa caricatura dele próprio.
+* **Review (PT):** Soube muito bem começar a ver o filme sem saber o que retratava e de repente lembrar-me perfeitamente daquela personagem que tinha enterrado no meu baú de memórias e que nunca mais lembraria a sua existência se não fosse este filme. Depois aquela forma com que retrata a sua biografia entrando numa caricatura dele próprio.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt17076046.jpg" style="width: 150px;" alt="Poster for Weird: The Al Yankovic Story">](https://www.imdb.com/title/tt17076046/)
 
 ## [The Glass Castle](https://www.imdb.com/title/tt2378507/)
@@ -794,7 +794,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jonathan Rhys Meyers, Daniel Huttlestone, Dougray Scott
 * **Genre:** Drama, Music
 * **Content Rating:** R
-* **Review (PT):** Vale apenas pelo filme de época Punk e ligação aos Clash. 
+* **Review (PT):** Vale apenas pelo filme de época Punk e ligação aos Clash.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1724597.jpg" style="width: 150px;" alt="Poster for London Town">](https://www.imdb.com/title/tt1724597/)
 
 ## [The Iron Claw](https://www.imdb.com/title/tt21064584/)
@@ -816,7 +816,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Que obra prima de Luc Besson.  O ritmo pausado, o suspense, a ação, a violência e os diálogos estão la. Está la tudo.
+* **Review (PT):** Que obra-prima de Luc Besson. O ritmo pausado, o suspense, a ação, a violência e os diálogos estão lá. Está lá tudo.
 [<img src="https://m.media-amazon.com/images/M/MV5BNzJhZjg3MTctMGViNC00MmExLTk4MWEtODA4ZGJlMjQ2ZGRmXkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for Dogman">](https://www.imdb.com/title/tt17009348/)
 
 ## [Les trois mousquetaires: D'Artagnan](https://www.imdb.com/title/tt12672536/)
@@ -838,7 +838,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Brad Pitt, Tom Cruise, Antonio Banderas
 * **Genre:** Drama, Fantasy, Horror
 * **Content Rating:** R
-* **Review (PT):** Um clássico dos que vale apena. Sem ser brilhante, tem aspectos únicos sobretudo no seu tempo. E reúne um elenco de atores que se tornaram super estrelas.
+* **Review (PT):** Um clássico dos que vale a pena. Sem ser brilhante, tem aspectos únicos sobretudo no seu tempo. E reúne um elenco de atores que se tornaram super estrelas.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0110148.jpg" style="width: 150px;" alt="Poster for Interview with the Vampire: The Vampire Chronicles">](https://www.imdb.com/title/tt0110148/)
 
 ## [Gremlins](https://www.imdb.com/title/tt0087363/)
@@ -882,7 +882,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Keaton, Nick Offerman, John Carroll Lynch
 * **Genre:** Biography, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Interessante pelos factos verificou e por ser a essência do conceito americano. Vale mais ganhar do que os princípios. Da que pensar.
+* **Review (PT):** Interessante pelos factos verídicos e por ser a essência do conceito americano. Vale mais ganhar do que os princípios. Dá que pensar.
 [<img src="https://m.media-amazon.com/images/M/MV5BYWRiMmI4YzQtNjExZi00ZTE3LWI3OGQtZTgzMWZjNmUzOTA4XkEyXkFqcGc@._V1_.jpg" style="width: 150px;" alt="Poster for The Founder">](https://www.imdb.com/title/tt4276820/)
 
 ## [Stronger](https://www.imdb.com/title/tt3881784/)
@@ -893,7 +893,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jake Gyllenhaal, Tatiana Maslany, Miranda Richardson
 * **Genre:** Biography, Drama
 * **Content Rating:** M/14
-* **Review (PT):** Vale por se basear em factos verídicos de um acontecimento marcante. A parte da diferenca de perspectiva e a forma de olhar sobre um acontecimento.
+* **Review (PT):** Vale por se basear em factos verídicos de um acontecimento marcante. A parte da diferença de perspectiva e a forma de olhar sobre um acontecimento.
 [<img src="https://m.media-amazon.com/images/M/MV5BMjE0NjIwMjQ2MF5BMl5BanBnXkFtZTgwNTAxMzQ5MjI@._V1_.jpg" style="width: 150px;" alt="Poster for Stronger">](https://www.imdb.com/title/tt3881784/)
 
 ## [Lion](https://www.imdb.com/title/tt3741834/)
@@ -904,7 +904,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Dev Patel, Nicole Kidman, Rooney Mara
 * **Genre:** Biography, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Um nadinha overrated. Um grande filme sem duvida. E pela historia real. Grandes interpretacoes. Mas…. Para 8 tinha que ser obra prima.
+* **Review (PT):** Um nadinha overrated. Um grande filme sem dúvida. E pela história real. Grandes interpretações. Mas…. Para 8 tinha que ser obra-prima.
 [<img src="https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_.jpg" style="width: 150px;" alt="Poster for Lion">](https://www.imdb.com/title/tt3741834/)
 
 ## [The Menu](https://www.imdb.com/title/tt9764362/)
@@ -915,7 +915,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult
 * **Genre:** Comedy, Horror, Thriller
 * **Content Rating:** R
-* **Review (PT):** Hilariante. Nota 7 redonda. Gemial ate meio do filme. Depois perde se um pouco… Ainda assim, muito bom.
+* **Review (PT):** Hilariante. Nota 7 redonda. Genial até meio do filme. Depois perde se um pouco… Ainda assim, muito bom.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt9764362.jpg" style="width: 150px;" alt="Poster for The Menu">](https://www.imdb.com/title/tt9764362/)
 
 ## [Men of Honor](https://www.imdb.com/title/tt0203019/)
@@ -926,7 +926,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Cuba Gooding Jr., Robert De Niro, Charlize Theron
 * **Genre:** Biography, Drama
 * **Content Rating:** R
-* **Review (PT):** Já vi várias vezes. Mas sempre que por la passo num zapping gosto de rever outra vez. Filme de Hollywood dos que vale apena.
+* **Review (PT):** Já vi várias vezes. Mas sempre que por lá passo num zapping gosto de rever outra vez. Filme de Hollywood dos que vale a pena.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0203019.jpg" style="width: 150px;" alt="Poster for Men of Honor">](https://www.imdb.com/title/tt0203019/)
 
 ## [The Drop](https://www.imdb.com/title/tt1600196/)
@@ -937,7 +937,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Tom Hardy, Noomi Rapace, James Gandolfini
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** R
-* **Review (PT):** Adorei o passo. O compasso. A calma. O ar meio tosco da persoanagem pelo Tom Hardy. Um filme que intriga e nos envolve.
+* **Review (PT):** Adorei o passo. O compasso. A calma. O ar meio tosco da personagem pelo Tom Hardy. Um filme que intriga e nos envolve.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1600196.jpg" style="width: 150px;" alt="Poster for The Drop">](https://www.imdb.com/title/tt1600196/)
 
 ## [Patriots Day](https://www.imdb.com/title/tt4572514/)
@@ -948,7 +948,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mark Wahlberg, Michelle Monaghan, J.K. Simmons
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** R
-* **Review (PT):** Mais um filme que vale muito pelos factos reais. De resto vale muito mais para os americanos e seu revivalismo do ser Americano e serem atacados! Deixa sempre mixed feelings e a dualidade de interpretação.
+* **Review (PT):** Mais um filme que vale muito pelos factos reais. De resto vale muito mais para os americanos e o seu revivalismo do ser americano e de serem atacados! Deixa sempre mixed feelings e a dualidade de interpretação.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4572514.jpg" style="width: 150px;" alt="Poster for Patriots Day">](https://www.imdb.com/title/tt4572514/)
 
 ## [Fracture](https://www.imdb.com/title/tt0488120/)
@@ -981,7 +981,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Brendan Fraser, Sadie Sink, Ty Simpkins
 * **Genre:** Drama
 * **Content Rating:** R
-* **Review (PT):** Obra prima em todos os sentidos. Acima das expectativas. Estava ate reticente. Simples, romântico, terror e eficaz.
+* **Review (PT):** Obra prima em todos os sentidos. Acima das expectativas. Estava até reticente. Simples, romântico, terror e eficaz.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt13833688.jpg" style="width: 150px;" alt="Poster for The Whale">](https://www.imdb.com/title/tt13833688/)
 
 ## [Waves](https://www.imdb.com/title/tt8652728/)
@@ -992,7 +992,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Taylor Russell, Kelvin Harrison Jr., Alexa Demie
 * **Genre:** Drama, Romance, Sport
 * **Content Rating:** R
-* **Review (PT):** Estória simples. Um pouco longa. Bem contada. Deve ser muito a luz do que se vive nos EUA. Numa prespectiva pouco comum ao que vemos nos filmes. Produção hollywoodesca. 
+* **Review (PT):** Estória simples. Um pouco longa. Bem contada. Deve ser muito à luz do que se vive nos EUA. Numa perspetiva pouco comum ao que vemos nos filmes. Produção hollywoodesca.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt8652728.jpg" style="width: 150px;" alt="Poster for Waves">](https://www.imdb.com/title/tt8652728/)
 
 ## [GATTACA](https://www.imdb.com/title/tt0119177/)
@@ -1014,7 +1014,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** J.K. Simmons, Josh Wiggins, Odeya Rush
 * **Genre:** Comedy, Drama, Romance
 * **Content Rating:** Unrated
-* **Review (PT):** Um romance bem contado e bem interpretado. Gosto dos actores. Gostei da simplicidade. 
+* **Review (PT):** Um romance bem contado e bem interpretado. Gosto dos actores. Gostei da simplicidade.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt5253282.jpg" style="width: 150px;" alt="Poster for The Bachelors">](https://www.imdb.com/title/tt5253282/)
 
 ## [Jarhead](https://www.imdb.com/title/tt0418763/)
@@ -1025,7 +1025,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jake Gyllenhaal, Jamie Foxx, Lucas Black
 * **Genre:** Biography, Drama, War
 * **Content Rating:** R
-* **Review (PT):** Mais do mesmo com um toque filosófico Apocalipse Now numa outra vertente a explorar… Pouco mais a reter
+* **Review (PT):** Mais do mesmo com um toque filosófico de Apocalypse Now numa outra vertente a explorar… Pouco mais a reter
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0418763.jpg" style="width: 150px;" alt="Poster for Jarhead">](https://www.imdb.com/title/tt0418763/)
 
 ## [The Secret Life of Bees](https://www.imdb.com/title/tt0416212/)
@@ -1036,7 +1036,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Dakota Fanning, Jennifer Hudson, Queen Latifah
 * **Genre:** Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Puro, inocente, cruel, violento, romântico, poético, um pouco de tudo. Fazia tempo que não conseguia reunir a familia em torno de um filme. Só isso valia nota 10. No final o mais novo assumiu que adorou o filme.
+* **Review (PT):** Puro, inocente, cruel, violento, romântico, poético, um pouco de tudo. Fazia tempo que não conseguia reunir a família em torno de um filme. Só isso valia nota 10. No final o mais novo assumiu que adorou o filme.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0416212.jpg" style="width: 150px;" alt="Poster for The Secret Life of Bees">](https://www.imdb.com/title/tt0416212/)
 
 ## [Escape from Pretoria](https://www.imdb.com/title/tt5797184/)
@@ -1047,7 +1047,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Daniel Radcliffe, Daniel Webber, Ian Hart
 * **Genre:** Biography, Crime, Mystery
 * **Content Rating:** PG-13
-* **Review (PT):** Um redondo e rosbusto 7. Bem contado e enriquecido pelos cactos reais.
+* **Review (PT):** Um redondo e robusto 7. Bem contado e enriquecido pelos factos reais.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt5797184.jpg" style="width: 150px;" alt="Poster for Escape from Pretoria">](https://www.imdb.com/title/tt5797184/)
 
 ## [Nocturnal Animals](https://www.imdb.com/title/tt4550098/)
@@ -1058,7 +1058,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Amy Adams, Jake Gyllenhaal, Michael Shannon
 * **Genre:** Drama, Thriller
 * **Content Rating:** R
-* **Review (PT):** Um salto quântico para juntar duas estórias dispares. Sim conseguimos ver a ligação. Merece o esforço. Nao sei. 
+* **Review (PT):** Um salto quântico para juntar duas estórias díspares. Sim, conseguimos ver a ligação. Merece o esforço. Não sei.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4550098.jpg" style="width: 150px;" alt="Poster for Nocturnal Animals">](https://www.imdb.com/title/tt4550098/)
 
 ## [Wasp Network](https://www.imdb.com/title/tt6760876/)
@@ -1069,7 +1069,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Penélope Cruz, Edgar Ramírez, Gael García Bernal
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** TV-MA
-* **Review (PT):** Vale apena ver pelos factos verídicos e históricos. A filmagem em si é simples e débil. A Penelope vale sempre apena de ver…
+* **Review (PT):** Vale a pena ver pelos factos verídicos e históricos. A filmagem em si é simples e débil. A Penélope vale sempre a pena de ver…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt6760876.jpg" style="width: 150px;" alt="Poster for Wasp Network">](https://www.imdb.com/title/tt6760876/)
 
 ## [Listen](https://www.imdb.com/title/tt6627168/)
@@ -1080,7 +1080,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Lúcia Moniz, Sophia Myles, Ruben Garcia
 * **Genre:** Drama
 * **Content Rating:** N/A
-* **Review (PT):** Um 7 redondo. Filme pequeno, com bons momentos a um nível de qualidade. Boas interpretações. 
+* **Review (PT):** Um 7 redondo. Filme pequeno, com bons momentos a um nível de qualidade. Boas interpretações.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt6627168.jpg" style="width: 150px;" alt="Poster for Listen">](https://www.imdb.com/title/tt6627168/)
 
 ## [Sound of Metal](https://www.imdb.com/title/tt5363618/)
@@ -1091,7 +1091,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Riz Ahmed, Olivia Cooke, Paul Raci
 * **Genre:** Drama, Music
 * **Content Rating:** R
-* **Review (PT):** Tem pouco ou nada de metal, mas muito da vida. Envolve e leva nos. Uma busca que se aplica a outros tantos cenários 
+* **Review (PT):** Tem pouco ou nada de metal, mas muito da vida. Envolve e leva-nos. Uma busca que se aplica a outros tantos cenários
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt5363618.jpg" style="width: 150px;" alt="Poster for Sound of Metal">](https://www.imdb.com/title/tt5363618/)
 
 ## [Never Let Me Go](https://www.imdb.com/title/tt1334260/)
@@ -1102,7 +1102,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Keira Knightley, Carey Mulligan, Andrew Garfield
 * **Genre:** Drama, Romance, Sci-Fi
 * **Content Rating:** R
-* **Review (PT):** Macabro e subtil e delicioso. Como juntar estes 3 atributos num so filme. Uma estória já repetida e ainda assim inovadora ao se reinventar. O passo, o ritmo pausado, a incógnita, o desfecho. Inquietante.
+* **Review (PT):** Macabro e subtil e delicioso. Como juntar estes 3 atributos num só filme. Uma estória já repetida e ainda assim inovadora ao se reinventar. O passo, o ritmo pausado, a incógnita, o desfecho. Inquietante.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1334260.jpg" style="width: 150px;" alt="Poster for Never Let Me Go">](https://www.imdb.com/title/tt1334260/)
 
 ## [Chronique d'une liaison passagère](https://www.imdb.com/title/tt14831708/)
@@ -1113,7 +1113,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sandrine Kiberlain, Vincent Macaigne, Georgia Scalliet
 * **Genre:** Comedy, Romance
 * **Content Rating:** N/A
-* **Review (PT):** Diferente. Picante no contexto. Irreverente. Inocente, ou nao.
+* **Review (PT):** Diferente. Picante no contexto. Irreverente. Inocente, ou não.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt14831708.jpg" style="width: 150px;" alt="Poster for Chronique d'une liaison passagère">](https://www.imdb.com/title/tt14831708/)
 
 ## [Contagion](https://www.imdb.com/title/tt1598778/)
@@ -1124,7 +1124,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Matt Damon, Kate Winslet, Jude Law
 * **Genre:** Drama, Thriller
 * **Content Rating:** PG-13
-* **Review (PT):** Arrepiaste pensar que foi feito antes do Covid e coincide em tanto…
+* **Review (PT):** Arrepia pensar que foi feito antes do Covid e coincide em tanto…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1598778.jpg" style="width: 150px;" alt="Poster for Contagion">](https://www.imdb.com/title/tt1598778/)
 
 ## [Sentimental](https://www.imdb.com/title/tt11028768/)
@@ -1135,7 +1135,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Javier Cámara, Griselda Siciliani, Belén Cuesta
 * **Genre:** Adventure, Comedy
 * **Content Rating:** N/A
-* **Review (PT):** Devia dar 9. Genial. Subtil. Execelentes atores. Hilariante. Underrated 
+* **Review (PT):** Devia dar 9. Genial. Subtil. Excelentes atores. Hilariante. Underrated
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt11028768.jpg" style="width: 150px;" alt="Poster for Sentimental">](https://www.imdb.com/title/tt11028768/)
 
 ## [Molly's Game](https://www.imdb.com/title/tt4209788/)
@@ -1146,7 +1146,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jessica Chastain, Idris Elba, Kevin Costner
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** R
-* **Review (PT):** Básico. A história que os americanos adoram. Ala Hollywood 
+* **Review (PT):** Básico. A história que os americanos adoram. À la Hollywood
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4209788.jpg" style="width: 150px;" alt="Poster for Molly's Game">](https://www.imdb.com/title/tt4209788/)
 
 ## [Sherlock Holmes](https://www.imdb.com/title/tt0988045/)
@@ -1157,7 +1157,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Robert Downey Jr., Jude Law, Rachel McAdams
 * **Genre:** Action, Adventure, Mystery
 * **Content Rating:** PG-13
-* **Review (PT):** Bem feito. O estilo do realizador. Rápido e increncado 
+* **Review (PT):** Bem feito. O estilo do realizador. Rápido e intrincado
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0988045.jpg" style="width: 150px;" alt="Poster for Sherlock Holmes">](https://www.imdb.com/title/tt0988045/)
 
 ## [Lucky Number Slevin](https://www.imdb.com/title/tt0425210/)
@@ -1168,7 +1168,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Josh Hartnett, Ben Kingsley, Morgan Freeman
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** M/16
-* **Review (PT):** Uma cópia do estilo Guy Ritchie MAs com falta de suplece 
+* **Review (PT):** Uma cópia do estilo Guy Ritchie, mas com falta de subtileza
 [<img src="https://m.media-amazon.com/images/M/MV5BZjczMWI1YWMtYTZjOS00ZDc5LWE2MWItMTY3ZGUxNzFkNjJmL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" style="width: 150px;" alt="Poster for Lucky Number Slevin">](https://www.imdb.com/title/tt0425210/)
 
 ## [Enough Said](https://www.imdb.com/title/tt2390361/)
@@ -1190,7 +1190,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mark Wahlberg, Rose Byrne, Isabela Merced
 * **Genre:** Comedy, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Romance a Hollywood. 
+* **Review (PT):** Romance a Hollywood.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt7401588.jpg" style="width: 150px;" alt="Poster for Instant Family">](https://www.imdb.com/title/tt7401588/)
 
 ## [The Virgin Suicides](https://www.imdb.com/title/tt0159097/)
@@ -1201,7 +1201,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Kirsten Dunst, Josh Hartnett, James Woods
 * **Genre:** Drama, Romance
 * **Content Rating:** R
-* **Review (PT):** Um clássico. Com uma forma estranha no toque de Hollywood 
+* **Review (PT):** Um clássico. Com uma forma estranha no toque de Hollywood
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0159097.jpg" style="width: 150px;" alt="Poster for The Virgin Suicides">](https://www.imdb.com/title/tt0159097/)
 
 ## [Begin Again](https://www.imdb.com/title/tt1980929/)
@@ -1256,7 +1256,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Kate Winslet, Cameron Diaz, Jude Law
 * **Genre:** Comedy, Romance
 * **Content Rating:** PG-13
-* **Review (PT):** Romance a Hollywood e pouco mais. Gosto dos British e não tanto da counterpart americana. Vê-se 
+* **Review (PT):** Romance a Hollywood e pouco mais. Gosto dos British e não tanto da counterpart americana. Vê-se
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0457939.jpg" style="width: 150px;" alt="Poster for The Holiday">](https://www.imdb.com/title/tt0457939/)
 
 ## [A Serious Man](https://www.imdb.com/title/tt1019452/)
@@ -1267,7 +1267,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Stuhlbarg, Richard Kind, Sari Lennick
 * **Genre:** Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Gosto deste estilo Cohen. Muito bom sem ser uma obra prima. Momentos hilariantes 
+* **Review (PT):** Gosto deste estilo Cohen. Muito bom sem ser uma obra-prima. Momentos hilariantes
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1019452.jpg" style="width: 150px;" alt="Poster for A Serious Man">](https://www.imdb.com/title/tt1019452/)
 
 ## [Burn After Reading](https://www.imdb.com/title/tt0887883/)
@@ -1300,7 +1300,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jason Statham, Holt McCallany, Josh Hartnett
 * **Genre:** Action, Crime, Thriller
 * **Content Rating:** R
-* **Review (PT):** Este actor casa sempre bem com Guy Ritchie. Violência acima do qb. Romance revirado ao estilo do realizador.
+* **Review (PT):** Este ator casa sempre bem com Guy Ritchie. Violência acima do qb. Romance revirado ao estilo do realizador.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt11083552.jpg" style="width: 150px;" alt="Poster for Wrath of Man">](https://www.imdb.com/title/tt11083552/)
 
 ## [Grimsby](https://www.imdb.com/title/tt3381008/)
@@ -1311,7 +1311,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sacha Baron Cohen, Mark Strong, Rebel Wilson
 * **Genre:** Action, Adventure, Comedy
 * **Content Rating:** R
-* **Review (PT):** Um filme com a cara chapada de Sacha Cohen. Bate muito no fundo do deboche. Quando achava que não podia rebaixar mais, ainda havia uma restea.
+* **Review (PT):** Um filme com a cara chapada de Sacha Cohen. Bate muito no fundo do deboche. Quando achava que não podia rebaixar mais, ainda havia uma restia.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3381008.jpg" style="width: 150px;" alt="Poster for Grimsby">](https://www.imdb.com/title/tt3381008/)
 
 ## [The Fugitive](https://www.imdb.com/title/tt0106977/)
@@ -1333,7 +1333,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Richard Gere, Laura Linney, Edward Norton
 * **Genre:** Crime, Drama, Mystery
 * **Content Rating:** R
-* **Review (PT):** MAis um daqueles clássicos que me passou ao lado. Talvez me tenha afastado por ter sido tão anunciado na altura pela musica cantada pela Dulce Pontes. Primeira irreverência de Ed Norton. Muito bom mas continuo a achar que representa sempre de igual forma.
+* **Review (PT):** Mais um daqueles clássicos que me passou ao lado. Talvez me tenha afastado por ter sido tão anunciado na altura pela música cantada pela Dulce Pontes. Primeira irreverência de Ed Norton. Muito bom mas continuo a achar que representa sempre de igual forma.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0117381.jpg" style="width: 150px;" alt="Poster for Primal Fear">](https://www.imdb.com/title/tt0117381/)
 
 ## [Thor: Ragnarok](https://www.imdb.com/title/tt3501632/)
@@ -1388,7 +1388,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Anthony Hopkins, Julianne Moore, Gary Oldman
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** R
-* **Review (PT):** Depois da obra prima que foi o primeiro filme, este segundo tinha uma missão impossível. Apesar de alguma desilusão da primeira vez que vi, vou-lhe reconhecendo muito mérito ao longo do tempo alem de um leque de autores notáveis. Gary Oldman o verdadeiro camaleão.
+* **Review (PT):** Depois da obra-prima que foi o primeiro filme, este segundo tinha uma missão impossível. Apesar de alguma desilusão da primeira vez que vi, vou-lhe reconhecendo muito mérito ao longo do tempo além de um leque de autores notáveis. Gary Oldman o verdadeiro camaleão.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0212985.jpg" style="width: 150px;" alt="Poster for Hannibal">](https://www.imdb.com/title/tt0212985/)
 
 ## [Triangle of Sadness](https://www.imdb.com/title/tt7322224/)
@@ -1421,7 +1421,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Will Smith, Rosario Dawson, Woody Harrelson
 * **Genre:** Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Grande filme. Bem contado. Cruzado e final contundente! Bem feito 
+* **Review (PT):** Grande filme. Bem contado. Cruzado e final contundente! Bem feito
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0814314.jpg" style="width: 150px;" alt="Poster for Seven Pounds">](https://www.imdb.com/title/tt0814314/)
 
 ## [Upgrade](https://www.imdb.com/title/tt6499752/)
@@ -1443,7 +1443,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** James McAvoy, Bruce Willis, Samuel L. Jackson
 * **Genre:** Drama, Horror, Sci-Fi
 * **Content Rating:** PG-13
-* **Review (PT):** Não é o melhor deste realizador, mas faz um excelente remate em jeito de sequela ala advengers end game. Boas interpretações.
+* **Review (PT):** Não é o melhor deste realizador, mas faz um excelente remate em jeito de sequela à la Avengers: Endgame. Boas interpretações.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt6823368.jpg" style="width: 150px;" alt="Poster for Glass">](https://www.imdb.com/title/tt6823368/)
 
 ## [Me and Earl and the Dying Girl](https://www.imdb.com/title/tt2582496/)
@@ -1465,7 +1465,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong
 * **Genre:** Action, Drama, Mystery
 * **Content Rating:** R
-* **Review (PT):** Não passei dos 10 minutos 
+* **Review (PT):** Não passei dos 10 minutos
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0364569.jpg" style="width: 150px;" alt="Poster for Oldeuboi">](https://www.imdb.com/title/tt0364569/)
 
 ## [Operation Fortune: Ruse de Guerre](https://www.imdb.com/title/tt7985704/)
@@ -1509,7 +1509,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Denzel Washington, Russell Crowe, Chiwetel Ejiofor
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** R
-* **Review (PT):** Será um classico… Não vislumbrei nada de especial. 
+* **Review (PT):** Será um clássico… Não vislumbrei nada de especial.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0765429.jpg" style="width: 150px;" alt="Poster for American Gangster">](https://www.imdb.com/title/tt0765429/)
 
 ## [In Time](https://www.imdb.com/title/tt1637688/)
@@ -1520,7 +1520,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Justin Timberlake, Amanda Seyfried, Cillian Murphy
 * **Genre:** Action, Sci-Fi, Thriller
 * **Content Rating:** PG-13
-* **Review (PT):** Tema ate inovador mas previsivel e bastante nuvelico.
+* **Review (PT):** Tema até inovador, mas previsível e bastante novelesco.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1637688.jpg" style="width: 150px;" alt="Poster for In Time">](https://www.imdb.com/title/tt1637688/)
 
 ## [The Secret Life of Walter Mitty](https://www.imdb.com/title/tt0359950/)
@@ -1564,7 +1564,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Robert Sheehan, Dev Patel, Zoë Kravitz
 * **Genre:** Adventure, Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Interessante. Alguma boa piada e episódios. Faltou um final contundente 
+* **Review (PT):** Interessante. Alguma boa piada e episódios. Faltou um final contundente
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2962876.jpg" style="width: 150px;" alt="Poster for The Road Within">](https://www.imdb.com/title/tt2962876/)
 
 ## [21 Grams](https://www.imdb.com/title/tt0315733/)
@@ -1597,7 +1597,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Ben Affleck, Rosamund Pike, Neil Patrick Harris
 * **Genre:** Drama, Mystery, Thriller
 * **Content Rating:** R
-* **Review (PT):** Um grande filme ala David Fincher. Bom final, mas nao arrebatador.
+* **Review (PT):** Um grande filme ala David Fincher. Bom final, mas não arrebatador.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2267998.jpg" style="width: 150px;" alt="Poster for Gone Girl">](https://www.imdb.com/title/tt2267998/)
 
 ## [Training Day](https://www.imdb.com/title/tt0139654/)
@@ -1608,7 +1608,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Denzel Washington, Ethan Hawke, Scott Glenn
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** R
-* **Review (PT):** Boa novela ação e interpretacoes.
+* **Review (PT):** Boa novela de ação e interpretações.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0139654.jpg" style="width: 150px;" alt="Poster for Training Day">](https://www.imdb.com/title/tt0139654/)
 
 ## [American Sniper](https://www.imdb.com/title/tt2179136/)
@@ -1674,7 +1674,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Taraji P. Henson, Octavia Spencer, Janelle Monáe
 * **Genre:** Biography, Drama, History
 * **Content Rating:** PG
-* **Review (PT):** História bem contada. 
+* **Review (PT):** História bem contada.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4846340.jpg" style="width: 150px;" alt="Poster for Hidden Figures">](https://www.imdb.com/title/tt4846340/)
 
 ## [The Last of the Mohicans](https://www.imdb.com/title/tt0104691/)
@@ -1696,7 +1696,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sean Astin, Josh Brolin, Jeff Cohen
 * **Genre:** Adventure, Comedy, Family
 * **Content Rating:** PG
-* **Review (PT):** Um clássico. Incomparável. Irrepetível. Sempre bom e actual para ver em familia.
+* **Review (PT):** Um clássico. Incomparável. Irrepetível. Sempre bom e atual para ver em família.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0089218.jpg" style="width: 150px;" alt="Poster for The Goonies">](https://www.imdb.com/title/tt0089218/)
 
 ## [King Arthur: Legend of the Sword](https://www.imdb.com/title/tt1972591/)
@@ -1729,7 +1729,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Gary Oldman, Winona Ryder, Anthony Hopkins
 * **Genre:** Drama, Fantasy, Horror
 * **Content Rating:** R
-* **Review (PT):** Romantico, terror, suspense, negro, triste, ... o melhor dos draculas no melhor dos actores.
+* **Review (PT):** Romântico, terror, suspense, negro, triste, ... o melhor dos Dráculas no melhor dos actores.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0103874.jpg" style="width: 150px;" alt="Poster for Bram Stoker's Dracula">](https://www.imdb.com/title/tt0103874/)
 
 ## [Spider-Man: Into the Spider-Verse](https://www.imdb.com/title/tt4633694/)
@@ -1740,7 +1740,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Shameik Moore, Jake Johnson, Hailee Steinfeld
 * **Genre:** Animation, Action, Adventure
 * **Content Rating:** PG
-* **Review (PT):** Aquele efeito de Hollywood overate na marvel. Mas bom filme
+* **Review (PT):** Aquele efeito de Hollywood overrated na Marvel. Mas bom filme
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4633694.jpg" style="width: 150px;" alt="Poster for Spider-Man: Into the Spider-Verse">](https://www.imdb.com/title/tt4633694/)
 
 ## [There Will Be Blood](https://www.imdb.com/title/tt0469494/)
@@ -1751,7 +1751,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Daniel Day-Lewis, Paul Dano, Ciarán Hinds
 * **Genre:** Drama
 * **Content Rating:** R
-* **Review (PT):** Gostei do enredo. Interpretações. E desfecho. Sadico 
+* **Review (PT):** Gostei do enredo. Interpretações. E desfecho. Sádico
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0469494.jpg" style="width: 150px;" alt="Poster for There Will Be Blood">](https://www.imdb.com/title/tt0469494/)
 
 ## [Papillon](https://www.imdb.com/title/tt0070511/)
@@ -1773,7 +1773,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Daniel Radcliffe, Emma Watson, Rupert Grint
 * **Genre:** Adventure, Family, Fantasy
 * **Content Rating:** PG
-* **Review (PT):** Gostei como qq outro da saga
+* **Review (PT):** Gostei como qualquer outro da saga
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0304141.jpg" style="width: 150px;" alt="Poster for Harry Potter and the Prisoner of Azkaban">](https://www.imdb.com/title/tt0304141/)
 
 ## [Dallas Buyers Club](https://www.imdb.com/title/tt0790636/)
@@ -1784,7 +1784,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Matthew McConaughey, Jennifer Garner, Jared Leto
 * **Genre:** Biography, Drama
 * **Content Rating:** R
-* **Review (PT):** Factos verídicos. Excelente interpretação. 
+* **Review (PT):** Factos verídicos. Excelente interpretação.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0790636.jpg" style="width: 150px;" alt="Poster for Dallas Buyers Club">](https://www.imdb.com/title/tt0790636/)
 
 ## [Cidade de Deus](https://www.imdb.com/title/tt0317248/)
@@ -1795,7 +1795,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele
 * **Genre:** Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Diferente de tudo e de todos que já vi. Um dos meus favoritos 
+* **Review (PT):** Diferente de tudo e de todos que já vi. Um dos meus favoritos
 [<img src="https://m.media-amazon.com/images/M/MV5BNDJiNTEwMjMtOGQ1ZC00OTczLWFjZjctZWQ0MGJjZmFkMjcwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" style="width: 150px;" alt="Poster for Cidade de Deus">](https://www.imdb.com/title/tt0317248/)
 
 ## [The Notebook](https://www.imdb.com/title/tt0332280/)
@@ -1850,7 +1850,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Viggo Mortensen, Charlize Theron, Kodi Smit-McPhee
 * **Genre:** Drama, Thriller
 * **Content Rating:** R
-* **Review (PT):** Embora este seja anterior, tem contexto semelhante ao Light of My Life. Mas gostei mais do segundo. Este cansou-me e tive que avançar em passo acelarado
+* **Review (PT):** Embora este seja anterior, tem contexto semelhante ao Light of My Life. Mas gostei mais do segundo. Este cansou-me e tive que avançar em passo acelerado
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0898367.jpg" style="width: 150px;" alt="Poster for The Road">](https://www.imdb.com/title/tt0898367/)
 
 ## [Lone Survivor](https://www.imdb.com/title/tt1091191/)
@@ -1861,7 +1861,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mark Wahlberg, Taylor Kitsch, Emile Hirsch
 * **Genre:** Action, Biography, Drama
 * **Content Rating:** R
-* **Review (PT):** Prendeu-me ao ecra. Apesar de ser mais do mesmo. Tem a componente dos factos reais que prendem mais. O final telenovela e hesito sempre se nao mesmo com alguma imoralidade….
+* **Review (PT):** Prendeu-me ao ecrã. Apesar de ser mais do mesmo. Tem a componente dos factos reais que prendem mais. O final é telenovela e hesito sempre se não mesmo com alguma imoralidade….
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1091191.jpg" style="width: 150px;" alt="Poster for Lone Survivor">](https://www.imdb.com/title/tt1091191/)
 
 ## [Proxima](https://www.imdb.com/title/tt7374926/)
@@ -1916,7 +1916,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Keaton, Jack Nicholson, Kim Basinger
 * **Genre:** Action, Adventure
 * **Content Rating:** PG-13
-* **Review (PT):** Quanto mais reedições fazem melhor ainda se torna este filme. Peculiar ou ate genial…
+* **Review (PT):** Quanto mais reedições fazem melhor ainda se torna este filme. Peculiar ou até genial…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0096895.jpg" style="width: 150px;" alt="Poster for Batman">](https://www.imdb.com/title/tt0096895/)
 
 ## [Bullet Train](https://www.imdb.com/title/tt12593682/)
@@ -1927,7 +1927,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Brad Pitt, Joey King, Aaron Taylor-Johnson
 * **Genre:** Action, Comedy, Thriller
 * **Content Rating:** R
-* **Review (PT):** Um pouco de Guy Ritchie, Tarantino, e mais algum a mistura. A dada altura a meio achei repetitivo. Bons sketches e leque de actores…
+* **Review (PT):** Um pouco de Guy Ritchie, Tarantino, e mais algum à mistura. A dada altura, a meio, achei repetitivo. Bons sketches e leque de actores…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt12593682.jpg" style="width: 150px;" alt="Poster for Bullet Train">](https://www.imdb.com/title/tt12593682/)
 
 ## [Everything Everywhere All at Once](https://www.imdb.com/title/tt6710474/)
@@ -1938,7 +1938,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michelle Yeoh, Stephanie Hsu, Jamie Lee Curtis
 * **Genre:** Action, Adventure, Comedy
 * **Content Rating:** R
-* **Review (PT):** Outra vez os multiverses. Agora num modo meio parvo. Não vejo nada de diferente de outros multiverses. Defeito meu! Também não me surpreendeu nada as representações e não entendo nenhum dos oscares atribuídos…
+* **Review (PT):** Outra vez os multiversos. Agora num modo meio parvo. Não vejo nada de diferente de outros multiversos. Defeito meu! Também não me surpreenderam nada as representações e não entendo nenhum dos Óscares atribuídos…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt6710474.jpg" style="width: 150px;" alt="Poster for Everything Everywhere All at Once">](https://www.imdb.com/title/tt6710474/)
 
 ## [Rain Man](https://www.imdb.com/title/tt0095953/)
@@ -1971,7 +1971,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mark Wahlberg, Christian Bale, Amy Adams
 * **Genre:** Action, Biography, Drama
 * **Content Rating:** R
-* **Review (PT):** Gostei. Excelente interpretação. Bom ritmo 
+* **Review (PT):** Gostei. Excelente interpretação. Bom ritmo
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0964517.jpg" style="width: 150px;" alt="Poster for The Fighter">](https://www.imdb.com/title/tt0964517/)
 
 ## [Awakenings](https://www.imdb.com/title/tt0099077/)
@@ -1982,7 +1982,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Robert De Niro, Robin Williams, Julie Kavner
 * **Genre:** Biography, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Um clássico. Actores e interpretações. 
+* **Review (PT):** Um clássico. Actores e interpretações.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0099077.jpg" style="width: 150px;" alt="Poster for Awakenings">](https://www.imdb.com/title/tt0099077/)
 
 ## [How to Train Your Dragon](https://www.imdb.com/title/tt0892769/)
@@ -2059,7 +2059,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Keaton, Zach Galifianakis, Edward Norton
 * **Genre:** Comedy, Drama
 * **Content Rating:** R
-* **Review (PT):** Do mesmo realizador que 21 grams e que gostei tanto como o primeiro. Além novamente da escolha de actores 
+* **Review (PT):** Do mesmo realizador que 21 grams e que gostei tanto como o primeiro. Além novamente da escolha de actores
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2562232.jpg" style="width: 150px;" alt="Poster for Birdman or (The Unexpected Virtue of Ignorance)">](https://www.imdb.com/title/tt2562232/)
 
 ## [Zodiac](https://www.imdb.com/title/tt0443706/)
@@ -2092,7 +2092,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Harrison Ford, Sean Connery, Alison Doody
 * **Genre:** Action, Adventure
 * **Content Rating:** PG-13
-* **Review (PT):** gostei muito deste e da interpretação de Sean Connery 
+* **Review (PT):** Gostei muito deste e da interpretação de Sean Connery
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0097576.jpg" style="width: 150px;" alt="Poster for Indiana Jones and the Last Crusade">](https://www.imdb.com/title/tt0097576/)
 
 ## [The Godfather](https://www.imdb.com/title/tt0068646/)
@@ -2114,7 +2114,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Harrison Ford, Karen Allen, Paul Freeman
 * **Genre:** Action, Adventure
 * **Content Rating:** PG
-* **Review (PT):** Inédito e merito quando foi feito. Só vi depois de ver o segundo da sequela e por isso nao causou o mesmo impacto.
+* **Review (PT):** Inédito e mérito quando foi feito. Só vi depois de ver o segundo da sequela e por isso não causou o mesmo impacto.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0082971.jpg" style="width: 150px;" alt="Poster for Raiders of the Lost Ark">](https://www.imdb.com/title/tt0082971/)
 
 ## [Boyhood](https://www.imdb.com/title/tt1065073/)
@@ -2136,7 +2136,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Kev Adams, Gérard Depardieu, Daniel Prévost
 * **Genre:** Comedy
 * **Content Rating:** N/A
-* **Review (PT):** Simples eficaz e pouco mais. Comédia francesa
+* **Review (PT):** Simples, eficaz e pouco mais. Comédia francesa
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt12847680.jpg" style="width: 150px;" alt="Poster for Maison de retraite">](https://www.imdb.com/title/tt12847680/)
 
 ## [Louder Than Bombs](https://www.imdb.com/title/tt2217859/)
@@ -2158,7 +2158,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Clint Eastwood, Dwight Yoakam, Daniel V. Graulau
 * **Genre:** Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Muito mau. Não acreditei na pontuação IMDb. Mas estava certa. Dei o beneficio da duvida por ser Clint Eastwood.
+* **Review (PT):** Muito mau. Não acreditei na pontuação IMDb. Mas estava certa. Dei o benefício da dúvida por ser Clint Eastwood.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1924245.jpg" style="width: 150px;" alt="Poster for Cry Macho">](https://www.imdb.com/title/tt1924245/)
 
 ## [The Revenant](https://www.imdb.com/title/tt1663202/)
@@ -2180,7 +2180,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Anna Pniowsky, Casey Affleck, Tom Bower
 * **Genre:** Drama, Sci-Fi, Thriller
 * **Content Rating:** M/14
-* **Review (PT):** Gosto sempre do passo dos filmes com este actor. Até estava a gostar deste filme, mas…
+* **Review (PT):** Gosto sempre do passo dos filmes com este ator. Até estava a gostar deste filme, mas…
 [<img src="https://m.media-amazon.com/images/M/MV5BM2FmMGNiODgtNTAyMy00N2VlLWEyODEtNDViMmRkZDA5Nzc3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg" style="width: 150px;" alt="Poster for Light of My Life">](https://www.imdb.com/title/tt6063090/)
 
 ## [Moonrise Kingdom](https://www.imdb.com/title/tt1748122/)
@@ -2191,7 +2191,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jared Gilman, Kara Hayward, Bruce Willis
 * **Genre:** Comedy, Drama, Family
 * **Content Rating:** PG-13
-* **Review (PT):** vi. bom filme. registei pouco mais
+* **Review (PT):** Vi. Bom filme. Registei pouco mais
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1748122.jpg" style="width: 150px;" alt="Poster for Moonrise Kingdom">](https://www.imdb.com/title/tt1748122/)
 
 ## [Django Unchained](https://www.imdb.com/title/tt1853728/)
@@ -2213,7 +2213,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Clint Eastwood, Gene Hackman, Morgan Freeman
 * **Genre:** Drama, Western
 * **Content Rating:** R
-* **Review (PT):** Bom. Não sei se gostei ao nível de dizer muito bom. 
+* **Review (PT):** Bom. Não sei se gostei ao nível de dizer muito bom.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0105695.jpg" style="width: 150px;" alt="Poster for Unforgiven">](https://www.imdb.com/title/tt0105695/)
 
 ## [Rocky](https://www.imdb.com/title/tt0075148/)
@@ -2224,7 +2224,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sylvester Stallone, Talia Shire, Burt Young
 * **Genre:** Drama, Sport
 * **Content Rating:** PG
-* **Review (PT):** Só no Estados Unidos sera um filme muito bom. Talvez pela época em que foi feito. 
+* **Review (PT):** Só no Estados Unidos sera um filme muito bom. Talvez pela época em que foi feito.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0075148.jpg" style="width: 150px;" alt="Poster for Rocky">](https://www.imdb.com/title/tt0075148/)
 
 ## [The Deer Hunter](https://www.imdb.com/title/tt0077416/)
@@ -2235,7 +2235,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Robert De Niro, Christopher Walken, John Cazale
 * **Genre:** Drama, War
 * **Content Rating:** R
-* **Review (PT):** Um clássico. Marcou em Portugal quando deu na TV como algo acima do chocante. 
+* **Review (PT):** Um clássico. Marcou em Portugal quando deu na TV como algo acima do chocante.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0077416.jpg" style="width: 150px;" alt="Poster for The Deer Hunter">](https://www.imdb.com/title/tt0077416/)
 
 ## [Platoon](https://www.imdb.com/title/tt0091763/)
@@ -2290,7 +2290,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Will Smith, Thandiwe Newton, Jaden Smith
 * **Genre:** Biography, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Para chorar. Se a historia real ganha ainda mais por isso. Grande representação.
+* **Review (PT):** Para chorar. Se a história real ganha ainda mais por isso. Grande representação.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0454921.jpg" style="width: 150px;" alt="Poster for The Pursuit of Happyness">](https://www.imdb.com/title/tt0454921/)
 
 ## [The Martian](https://www.imdb.com/title/tt3659388/)
@@ -2345,7 +2345,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Logan Lerman, Emma Watson, Ezra Miller
 * **Genre:** Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Da minha Top List. Adoro, adoro, revejo, revejo e nunca me canso. 
+* **Review (PT):** Da minha Top List. Adoro, adoro, revejo, revejo e nunca me canso.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1659337.jpg" style="width: 150px;" alt="Poster for The Perks of Being a Wallflower">](https://www.imdb.com/title/tt1659337/)
 
 ## [Madres paralelas](https://www.imdb.com/title/tt12618926/)
@@ -2444,7 +2444,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Tom Hanks, Bill Paxton, Kevin Bacon
 * **Genre:** Adventure, Drama, History
 * **Content Rating:** PG
-* **Review (PT):** Mais um filme feito para Tom Hanks. Bom claro por ser histórico e baseado factos reais…
+* **Review (PT):** Mais um filme feito para Tom Hanks. Bom, claro, por ser histórico e baseado em factos reais…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0112384.jpg" style="width: 150px;" alt="Poster for Apollo 13">](https://www.imdb.com/title/tt0112384/)
 
 ## [Harry Potter and the Half-Blood Prince](https://www.imdb.com/title/tt0417741/)
@@ -2488,7 +2488,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sylvester Stallone, Antonio Tarver, Milo Ventimiglia
 * **Genre:** Action, Drama, Sport
 * **Content Rating:** PG
-* **Review (PT):** Consegue levantar mais um filme do Rocky dos cacos.  Nunca pode chegar ao nível dos anteriores mas não está mal
+* **Review (PT):** Consegue levantar mais um filme do Rocky dos cacos. Nunca pode chegar ao nível dos anteriores mas não está mal
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0479143.jpg" style="width: 150px;" alt="Poster for Rocky Balboa">](https://www.imdb.com/title/tt0479143/)
 
 ## [Miracles from Heaven](https://www.imdb.com/title/tt4257926/)
@@ -2510,7 +2510,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Bill Murray, Dan Aykroyd, Sigourney Weaver
 * **Genre:** Action, Comedy, Fantasy
 * **Content Rating:** PG
-* **Review (PT):** La está uma daquelas sequelas que podia não ter acontecido. 
+* **Review (PT):** La está uma daquelas sequelas que podia não ter acontecido.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0097428.jpg" style="width: 150px;" alt="Poster for Ghostbusters II">](https://www.imdb.com/title/tt0097428/)
 
 ## [Crocodile Dundee II](https://www.imdb.com/title/tt0092493/)
@@ -2532,7 +2532,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Roy Scheider, Lorraine Gary, Murray Hamilton
 * **Genre:** Adventure, Horror, Thriller
 * **Content Rating:** PG
-* **Review (PT):** Nunca poderia ser uma obra prima como o primeiro. Mas também não acho assim tão mau.
+* **Review (PT):** Nunca poderia ser uma obra-prima como o primeiro. Mas também não acho assim tão mau.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0077766.jpg" style="width: 150px;" alt="Poster for Jaws 2">](https://www.imdb.com/title/tt0077766/)
 
 ## [The Interview](https://www.imdb.com/title/tt2788710/)
@@ -2543,7 +2543,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** James Franco, Seth Rogen, Randall Park
 * **Genre:** Action, Adventure, Comedy
 * **Content Rating:** R
-* **Review (PT):** Nem consegui chegar ao fim. Parvoice pura americana.
+* **Review (PT):** Nem consegui chegar ao fim. Parvoíce pura americana.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2788710.jpg" style="width: 150px;" alt="Poster for The Interview">](https://www.imdb.com/title/tt2788710/)
 
 ## [Broken Flowers](https://www.imdb.com/title/tt0412019/)
@@ -2554,7 +2554,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Bill Murray, Jessica Lange, Sharon Stone
 * **Genre:** Comedy, Drama, Mystery
 * **Content Rating:** M/12
-* **Review (PT):** Até pode ser bom. Mas demasiado parado para um dia de semana. Gostei de rever a Sharon 
+* **Review (PT):** Até pode ser bom. Mas demasiado parado para um dia de semana. Gostei de rever a Sharon
 [<img src="https://m.media-amazon.com/images/M/MV5BMzMwZDVhNzYtMWRmMi00NjljLTlkZWItM2FjZDUzYzIwMjAyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_.jpg" style="width: 150px;" alt="Poster for Broken Flowers">](https://www.imdb.com/title/tt0412019/)
 
 ## [Anna](https://www.imdb.com/title/tt7456310/)
@@ -2565,7 +2565,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sasha Luss, Helen Mirren, Luke Evans
 * **Genre:** Action, Thriller
 * **Content Rating:** R
-* **Review (PT):** Adoro qq filme do Luc Besson. Este tem muita inspiração do Point of no return, mas com inspiração da Lucy e o estilo Besson. 
+* **Review (PT):** Adoro qualquer filme do Luc Besson. Este tem muita inspiração do Point of No Return, mas com inspiração da Lucy e o estilo Besson.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt7456310.jpg" style="width: 150px;" alt="Poster for Anna">](https://www.imdb.com/title/tt7456310/)
 
 ## [Valerian and the City of a Thousand Planets](https://www.imdb.com/title/tt2239822/)
@@ -2576,7 +2576,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Dane DeHaan, Cara Delevingne, Clive Owen
 * **Genre:** Action, Adventure, Fantasy
 * **Content Rating:** M/12
-* **Review (PT):** Gosto sempre destes filmes ficção do Luc Beson mesmo qdo não são geniais são diferentes e gosto. Gosto dos actores tb.
+* **Review (PT):** Gosto sempre destes filmes de ficção do Luc Besson mesmo quando não são geniais, são diferentes e gosto. Gosto dos actores também.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2239822.jpg" style="width: 150px;" alt="Poster for Valerian and the City of a Thousand Planets">](https://www.imdb.com/title/tt2239822/)
 
 ## [Gridiron Gang](https://www.imdb.com/title/tt0421206/)
@@ -2587,7 +2587,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Dwayne Johnson, Xzibit, L. Scott Caldwell
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Nada de especial. Vê-se bem em familia. Mais uma novela típica americana de ascensão.
+* **Review (PT):** Nada de especial. Vê-se bem em família. Mais uma novela típica americana de ascensão.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0421206.jpg" style="width: 150px;" alt="Poster for Gridiron Gang">](https://www.imdb.com/title/tt0421206/)
 
 ## [Im Westen nichts Neues](https://www.imdb.com/title/tt1016150/)
@@ -2598,7 +2598,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Felix Kammerer, Albrecht Schuch, Aaron Hilmer
 * **Genre:** Action, Drama, War
 * **Content Rating:** R
-* **Review (PT):** Bom mas nada de melhor do que vi no 1917 
+* **Review (PT):** Bom mas nada de melhor do que vi no 1917
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1016150.jpg" style="width: 150px;" alt="Poster for Im Westen nichts Neues">](https://www.imdb.com/title/tt1016150/)
 
 ## [The Bourne Supremacy](https://www.imdb.com/title/tt0372183/)
@@ -2642,7 +2642,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Andy Garcia, Julianna Margulies, Steven Strait
 * **Genre:** Comedy, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Uma boa comedia. Mas em decrescendo. Apesar disso, muito bom.
+* **Review (PT):** Uma boa comédia. Mas em decrescendo. Apesar disso, muito bom.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1174730.jpg" style="width: 150px;" alt="Poster for City Island">](https://www.imdb.com/title/tt1174730/)
 
 ## [No Country for Old Men](https://www.imdb.com/title/tt0477348/)
@@ -2675,7 +2675,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Tom Hanks, Helen Hunt, Paul Sanchez
 * **Genre:** Adventure, Drama, Romance
 * **Content Rating:** M/12
-* **Review (PT):** Vi a primeira vez num cinema no Brasil. Excelente filme. Com humor a mistura.
+* **Review (PT):** Vi a primeira vez num cinema no Brasil. Excelente filme. Com humor à mistura.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0162222.jpg" style="width: 150px;" alt="Poster for Cast Away">](https://www.imdb.com/title/tt0162222/)
 
 ## [Midnight in Paris](https://www.imdb.com/title/tt1605783/)
@@ -2697,7 +2697,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Angelina Jolie, Colm Feore, Amy Ryan
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Mais uma obra prima deste realizador. Este brutal e chocante.
+* **Review (PT):** Mais uma obra-prima deste realizador. Este é brutal e chocante.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0824747.jpg" style="width: 150px;" alt="Poster for Changeling">](https://www.imdb.com/title/tt0824747/)
 
 ## [The Bridges of Madison County](https://www.imdb.com/title/tt0112579/)
@@ -2752,7 +2752,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jeff Bridges, John Goodman, Julianne Moore
 * **Genre:** Comedy, Crime
 * **Content Rating:** M/12
-* **Review (PT):** Excelente comedia e grande Dude!
+* **Review (PT):** Excelente comédia e grande Dude!
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0118715.jpg" style="width: 150px;" alt="Poster for The Big Lebowski">](https://www.imdb.com/title/tt0118715/)
 
 ## [All Is Lost](https://www.imdb.com/title/tt2017038/)
@@ -2763,7 +2763,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Robert Redford
 * **Genre:** Action, Adventure, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Algum realismo diferente de outros filmes do mesmo tema. Pouco mais alem disso…
+* **Review (PT):** Algum realismo diferente de outros filmes do mesmo tema. Pouco mais além disso…
 [<img src="https://m.media-amazon.com/images/M/MV5BMjI0MzIyMjU1N15BMl5BanBnXkFtZTgwOTk1MjQxMDE@._V1_.jpg" style="width: 150px;" alt="Poster for All Is Lost">](https://www.imdb.com/title/tt2017038/)
 
 ## [A Monster Calls](https://www.imdb.com/title/tt3416532/)
@@ -2785,7 +2785,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Frances McDormand, Amy Adams, Ciarán Hinds
 * **Genre:** Comedy, Romance
 * **Content Rating:** M/12
-* **Review (PT):** Bem disposto. Diferente. Boas interpretecoes…
+* **Review (PT):** Bem disposto. Diferente. Boas interpretações…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0970468.jpg" style="width: 150px;" alt="Poster for Miss Pettigrew Lives for a Day">](https://www.imdb.com/title/tt0970468/)
 
 ## [The Trial of the Chicago 7](https://www.imdb.com/title/tt1070874/)
@@ -2796,7 +2796,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Eddie Redmayne, Alex Sharp, Sacha Baron Cohen
 * **Genre:** Drama, History, Thriller
 * **Content Rating:** R
-* **Review (PT):** Deve ser bom. Mas adormeci. A Maf adorou. Os atores são excelentes. Os factos verídicos enriquece. Gostei dos episódios que vi.
+* **Review (PT):** Deve ser bom. Mas adormeci. A Maf adorou. Os atores são excelentes. Os factos verídicos enriquecem. Gostei dos episódios que vi.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1070874.jpg" style="width: 150px;" alt="Poster for The Trial of the Chicago 7">](https://www.imdb.com/title/tt1070874/)
 
 ## [True Spirit](https://www.imdb.com/title/tt2353868/)
@@ -2807,7 +2807,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Alyla Browne, Teagan Croft, Cliff Curtis
 * **Genre:** Adventure, Biography, Drama
 * **Content Rating:** TV-PG
-* **Review (PT):** uma novelazita como tantas outras no meio do mar e bicharada. Vale por factos reais 
+* **Review (PT):** Uma novelazita como tantas outras no meio do mar e bicharada. Vale por factos reais
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2353868.jpg" style="width: 150px;" alt="Poster for True Spirit">](https://www.imdb.com/title/tt2353868/)
 
 ## [The Way Way Back](https://www.imdb.com/title/tt1727388/)
@@ -2818,7 +2818,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Steve Carell, Toni Collette, Allison Janney
 * **Genre:** Comedy, Drama
 * **Content Rating:** M/12
-* **Review (PT):** delicioso, cru, cómico, romântico e cruel 
+* **Review (PT):** Delicioso, cru, cómico, romântico e cruel
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1727388.jpg" style="width: 150px;" alt="Poster for The Way Way Back">](https://www.imdb.com/title/tt1727388/)
 
 ## [The Big Sick](https://www.imdb.com/title/tt5462602/)
@@ -2862,7 +2862,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Tom Hardy, Charlize Theron, Nicholas Hoult
 * **Genre:** Action, Adventure, Sci-Fi
 * **Content Rating:** M/14
-* **Review (PT):** Faz jus a sequela e um dos mais empolgantes.
+* **Review (PT):** Faz jus à sequela e é um dos mais empolgantes.
 [<img src="https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" style="width: 150px;" alt="Poster for Mad Max: Fury Road">](https://www.imdb.com/title/tt1392190/)
 
 ## [Victory](https://www.imdb.com/title/tt0083284/)
@@ -2873,7 +2873,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Caine, Sylvester Stallone, Pelé
 * **Genre:** Drama, Sport, War
 * **Content Rating:** M/12
-* **Review (PT):** emocionante até ao fim! Real team building.I
+* **Review (PT):** Emocionante até ao fim! Real team building.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0083284.jpg" style="width: 150px;" alt="Poster for Victory">](https://www.imdb.com/title/tt0083284/)
 
 ## [Kung Fu Panda](https://www.imdb.com/title/tt0441773/)
@@ -2895,7 +2895,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** James McAvoy, Anya Taylor-Joy, Haley Lu Richardson
 * **Genre:** Horror, Thriller
 * **Content Rating:** M/16
-* **Review (PT):** Gostei. Um pouco fora da caixa e uma excelente interpenetração.
+* **Review (PT):** Gostei. Um pouco fora da caixa e uma excelente interpretação.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4972582.jpg" style="width: 150px;" alt="Poster for Split">](https://www.imdb.com/title/tt4972582/)
 
 ## [Yedinci Kogustaki Mucize](https://www.imdb.com/title/tt10431500/)
@@ -2928,7 +2928,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jake Gyllenhaal, Rene Russo, Bill Paxton
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** M/14
-* **Review (PT):** Boa estória e bem contada. Prende ao ecra. Gostei da personagem e interpretação.
+* **Review (PT):** Boa estória e bem contada. Prende ao ecrã. Gostei da personagem e interpretação.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2872718.jpg" style="width: 150px;" alt="Poster for Nightcrawler">](https://www.imdb.com/title/tt2872718/)
 
 ## [Maps to the Stars](https://www.imdb.com/title/tt2172584/)
@@ -2939,7 +2939,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Julianne Moore, Mia Wasikowska, Robert Pattinson
 * **Genre:** Comedy, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Chanfrado, hilariante, macabro, … tudo e mais num único filme. Adoro o estilo e fiel ao realizador.
+* **Review (PT):** Chanfrado, hilariante, macabro, … tudo e mais num único filme. Adoro o estilo e é fiel ao realizador.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2172584.jpg" style="width: 150px;" alt="Poster for Maps to the Stars">](https://www.imdb.com/title/tt2172584/)
 
 ## [Léon](https://www.imdb.com/title/tt0110413/)
@@ -2950,7 +2950,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jean Reno, Gary Oldman, Natalie Portman
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Excelent. Muita ação e ingenuidade sem palavras.
+* **Review (PT):** Excelente. Muita ação e ingenuidade sem palavras.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0110413.jpg" style="width: 150px;" alt="Poster for Léon">](https://www.imdb.com/title/tt0110413/)
 
 ## [Alien: Covenant](https://www.imdb.com/title/tt2316204/)
@@ -2961,7 +2961,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Fassbender, Katherine Waterston, Billy Crudup
 * **Genre:** Horror, Sci-Fi, Thriller
 * **Content Rating:** M/16
-* **Review (PT):** OK it is an Allien movie and I like it! But…
+* **Review (PT):** OK it is an Alien movie and I like it! But…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2316204.jpg" style="width: 150px;" alt="Poster for Alien: Covenant">](https://www.imdb.com/title/tt2316204/)
 
 ## [Nordsjøen](https://www.imdb.com/title/tt12753120/)
@@ -3005,7 +3005,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Arnold Schwarzenegger, Carl Weathers, Kevin Peter Hall
 * **Genre:** Action, Adventure, Horror
 * **Content Rating:** M/16
-* **Review (PT):** Classico de nível superior. A sequela não faz jus a este grande filme.
+* **Review (PT):** Clássico de nível superior. A sequela não faz jus a este grande filme.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0093773.jpg" style="width: 150px;" alt="Poster for Predator">](https://www.imdb.com/title/tt0093773/)
 
 ## [Star Wars: Episode VIII - The Last Jedi](https://www.imdb.com/title/tt2527336/)
@@ -3060,7 +3060,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Colin Farrell, Brendan Gleeson, Ciarán Hinds
 * **Genre:** Comedy, Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Boa comedia sofisticada e subtil.
+* **Review (PT):** Boa comédia sofisticada e subtil.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0780536.jpg" style="width: 150px;" alt="Poster for In Bruges">](https://www.imdb.com/title/tt0780536/)
 
 ## [Crimson Tide](https://www.imdb.com/title/tt0112740/)
@@ -3093,7 +3093,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Bill Murray, Leem Lubany, Zooey Deschanel
 * **Genre:** Comedy, Music, War
 * **Content Rating:** M/12
-* **Review (PT):** Algumas boas cenas. O resto não deslumbra, mas também não incomoda. 
+* **Review (PT):** Algumas boas cenas. O resto não deslumbra, mas também não incomoda.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3164256.jpg" style="width: 150px;" alt="Poster for Rock the Kasbah">](https://www.imdb.com/title/tt3164256/)
 
 ## [Eyes Wide Shut](https://www.imdb.com/title/tt0120663/)
@@ -3148,7 +3148,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Giuseppe Battiston, Anna Foglietta, Marco Giallini
 * **Genre:** Comedy, Drama
 * **Content Rating:** M/14
-* **Review (PT):** Simples, perfeito e eficaz. BTW e com humor.
+* **Review (PT):** Simples, perfeito e eficaz. BTW, e com humor.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4901306.jpg" style="width: 150px;" alt="Poster for Perfetti sconosciuti">](https://www.imdb.com/title/tt4901306/)
 
 ## [Man Up](https://www.imdb.com/title/tt3064298/)
@@ -3170,7 +3170,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mads Mikkelsen, Nikolaj Lie Kaas, Andrea Heick Gadeberg
 * **Genre:** Action, Comedy, Drama
 * **Content Rating:** Not Rated
-* **Review (PT):** Hilariante, violento e ate divertido! Mistura explosiva.
+* **Review (PT):** Hilariante, violento e até divertido! Mistura explosiva.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt11655202.jpg" style="width: 150px;" alt="Poster for Retfærdighedens ryttere">](https://www.imdb.com/title/tt11655202/)
 
 ## [Competencia oficial](https://www.imdb.com/title/tt11700260/)
@@ -3181,7 +3181,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Penélope Cruz, Antonio Banderas, Oscar Martínez
 * **Genre:** Comedy, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Excelente comedia espanhola fora da caixa. Personagem de luxo!
+* **Review (PT):** Excelente comédia espanhola fora da caixa. Personagem de luxo!
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt11700260.jpg" style="width: 150px;" alt="Poster for Competencia oficial">](https://www.imdb.com/title/tt11700260/)
 
 ## [Hector and the Search for Happiness](https://www.imdb.com/title/tt1626146/)
@@ -3192,7 +3192,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Simon Pegg, Rosamund Pike, Tracy-Ann Oberman
 * **Genre:** Adventure, Comedy, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Divertido q.b. Não e mau. Tb não e fabuloso.
+* **Review (PT):** Divertido q.b. Não é mau. Também não é fabuloso.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1626146.jpg" style="width: 150px;" alt="Poster for Hector and the Search for Happiness">](https://www.imdb.com/title/tt1626146/)
 
 ## [Imaginary Heroes](https://www.imdb.com/title/tt0373024/)
@@ -3225,7 +3225,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Rosamund Pike, David Tennant, Billy Connolly
 * **Genre:** Comedy, Drama
 * **Content Rating:** M/12
-* **Review (PT):** boa comedia com humor e sarcasmo ao estilo ingles. 
+* **Review (PT):** Boa comédia com humor e sarcasmo ao estilo inglês.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt2725962.jpg" style="width: 150px;" alt="Poster for What We Did on Our Holiday">](https://www.imdb.com/title/tt2725962/)
 
 ## [El buen patrón](https://www.imdb.com/title/tt13066182/)
@@ -3291,7 +3291,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** John Travolta, Uma Thurman, Samuel L. Jackson
 * **Genre:** Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Masterpiece 
+* **Review (PT):** Masterpiece
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0110912.jpg" style="width: 150px;" alt="Poster for Pulp Fiction">](https://www.imdb.com/title/tt0110912/)
 
 ## [Forrest Gump](https://www.imdb.com/title/tt0109830/)
@@ -3335,7 +3335,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Matthew McConaughey, Charlie Hunnam, Michelle Dockery
 * **Genre:** Action, Comedy, Crime
 * **Content Rating:** M/16
-* **Review (PT):** Hilariante! Personagens, guarda roupa, sotaques, charme,… 
+* **Review (PT):** Hilariante! Personagens, guarda-roupa, sotaques, charme,…
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt8367814.jpg" style="width: 150px;" alt="Poster for The Gentlemen">](https://www.imdb.com/title/tt8367814/)
 
 ## [Enemy](https://www.imdb.com/title/tt2316411/)
@@ -3368,7 +3368,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Daniel Craig, Edward Norton, Kate Hudson
 * **Genre:** Comedy, Crime, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Frenetico! grandes actores
+* **Review (PT):** Frenético! grandes actores
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt11564570.jpg" style="width: 150px;" alt="Poster for Glass Onion: A Knives Out Mystery">](https://www.imdb.com/title/tt11564570/)
 
 ## [The Hateful Eight](https://www.imdb.com/title/tt3460252/)
@@ -3379,7 +3379,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh
 * **Genre:** Crime, Drama, Mystery
 * **Content Rating:** M/16
-* **Review (PT):** tarantino puro duro e cruel 
+* **Review (PT):** Tarantino puro, duro e cruel
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3460252.jpg" style="width: 150px;" alt="Poster for The Hateful Eight">](https://www.imdb.com/title/tt3460252/)
 
 ## [Richard Jewell](https://www.imdb.com/title/tt3513548/)
@@ -3390,7 +3390,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Paul Walter Hauser, Sam Rockwell, Brandon Stanley
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Fiel ao estilo do realizador. Boa historia e bem contada. 
+* **Review (PT):** Fiel ao estilo do realizador. Boa história e bem contada.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3513548.jpg" style="width: 150px;" alt="Poster for Richard Jewell">](https://www.imdb.com/title/tt3513548/)
 
 ## [The Prestige](https://www.imdb.com/title/tt0482571/)
@@ -3401,7 +3401,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Christian Bale, Hugh Jackman, Scarlett Johansson
 * **Genre:** Drama, Mystery, Thriller
 * **Content Rating:** M/12
-* **Review (PT):** grande filme. no tenpo que o Nolan ainda nao estava tao badalado
+* **Review (PT):** Grande filme. No tempo em que o Nolan ainda não estava tão badalado
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0482571.jpg" style="width: 150px;" alt="Poster for The Prestige">](https://www.imdb.com/title/tt0482571/)
 
 ## [The Professor and the Madman](https://www.imdb.com/title/tt5932728/)
@@ -3412,7 +3412,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mel Gibson, Sean Penn, Eddie Marsan
 * **Genre:** Biography, Drama, History
 * **Content Rating:** M/14
-* **Review (PT):** whish list
+* **Review (PT):** Wish list
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt5932728.jpg" style="width: 150px;" alt="Poster for The Professor and the Madman">](https://www.imdb.com/title/tt5932728/)
 
 ## [Shot Caller](https://www.imdb.com/title/tt4633690/)
@@ -3423,7 +3423,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Nikolaj Coster-Waldau, Omari Hardwick, Lake Bell
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** M/16
-* **Review (PT):** whish list
+* **Review (PT):** Wish list
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4633690.jpg" style="width: 150px;" alt="Poster for Shot Caller">](https://www.imdb.com/title/tt4633690/)
 
 ## [House of Sand and Fog](https://www.imdb.com/title/tt0315983/)
@@ -3434,7 +3434,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jennifer Connelly, Ben Kingsley, Ron Eldard
 * **Genre:** Crime, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Fraquinho. desiludiu. Não entendo a pontuação do IMDb 
+* **Review (PT):** Fraquinho. desiludiu. Não entendo a pontuação do IMDb
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0315983.jpg" style="width: 150px;" alt="Poster for House of Sand and Fog">](https://www.imdb.com/title/tt0315983/)
 
 ## [Mustang](https://www.imdb.com/title/tt3966404/)
@@ -3445,7 +3445,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Günes Sensoy, Doga Zeynep Doguslu, Tugba Sunguroglu
 * **Genre:** Drama
 * **Content Rating:** M/14
-* **Review (PT):** whish list
+* **Review (PT):** Wish list
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3966404.jpg" style="width: 150px;" alt="Poster for Mustang">](https://www.imdb.com/title/tt3966404/)
 
 ## [Only the Brave](https://www.imdb.com/title/tt3829920/)
@@ -3456,7 +3456,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Josh Brolin, Miles Teller, Jeff Bridges
 * **Genre:** Action, Biography, Drama
 * **Content Rating:** M/12
-* **Review (PT):** whish list
+* **Review (PT):** Wish list
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3829920.jpg" style="width: 150px;" alt="Poster for Only the Brave">](https://www.imdb.com/title/tt3829920/)
 
 ## [Superbad](https://www.imdb.com/title/tt0829482/)
@@ -3467,7 +3467,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Cera, Jonah Hill, Christopher Mintz-Plasse
 * **Genre:** Comedy
 * **Content Rating:** M/16
-* **Review (PT):** gostei e quero ver outra vez
+* **Review (PT):** Gostei e quero ver outra vez
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0829482.jpg" style="width: 150px;" alt="Poster for Superbad">](https://www.imdb.com/title/tt0829482/)
 
 ## [Mr. Church](https://www.imdb.com/title/tt4196848/)
@@ -3478,7 +3478,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Eddie Murphy, Britt Robertson, Natascha McElhone
 * **Genre:** Comedy, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** whish list
+* **Review (PT):** Wish list
 [<img src="https://m.media-amazon.com/images/M/MV5BMzUyNDA5Njc4NV5BMl5BanBnXkFtZTgwMDI1Nzg4OTE@._V1_.jpg" style="width: 150px;" alt="Poster for Mr. Church">](https://www.imdb.com/title/tt4196848/)
 
 ## [Hunt for the Wilderpeople](https://www.imdb.com/title/tt4698684/)
@@ -3489,7 +3489,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Sam Neill, Julian Dennison, Rima Te Wiata
 * **Genre:** Adventure, Comedy, Drama
 * **Content Rating:** PG-13
-* **Review (PT):** Giro. Mas nada impressionante 
+* **Review (PT):** Giro. Mas nada impressionante
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4698684.jpg" style="width: 150px;" alt="Poster for Hunt for the Wilderpeople">](https://www.imdb.com/title/tt4698684/)
 
 ## [Verdens verste menneske](https://www.imdb.com/title/tt10370710/)
@@ -3500,7 +3500,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Renate Reinsve, Anders Danielsen Lie, Herbert Nordrum
 * **Genre:** Comedy, Drama, Romance
 * **Content Rating:** M/14
-* **Review (PT):** para ver. whish list
+* **Review (PT):** Para ver. Wish list
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt10370710.jpg" style="width: 150px;" alt="Poster for Verdens verste menneske">](https://www.imdb.com/title/tt10370710/)
 
 ## [Crna macka, beli macor](https://www.imdb.com/title/tt0118843/)
@@ -3511,7 +3511,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Bajram Severdzan, Srdjan &apos;Zika&apos; Todorovic, Branka Katic
 * **Genre:** Comedy, Crime, Romance
 * **Content Rating:** M/12
-* **Review (PT):** excelente comedia. Vou tentar rever
+* **Review (PT):** Excelente comédia. Vou tentar rever
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0118843.jpg" style="width: 150px;" alt="Poster for Crna macka, beli macor">](https://www.imdb.com/title/tt0118843/)
 
 ## [Interstellar](https://www.imdb.com/title/tt0816692/)
@@ -3533,7 +3533,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page
 * **Genre:** Action, Adventure, Sci-Fi
 * **Content Rating:** M/12
-* **Review (PT):** gostei mas....
+* **Review (PT):** Gostei, mas....
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1375666.jpg" style="width: 150px;" alt="Poster for Inception">](https://www.imdb.com/title/tt1375666/)
 
 ## [Almost Famous](https://www.imdb.com/title/tt0181875/)
@@ -3544,7 +3544,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Billy Crudup, Patrick Fugit, Kate Hudson
 * **Genre:** Adventure, Comedy, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Drogas e rock'n roll. Mais uma visao da época.
+* **Review (PT):** Drogas e rock'n roll. Mais uma visão da época.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0181875.jpg" style="width: 150px;" alt="Poster for Almost Famous">](https://www.imdb.com/title/tt0181875/)
 
 ## [Capote](https://www.imdb.com/title/tt0379725/)
@@ -3555,7 +3555,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Philip Seymour Hoffman, Clifton Collins Jr., Catherine Keener
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Vi. Grande interpretaço mas pouco mais que isso.
+* **Review (PT):** Vi. Grande interpretação mas pouco mais que isso.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0379725.jpg" style="width: 150px;" alt="Poster for Capote">](https://www.imdb.com/title/tt0379725/)
 
 ## [Moonlight](https://www.imdb.com/title/tt4975722/)
@@ -3588,7 +3588,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Jake Gyllenhaal, Chris Cooper, Laura Dern
 * **Genre:** Biography, Drama, Family
 * **Content Rating:** M/12
-* **Review (PT):** Bom filme. Tem o romantismo do grupo de miúdos ala Stand By Me. Enriquecido por se basear em factos históricos. Vale apena ver em familia.
+* **Review (PT):** Bom filme. Tem o romantismo do grupo de miúdos ala Stand By Me. Enriquecido por se basear em factos históricos. Vale a pena ver em família.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0132477.jpg" style="width: 150px;" alt="Poster for October Sky">](https://www.imdb.com/title/tt0132477/)
 
 ## [Call Me by Your Name](https://www.imdb.com/title/tt5726616/)
@@ -3643,7 +3643,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Leonardo DiCaprio, Matt Damon, Jack Nicholson
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** M/16
-* **Review (PT):** Grandes interpretações. O episódio ao som de Confurtably Numb é desconcertante. 
+* **Review (PT):** Grandes interpretações. O episódio ao som de Confurtably Numb é desconcertante.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0407887.jpg" style="width: 150px;" alt="Poster for The Departed">](https://www.imdb.com/title/tt0407887/)
 
 ## [The Silence of the Lambs](https://www.imdb.com/title/tt0102926/)
@@ -3698,7 +3698,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Mark Ruffalo, Michael Keaton, Rachel McAdams
 * **Genre:** Biography, Crime, Drama
 * **Content Rating:** M/14
-* **Review (PT):** HIstória verídica e grande impacto
+* **Review (PT):** História verídica e grande impacto
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt1895587.jpg" style="width: 150px;" alt="Poster for Spotlight">](https://www.imdb.com/title/tt1895587/)
 
 ## [The Wolf of Wall Street](https://www.imdb.com/title/tt0993846/)
@@ -3720,7 +3720,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Russell Crowe, Ed Harris, Jennifer Connelly
 * **Genre:** Biography, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Histórias verídidas e bem contadas causam-me um bom impacto. Gosto muito.
+* **Review (PT):** Histórias verídicas e bem contadas causam-me um bom impacto. Gosto muito.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0268978.jpg" style="width: 150px;" alt="Poster for A Beautiful Mind">](https://www.imdb.com/title/tt0268978/)
 
 ## [Shutter Island](https://www.imdb.com/title/tt1130884/)
@@ -3775,7 +3775,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole
 * **Genre:** Drama
 * **Content Rating:** M/12
-* **Review (PT):** Brutal. A frieza, o horror, nua e crua de certas realidades. 
+* **Review (PT):** Brutal. A frieza, o horror, nua e crua de certas realidades.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt8267604.jpg" style="width: 150px;" alt="Poster for Capharnaüm">](https://www.imdb.com/title/tt8267604/)
 
 ## [Joker](https://www.imdb.com/title/tt7286456/)
@@ -3786,7 +3786,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Joaquin Phoenix, Robert De Niro, Zazie Beetz
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** M/14
-* **Review (PT):** A interpretaço de Joker sim. Mas a realização também ou melhor até.
+* **Review (PT):** A interpretação de Joker sim. Mas a realização também ou melhor até.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt7286456.jpg" style="width: 150px;" alt="Poster for Joker">](https://www.imdb.com/title/tt7286456/)
 
 ## [Alien](https://www.imdb.com/title/tt0078748/)
@@ -3819,7 +3819,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Russell Crowe, Joaquin Phoenix, Connie Nielsen
 * **Genre:** Action, Adventure, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Mais um épico. Em mim não vislumbrei nada de diferente.
+* **Review (PT):** Mais um épico. Em mim, não vislumbrei nada de diferente.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0172495.jpg" style="width: 150px;" alt="Poster for Gladiator">](https://www.imdb.com/title/tt0172495/)
 
 ## [Sen to Chihiro no kamikakushi](https://www.imdb.com/title/tt0245429/)
@@ -3863,7 +3863,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael Pitt, Louis Garrel, Eva Green
 * **Genre:** Drama, Romance
 * **Content Rating:** M/16
-* **Review (PT):** Dreamers, Summer of Sam (Spike Lee), adoro o ambiente musical, picante, cumplice, destes filmes....
+* **Review (PT):** Dreamers, Summer of Sam (Spike Lee), adoro o ambiente musical, picante, cúmplice, destes filmes....
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0309987.jpg" style="width: 150px;" alt="Poster for The Dreamers">](https://www.imdb.com/title/tt0309987/)
 
 ## [13 Hours](https://www.imdb.com/title/tt4172430/)
@@ -3874,7 +3874,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** John Krasinski, Pablo Schreiber, James Badge Dale
 * **Genre:** Action, Drama, History
 * **Content Rating:** M/16
-* **Review (PT):** Mais um episóeo de soldados americanos encurralados. Desta vez na Líbia.
+* **Review (PT):** Mais um episódio de soldados americanos encurralados. Desta vez na Líbia.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt4172430.jpg" style="width: 150px;" alt="Poster for 13 Hours">](https://www.imdb.com/title/tt4172430/)
 
 ## [In the Name of the Father](https://www.imdb.com/title/tt0107207/)
@@ -3907,7 +3907,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Brie Larson, Jacob Tremblay, Sean Bridgers
 * **Genre:** Drama, Thriller
 * **Content Rating:** M/14
-* **Review (PT):** Conhecia a história que inspiram está ficção. Se a verdadeira já me deixa aterrorizado, está consegue também trazer a sua essência.
+* **Review (PT):** Conhecia a história que inspira esta ficção. Se a verdadeira já me deixa aterrorizado, esta consegue também trazer a sua essência.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt3170832.jpg" style="width: 150px;" alt="Poster for Room">](https://www.imdb.com/title/tt3170832/)
 
 ## [Trainspotting](https://www.imdb.com/title/tt0117951/)
@@ -3918,7 +3918,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Ewan McGregor, Ewen Bremner, Jonny Lee Miller
 * **Genre:** Drama
 * **Content Rating:** M/18
-* **Review (PT):** Tão genuíno. Simples, hilariante e genuíno. 
+* **Review (PT):** Tão genuíno. Simples, hilariante e genuíno.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0117951.jpg" style="width: 150px;" alt="Poster for Trainspotting">](https://www.imdb.com/title/tt0117951/)
 
 ## [Prisoners](https://www.imdb.com/title/tt1392214/)
@@ -3984,7 +3984,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Harvey Keitel, Tim Roth, Michael Madsen
 * **Genre:** Crime, Drama, Thriller
 * **Content Rating:** M/16
-* **Review (PT):** Talvez o mais cru e puro do Tarantino. Poucos cenários e interpretaçes brilhantes.
+* **Review (PT):** Talvez o mais cru e puro do Tarantino. Poucos cenários e interpretações brilhantes.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0105236.jpg" style="width: 150px;" alt="Poster for Reservoir Dogs">](https://www.imdb.com/title/tt0105236/)
 
 ## [Terminator 2: Judgment Day](https://www.imdb.com/title/tt0103064/)
@@ -4028,7 +4028,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Michael J. Fox, Christopher Lloyd, Lea Thompson
 * **Genre:** Adventure, Comedy, Sci-Fi
 * **Content Rating:** M/6
-* **Review (PT):** Querido, romântico e inovador. Junta todos os ingredientes numa só filme.
+* **Review (PT):** Querido, romântico e inovador. Junta todos os ingredientes num só filme.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0088763.jpg" style="width: 150px;" alt="Poster for Back to the Future">](https://www.imdb.com/title/tt0088763/)
 
 ## [Inglourious Basterds](https://www.imdb.com/title/tt0361748/)
@@ -4039,7 +4039,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Brad Pitt, Diane Kruger, Eli Roth
 * **Genre:** Adventure, Drama, War
 * **Content Rating:** M/16
-* **Review (PT):** O filme que para mim revelou Christoph Waltz! Mais uma inovação ao estilo de Tarantino 
+* **Review (PT):** O filme que para mim revelou Christoph Waltz! Mais uma inovação ao estilo de Tarantino
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0361748.jpg" style="width: 150px;" alt="Poster for Inglourious Basterds">](https://www.imdb.com/title/tt0361748/)
 
 ## [The Matrix](https://www.imdb.com/title/tt0133093/)
@@ -4061,7 +4061,7 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Liam Neeson, Ralph Fiennes, Ben Kingsley
 * **Genre:** Biography, Drama, History
 * **Content Rating:** M/12
-* **Review (PT):** Obra prima. Em tom um pouco novelesco. Ainda assim na excelencia.
+* **Review (PT):** Obra prima. Em tom um pouco novelesco. Ainda assim na excelência.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0108052.jpg" style="width: 150px;" alt="Poster for Schindler's List">](https://www.imdb.com/title/tt0108052/)
 
 ## [Snatch](https://www.imdb.com/title/tt0208092/)
@@ -4138,5 +4138,5 @@ header-img: "img/sj-onda.jpg"
 * **Actors:** Christian Bale, Heath Ledger, Aaron Eckhart
 * **Genre:** Action, Crime, Drama
 * **Content Rating:** M/12
-* **Review (PT):** Os milhões também fazem Excelentes filmes! Épico. O melhor dos Batman.
+* **Review (PT):** Os milhões também fazem excelentes filmes! Épico. O melhor dos Batman.
 [<img src="https://raw.githubusercontent.com/unkownauthor/mix/main/tt0468569.jpg" style="width: 150px;" alt="Poster for The Dark Knight">](https://www.imdb.com/title/tt0468569/)
